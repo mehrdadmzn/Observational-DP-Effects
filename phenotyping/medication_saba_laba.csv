@@ -1,0 +1,968 @@
+Medication cateogory,Short name,Code type,Code,Description
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,134498003,Budesonide+eformoterol fumarate 200/6mcg breath-actuated dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,134499006,Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320096005,Salbutamol 4mg m/r tablet
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320099003,Salbutamol 4mg m/r capsule
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320100006,Salbutamol 8mg m/r capsule
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320104002,Salbutamol 4mg tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320106000,Salbutamol 2mg tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320107009,Salbutamol 8mg modified-release tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320108004,Salbutamol 2mg/5mL sugar free syrup
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320116008,Salbutamol 5mg/50ml solution for infusion vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320118009,Salbutamol 500micrograms/1mL injection
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320119001,Salbutamol 5mg/5mL intravenous infusion
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320132006,Salbutamol 200microgram inhalation powder blisters with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320133001,Salbutamol 400microgram inhalation powder blisters with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320134007,Salbutamol 200microgram inhalation powder blisters
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320135008,Salbutamol 400microgram inhalation powder blisters
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320136009,Salbutamol 100micrograms/dose breath actuated inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320139002,Salbutamol 100micrograms CFC-free inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320141001,Salbutamol 200micrograms breath-actuated dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320148007,Salbutamol 95micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320151000,Salbutamol 100micrograms CFC-free breath-actuated aerosol inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320171009,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320176004,Salbutamol 100micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320177008,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320178003,Salbutamol 200microgram inhalation powder capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320179006,Salbutamol 400microgram inhalation powder capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320180009,Salbutamol 5mg/ml nebuliser liquid
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320199000,Terbutaline 2.5mg/5ml solution for injection ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320200002,Terbutaline 10mg/ml nebuliser liquid
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320201003,Terbutaline 500micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320203000,Terbutaline 5mg tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320205007,Terbutaline 500micrograms/1ml solution for injection ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320206008,Terbutaline sulfate 250micrograms inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320208009,Terbutaline 250micrograms/dose inhaler with spacer
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320211005,Terbutaline 7.5mg modified-release tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320212003,Terbutaline 1.5mg/5ml oral solution sugar free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320244004,Salmeterol 25mcg inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320248001,Salmeterol 50microgram inhalation powder blisters with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320249009,Salmeterol 50microgram inhalation powder blisters
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320250009,Salmeterol 50micrograms breath-actuated dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320258002,Bambuterol 10mg tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320259005,Bambuterol 20mg tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320263003,Eformoterol fumarate dihydrate 6micrograms breath-actuated dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320264009,Eformoterol fumarate dihydrate 12micrograms breath-actuated dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320274007,Salmeterol+fluticasone propionate 25micrograms/50micrograms CFC-free inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320275008,Salmeterol+fluticasone propionate 25micrograms/125micrograms CFC-free inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320276009,Salmeterol+fluticasone propionate 25micrograms/250micrograms CFC-free inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320277000,Salmeterol+fluticasone propionate 50micrograms/100micrograms breath- actuated dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320279002,Salmeterol+fluticasone propionate 50micrograms/250micrograms breath-actuated dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320280004,Salmeterol+fluticasone propionate 50micrograms/500micrograms breath-actuated dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320440005,Fenoterol 100micrograms/dose / Ipratropium 40micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320441009,Fenoterol 100micrograms/dose / Ipratropium bromide 40micrograms/dose breath actuated inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320442002,Salbutamol 100micrograms/dose / Ipratropium 20micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320445000,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320543009,Salbutamol 400microgram / Beclometasone 200microgram inhalation powder capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320544003,Salbutamol 200microgram / Beclometasone 100microgram inhalation powder capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320545002,Salbutamol 100micrograms/dose / Beclometasone 50micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320660007,Sodium cromoglicate 1mg/dose / Salbutamol 100micrograms/dose inhaler with spacer
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,320661006,Sodium cromoglicate 1mg/dose / Salbutamol 100micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,349394001,Fenoterol 1.25mg/4ml / Ipratropium 500micrograms/4ml nebuliser liquid unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,7511000001105,Salbutamol 100micrograms/dose inhaler CFC free (Actavis UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,28011000001107,Monovent 1.5mg/5ml syrup (Sandoz Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,45111000001100,Salbutamol 100micrograms/dose inhaler CFC free (Viatris UK Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,52811000001102,Salbutamol 4mg tablets (Alliance Healthcare (Distribution) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,101011000001104,Bricanyl 2.5mg/5ml solution for injection ampoules (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,106511000001103,Salamol 100micrograms/dose inhaler CFC free (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,109751000001104,Fenoterol 1.25mg/4ml / Ipratropium 500micrograms/4ml nebuliser liquid unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,110651000001100,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,111271000001104,Salbutamol 5mg/ml nebuliser liquid
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,111351000001100,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,111431000001100,Salbutamol 4mg tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,111961000001101,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,112121000001102,Salbutamol 400microgram / Beclometasone 200microgram inhalation  powder capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,112651000001104,Salbutamol 200microgram inhalation powder capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,113271000001103,Salbutamol 400microgram inhalation powder capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,113751000001100,Terbutaline 10mg/ml nebuliser liquid
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,161111000001102,Salbutamol 2mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,161811000001109,Salbutamol 2mg tablets (Kent Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,189411000001105,Salbutamol 100micrograms/dose inhaler CFC free (Alliance Healthcare (Distribution) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,194411000001107,Salbutamol 4mg tablets (Accord Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,196411000001104,Volmax 4mg modified-release tablets (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,221511000001100,Salbutamol 2mg/5ml oral solution sugar free (Sandoz Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,222311000001102,Ventolin 100micrograms/dose Evohaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,225511000001102,Terbutaline 1.5mg/5ml oral solution sugar free (Kent Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,248411000001109,Terbutaline 1.5mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,258311000001100,Salbutamol 4mg tablets (Kent Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,262711000001105,Salbutamol 4mg tablets (A A H Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,273911000001107,Salbutamol 4mg tablets (Approved Prescription Services Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,281511000001105,Ventmax SR 8mg capsules (Chiesi Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,287611000001100,Salbutamol 2mg tablets (Approved Prescription Services Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,364811000001103,Bricanyl SA 7.5mg tablets (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,375711000001100,Bambec 10mg tablets (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,408911000001105,Serevent 25micrograms/dose inhaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,453611000001102,Seretide 50 Evohaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,506611000001108,Salbutamol 2mg tablets (Accord Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,539811000001106,Seretide 250 Evohaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,571311000001104,Salbutamol 100micrograms/dose inhaler CFC free (A A H Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,597011000001101,Airomir 100micrograms/dose inhaler (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,626411000001107,Ventmax SR 4mg capsules (Chiesi Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,650211000001107,Salapin 2mg/5ml syrup (Pinewood Healthcare)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,659111000001106,Salbutamol 2mg tablets (A A H Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,691211000001105,Bricanyl 500micrograms/1ml solution for injection ampoules (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,726111000001105,Bricanyl 1.5mg/5ml syrup (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,738811000001100,Bricanyl 5mg tablets (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,757611000001104,Salbutamol 100micrograms/dose inhaler CFC free (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,803911000001107,Salbutamol 2mg/5ml oral solution sugar free (Alliance Healthcare  (Distribution) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,809411000001102,Bambec 20mg tablets (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,810211000001105,Seretide 125 Evohaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,831811000001109,Volmax 8mg modified-release tablets (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,840111000001107,Salbulin 100micrograms/dose inhaler (3M Health Care Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,886111000001103,Ventolin 5mg/5ml solution for infusion ampoules (GlaxoSmithKline UK  Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,892011000001102,Ventolin 2mg/5ml syrup (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,896511000001106,Salbutamol 2mg/5ml oral solution sugar free (Kent Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,921311000001107,Salbutamol 2mg tablets (Alliance Healthcare (Distribution) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,2831711000001102,Bricanyl 10mg/ml respirator solution (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,2923111000001107,Duovent inhaler (Boehringer Ingelheim Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,2964011000001104,Duovent Autohaler (Boehringer Ingelheim Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3080411000001101,Ventodisks 200microgram with Diskhaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3082411000001100,Serevent 50microgram disks (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3083011000001100,Ventodisks 400microgram with Diskhaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3084011000001103,Serevent 50microgram disks with Diskhaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3086111000001109,Ventodisks 200microgram (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3089011000001102,Ventodisks 400microgram (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3186011000001104,Asmasal 95micrograms/dose Clickhaler (Focus Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3186911000001100,Seretide 100 Accuhaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3187211000001106,Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3188311000001102,Seretide 500 Accuhaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3200511000001109,Ventide Paediatric Rotacaps (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3202211000001107,Ventide Rotacaps (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3206811000001109,Foradil 12microgram inhalation powder capsules with device (Novartis  Pharmaceuticals UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3214211000001100,Ventolin 200microgram Rotacaps (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3214311000001108,Airomir 100micrograms/dose Autohaler (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3214611000001103,Salbutamol 200 Cyclocaps (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3215311000001107,Salamol 100micrograms/dose Easi-Breathe inhaler (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3217611000001109,Salbutamol 400 Cyclocaps (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3218011000001101,Ventolin 400microgram Rotacaps (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3218311000001103,Bricanyl 500micrograms/dose Turbohaler (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3235011000001104,Aerocrom inhaler (Castlemead Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3243511000001107,Oxis 6 Turbohaler (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3245011000001103,Oxis 12 Turbohaler (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3248011000001106,Bricanyl 250micrograms/dose inhaler (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3248711000001108,Bricanyl 250micrograms/dose spacer inhaler (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3292811000001106,Ventide inhaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3293111000001105,Aerolin 100micrograms/dose Autohaler (3M Health Care Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3294211000001101,Symbicort 100/6 Turbohaler (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3294611000001104,Symbicort 200/6 Turbohaler (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3348611000001107,Combivent inhaler (Boehringer Ingelheim Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3379611000001104,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (A A H  Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3380111000001107,Serevent 50micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3380811000001100,Maxivent 5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Ashbourne  Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3381111000001101,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Viatris UK  Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3381811000001108,Ventolin 5mg Nebules (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3382711000001107,Ventolin 200micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3383511000001109,Salamol 5mg/2.5ml nebuliser liquid Steri-Neb unit dose vials (Teva UK  Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3384111000001103,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler (Chiesi Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3385711000001103,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (A A H  Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3386411000001100,Maxivent 2.5mg/2.5ml nebuliser liquid unit dose Steripoule vials  (Ashbourne Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3386811000001103,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Viatris UK  Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3387011000001107,Ventolin 2.5mg Nebules (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3387511000001104,Salamol 2.5mg/2.5ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3406011000001104,Combivent nebuliser liquid 2.5ml UDVs (Boehringer Ingelheim Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3408611000001107,Salbutamol 100micrograms/dose inhaler (A A H Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3410611000001106,Salbutamol 100micrograms/dose inhaler (Viatris UK Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3412611000001107,Salbutamol 100micrograms/dose inhaler (Kent Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3415711000001107,Salbutamol 100micrograms/dose inhaler (Sandoz Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3417111000001102,Salbutamol 100micrograms/dose inhaler (Alliance Healthcare (Distribution) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3633911000001104,Bricanyl 5mg/2ml Respules (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3654411000001106,Terbutaline 5mg/2ml nebuliser liquid unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,3926911000001108,Ventolin 500micrograms/1ml solution for injection ampoules (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,4179611000001107,Aerocrom Syncroner with spacer (Castlemead Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,4192411000001109,Duovent UDVs nebuliser liquid 4ml (Boehringer Ingelheim Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,4373811000001100,Symbicort 400/12 Turbohaler (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,4378111000001103,Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,4537611000001107,Berotec 200micrograms/dose inhaler (Boehringer Ingelheim Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,4558411000001107,Fenoterol 200micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,4843911000001107,Ventolin 5mg/ml respirator solution (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,4889111000001103,Salbutamol 5mg/50ml solution for infusion vials (Martindale Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5257611000001105,Bricanyl 250micrograms/dose inhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5257911000001104,Bricanyl 500micrograms/dose Turbohaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5259111000001108,Combivent inhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5271811000001100,Oxis 12 Turbohaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5272211000001108,Oxis 6 Turbohaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5275011000001108,Salmeterol 25micrograms/dose inhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5275311000001106,Serevent 25micrograms/dose inhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5275611000001101,Seretide 100 Accuhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5276011000001104,Seretide 250 Accuhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5276211000001109,Seretide 500 Accuhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5276511000001107,Serevent 50micrograms/dose Accuhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5276811000001105,Seretide 250 Evohaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5277211000001106,Symbicort 200/6 Turbohaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5277411000001105,Terbutaline 250micrograms/dose inhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5277911000001102,Ventolin 100micrograms/dose Evohaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5278711000001103,Ventide inhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5284911000001104,Bricanyl 250micrograms/dose inhaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5285911000001100,Bricanyl 500micrograms/dose Turbohaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5287111000001107,Combivent inhaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5287711000001108,Combivent nebuliser liquid 2.5ml UDVs (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5307111000001103,Oxis 12 Turbohaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5307711000001102,Oxis 6 Turbohaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5315611000001101,Salmeterol 25micrograms/dose inhaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5317111000001100,Seretide 100 Accuhaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5317311000001103,Seretide 250 Accuhaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5317511000001109,Seretide 500 Accuhaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5320411000001102,Serevent 25micrograms/dose inhaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5320611000001104,Serevent 50micrograms/dose Accuhaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5321011000001102,Symbicort 200/6 Turbohaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5321111000001101,Serevent 50microgram disks with Diskhaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5321611000001109,Serevent 50microgram disks (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5322811000001104,Terbutaline 250micrograms/dose inhaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5323111000001100,Terbutaline 500micrograms/dose Turbohaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5323811000001107,Salmeterol 50microgram Diskhaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5324211000001109,Ventide inhaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5324411000001108,Ventolin 200micrograms/dose Accuhaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5324811000001105,Ventolin 200microgram Rotacaps (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5411211000001107,Salbutamol 8mg modified-release tablets (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5420011000001102,Salbutamol 4mg modified-release tablets (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5443411000001101,Volmax 4mg modified-release tablets (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5443711000001107,Volmax 8mg modified-release tablets (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5583011000001107,Ventolin 400microgram Rotacaps (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,5594511000001100,Ventolin 100micrograms/dose Evohaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,9040011000001103,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Galen Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,9040211000001108,Salbutamol 5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Galen Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,9102311000001103,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,9102511000001109,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,9111011000001106,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Galen Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,9204911000001109,Easyhaler Salbutamol sulfate 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,9205211000001104,Easyhaler Salbutamol sulfate 100micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,9207411000001106,Salbutamol 100micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,9239411000001108,Terbutaline 1.5mg/5ml oral solution sugar free (A A H PharmaceuticalsLtd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,9628711000001106,Atimos Modulite 12micrograms/dose inhaler (Chiesi Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,9652711000001107,Formoterol 12micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,10073011000001107,Serevent 25micrograms/dose Evohaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,10075611000001101,Salmeterol 25micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,10432311000001108,Salbutamol 100micrograms/dose inhaler (Arrow Generics Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,10453811000001108,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Arrow Generics Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,10454011000001100,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Arrow Generics Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,10472811000001102,Seretide 250 Evohaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,10473211000001109,Seretide 125 Evohaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,10474211000001107,Salbutamol 4mg modified-release tablets (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,10474711000001100,Salbutamol 8mg modified-release tablets (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,10493811000001104,Ventolin 200micrograms/dose Accuhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,10506611000001103,Symbicort 400/12 Turbohaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,10512011000001109,Seretide 125 Evohaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,10776911000001102,Combivent nebuliser liquid 2.5ml UDVs (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,10847711000001102,Serevent 25micrograms/dose Evohaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,10927511000001104,Ipramol nebuliser solution 2.5ml Steri-Neb unit dose vials (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,10983311000001107,Symbicort 100/6 Turbohaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,11006511000001106,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Accord Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,11006711000001101,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Accord Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,11150411000001106,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Accord Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,11176411000001106,Formoterol Easyhaler 12micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,11256611000001108,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,12062211000001109,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,12626211000001108,Formoterol 12microgram inhalation powder capsules with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,12880611000001109,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Kent Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,12880811000001108,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Kent Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,12906411000001100,Fostair 100micrograms/dose / 6micrograms/dose inhaler (Chiesi Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,12911011000001100,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13132801000001101,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13159001000001101,Salbutamol 4mg modified-release tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13159101000001100,Salbutamol 4mg modified-release capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13159201000001107,Salbutamol 8mg modified-release capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13159401000001106,Salbutamol 2mg/5ml oral solution sugar free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13159601000001109,Salbutamol 500micrograms/1ml solution for injection ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13159701000001104,Salbutamol 5mg/5ml solution for infusion ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13159801000001108,Salbutamol 200microgram inhalation powder blisters with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13159901000001102,Salbutamol 400microgram inhalation powder blisters with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13160001000001100,Salbutamol 200microgram inhalation powder blisters
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13160101000001104,Salbutamol 400microgram inhalation powder blisters
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13160301000001102,Salbutamol 100micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13160401000001105,Salbutamol 200micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13160601000001108,Salbutamol 100micrograms/dose breath actuated inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13160701000001103,Salbutamol 100micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13161101000001106,Terbutaline 250micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13161201000001104,Terbutaline 250micrograms/dose inhaler with spacer
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13161501000001101,Salmeterol 25micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13161601000001102,Salmeterol 50microgram inhalation powder blisters with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13161701000001107,Salmeterol 50microgram inhalation powder blisters
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13161801000001103,Salmeterol 50micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13161901000001109,Formoterol 6micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13162001000001101,Formoterol 12micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13162101000001100,Fluticasone 50micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13162201000001107,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13162301000001103,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13162401000001106,Fluticasone propionate 100micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13162501000001105,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13162601000001109,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13164501000001104,Fenoterol 100micrograms/dose / Ipratropium 40micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13164601000001100,Fenoterol 100micrograms/dose / Ipratropium bromide 40micrograms/dosebreath actuated inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13164701000001105,Salbutamol 100micrograms/dose / Ipratropium 20micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13166001000001102,Salbutamol 100micrograms/dose / Beclometasone 50micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13168701000001101,Sodium cromoglicate 1mg/dose / Salbutamol 100micrograms/dose inhaler with spacer
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13168801000001105,Sodium cromoglicate 1mg/dose / Salbutamol 100micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13203711000001107,Serevent 25micrograms/dose Evohaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13206411000001106,Symbicort 100/6 Turbohaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13206611000001109,Symbicort 400/12 Turbohaler (Dowelhurst Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13533511000001104,Salbulin Novolizer 100micrograms/dose inhalation powder (Viatris UK Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13533711000001109,Salbulin Novolizer 100micrograms/dose inhalation powder refill (Viatris UK Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13566111000001109,Salbutamol 100micrograms/dose dry powder inhalation cartridge
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13566211000001103,Salbutamol 100micrograms/dose dry powder inhalation cartridge with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13626311000001105,Salbutamol 2mg/5ml oral solution sugar free (Pinewood Healthcare)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13837711000001100,Bricanyl 500micrograms/dose Turbohaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13943811000001108,Oxis 6 Turbohaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13944011000001100,Oxis 12 Turbohaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13958011000001106,Symbicort 100/6 Turbohaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13958611000001104,Symbicort 200/6 Turbohaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13959211000001106,Symbicort 400/12 Turbohaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13967411000001108,Ventolin 200micrograms/dose Accuhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13968911000001104,Ventolin 100micrograms/dose Evohaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13991111000001107,Terbutaline 500micrograms/dose Turbohaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13997111000001100,Seretide 100 Accuhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13997511000001109,Seretide 250 Accuhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13997811000001107,Serevent 50micrograms/dose Accuhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13998111000001104,Seretide 125 Evohaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,13998411000001109,Seretide 250 Evohaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14207711000001100,Bambec 10mg tablets (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14208011000001101,Bambec 20mg tablets (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14214011000001107,Duovent UDVs nebuliser liquid 4ml (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14239811000001105,Foradil 12microgram inhalation powder capsules with device (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14620511000001104,Symbicort 100/6 Turbohaler (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14620711000001109,Symbicort 200/6 Turbohaler (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14621111000001102,Symbicort 400/12 Turbohaler (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14662411000001107,Bricanyl 500micrograms/dose Turbohaler (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14674111000001100,Seretide 100 Accuhaler (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14674711000001104,Seretide 250 Accuhaler (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14705211000001107,Seretide 500 Accuhaler (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14705411000001106,Seretide 125 Evohaler (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14705611000001109,Oxis 12 Turbohaler (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14705811000001108,Seretide 250 Evohaler (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14706011000001106,Serevent 50micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14706211000001101,Serevent 25micrograms/dose Evohaler (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14706311000001109,Oxis 6 Turbohaler (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14750911000001104,Ventolin 200micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,14759211000001101,Volmax 8mg modified-release tablets (Sigma Pharmaceuticals Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,15522411000001103,Salipraneb 0.5mg/2.5mg nebuliser solution 2.5ml ampoules (Arrow Generics Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,15534911000001100,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,16219211000001106,Oxis 6 Turbohaler (Lexon (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,16219411000001105,Oxis 12 Turbohaler (Lexon (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,16240811000001109,Seretide 100 Accuhaler (Lexon (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,16241011000001107,Seretide 250 Accuhaler (Lexon (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,16241111000001108,Seretide 500 Accuhaler (Lexon (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,16241311000001105,Seretide 125 Evohaler (Lexon (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,16241511000001104,Seretide 250 Evohaler (Lexon (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,16241711000001109,Serevent 25micrograms/dose Evohaler (Lexon (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,16241911000001106,Serevent 50micrograms/dose Accuhaler (Lexon (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,16545911000001103,Foradil 12microgram inhalation powder capsules with device (Stephar (U.K.) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,16581611000001101,Foradil 12microgram inhalation powder capsules with device (Mawdsley Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,16585911000001109,Oxis 12 Turbohaler (Stephar (U.K.) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,16587911000001104,Seretide 100 Accuhaler (Stephar (U.K.) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,16588111000001101,Seretide 250 Evohaler (Stephar (U.K.) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,16728511000001101,Seretide 50 Evohaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,16733611000001107,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid ampoules (A A H Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17026511000001100,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17026711000001105,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17299911000001102,Onbrez Breezhaler 300microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17300811000001109,Onbrez Breezhaler 150microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17313711000001107,Indacaterol 150microgram inhalation powder capsules with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17313811000001104,Indacaterol 300microgram inhalation powder capsules with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17344411000001108,Oxis 6 Turbohaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17344611000001106,Oxis 12 Turbohaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17438511000001108,Salamol 100micrograms/dose Easi-Breathe inhaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17440111000001102,Seretide 100 Accuhaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17440311000001100,Seretide 250 Accuhaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17440511000001106,Seretide 500 Accuhaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17440711000001101,Seretide 125 Evohaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17440911000001104,Seretide 250 Evohaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17441111000001108,Serevent 50micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17441311000001105,Serevent 25micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17457311000001102,Symbicort 100/6 Turbohaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17457611000001107,Symbicort 200/6 Turbohaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17457811000001106,Symbicort 400/12 Turbohaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17470911000001100,Ventolin 200micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17471111000001109,Ventolin 100micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17471311000001106,Ventolin 5mg Nebules (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17471511000001100,Ventolin 2.5mg Nebules (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17495111000001101,Bambec 10mg tablets (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17602911000001107,Bricanyl 500micrograms/dose Turbohaler (Necessity Supplies Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17616311000001108,Oxis 6 Turbohaler (Necessity Supplies Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17616911000001109,Oxis 12 Turbohaler (Necessity Supplies Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17661711000001102,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Arrow Generics Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17927011000001101,Salbutamol 100micrograms/dose inhaler CFC free (Phoenix Healthcare Distribution Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17927211000001106,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,17927411000001105,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18041311000001106,Salbutamol 100micrograms/dose inhaler CFC free (Sandoz Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18058411000001109,Foradil 12microgram inhalation powder capsules with device (Lexon (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18080711000001105,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Fannin (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18080911000001107,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Fannin (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18148111000001107,Asmavent 100micrograms/dose inhaler CFC free (Kent Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18185011000001106,Seretide 100 Accuhaler (Necessity Supplies Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18185211000001101,Seretide 250 Accuhaler (Necessity Supplies Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18185411000001102,Seretide 500 Accuhaler (Necessity Supplies Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18185611000001104,Seretide 125 Evohaler (Necessity Supplies Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18185811000001100,Seretide 250 Evohaler (Necessity Supplies Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18186011000001102,Serevent 50micrograms/dose Accuhaler (Necessity Supplies Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18186311000001104,Serevent 25micrograms/dose Evohaler (Necessity Supplies Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18195111000001106,Symbicort 100/6 Turbohaler (Necessity Supplies Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18195311000001108,Symbicort 200/6 Turbohaler (Necessity Supplies Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18195511000001102,Symbicort 400/12 Turbohaler (Necessity Supplies Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18220811000001104,Combivent nebuliser liquid 2.5ml UDVs (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18488911000001103,Onbrez Breezhaler 150microgram inhalation powder capsules with device (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18489111000001108,Onbrez Breezhaler 300microgram inhalation powder capsules with device (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18610611000001106,Salamol 100micrograms/dose Easi-Breathe inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18611411000001104,Seretide 500 Accuhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,18611611000001101,Serevent 25micrograms/dose Evohaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,19541511000001101,Combivent nebuliser liquid 2.5ml UDVs (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,19562111000001107,Neovent 25micrograms/dose inhaler CFC free (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,19568411000001100,Neovent 25micrograms/dose inhaler CFC free (Kent Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,19869411000001109,Combivent nebuliser liquid 2.5ml UDVs (Lexon (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,20031011000001108,Ventolin 200micrograms/dose Accuhaler (Lexon (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,20434411000001107,Salamol 100micrograms/dose inhaler CFC free (Arrow Generics Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,20638911000001108,Salmeterol 25micrograms/dose inhaler CFC free (A A H Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,21019411000001101,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (Napp Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,21019711000001107,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Napp Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,21020611000001104,Flutiform 50micrograms/dose / 5micrograms/dose inhaler (Napp Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,21113711000001102,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,21113811000001105,Fluticasone 250micrograms/dose / Formoterol 10micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,21113911000001100,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,21787311000001103,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,21866011000001104,Foradil 12microgram inhalation powder capsules with device (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,21895011000001105,Salbutamol 100micrograms/dose inhaler CFC free (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,21895211000001100,Salbutamol 2mg tablets (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,21895411000001101,Salbutamol 4mg tablets (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,22354211000001108,Salbutamol 100micrograms/dose inhaler CFC free (AM Distributions (Yorkshire) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,22355111000001103,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (AM Distributions (Yorkshire) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,22503111000001109,AirSalb 100micrograms/dose inhaler CFC free (Sandoz Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,22650111000001100,Vertine 25micrograms/dose inhaler CFC free (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,23433411000001108,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid unit dose vials (J M McGill Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,23621711000001102,Relvar Ellipta 184micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,23622011000001107,Relvar Ellipta 92micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,23661311000001105,Fluticasone furoate 184micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,23661411000001103,Fluticasone furoate 92micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,23961011000001108,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid unit dose vials (Niche Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,24608011000001103,Striverdi Respimat 2.5micrograms/dose inhalation solution cartridge with device (Boehringer Ingelheim Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,24644611000001108,Anoro Ellipta 55micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,24645511000001105,Umeclidinium bromide 65micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,24670111000001108,Olodaterol 2.5micrograms/dose solution for inhalation cartridge with device CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,25254111000001105,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,25254711000001106,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,26112111000001106,Fostair NEXThaler 100micrograms/dose / 6micrograms/dose dry powder inhaler (Chiesi Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,26148711000001101,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,28007211000001102,Ultibro Breezhaler 85microgram/43microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,28049611000001104,Indacaterol 85micrograms/dose / Glycopyrronium bromide 54micrograms/dose inhalation powder capsules with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,28194211000001100,Terbutaline 7.5mg/15ml solution for infusion pre-filled syringes (Special Order)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,28279711000001100,Terbutaline 7.5mg/15ml solution for infusion pre-filled syringes
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,28357211000001106,Duaklir 340micrograms/dose / 12micrograms/dose Genuair (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,28365011000001100,Aclidinium bromide 396micrograms/dose / Formoterol 11.8micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,28410811000001107,Berodual N inhaler (Imported (Germany))
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,28422511000001101,Fenoterol 50micrograms/dose / Ipratropium bromide 20micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,29211411000001103,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid unit dose vials (Ennogen Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,29749211000001101,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,29749411000001102,Flutiform 50micrograms/dose / 5micrograms/dose inhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,29749611000001104,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,29782111000001107,Sirdupla 25micrograms/dose / 125micrograms/dose inhaler (Viatris UK Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,29782511000001103,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler (Viatris UK Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,29971311000001100,Spiolto Respimat 2.5micrograms/dose / 2.5micrograms/dose inhalation solution cartridge with device (Boehringer Ingelheim Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,29980011000001104,Bricanyl 500micrograms/dose Turbohaler (Lexon (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,29987211000001108,Tiotropium bromide 2.5micrograms/dose / Olodaterol 2.5micrograms/dose solution for inhalation cartridge with device CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,30041511000001100,Atimos Modulite 12micrograms/dose inhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,30094711000001100,Salbutamol 100micrograms/dose inhaler CFC free (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,30094911000001103,Salbutamol 2mg tablets (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,30095111000001102,Salbutamol 4mg tablets (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,30095311000001100,Salmeterol 25micrograms/dose inhaler CFC free (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,30253911000001100,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,30273011000001101,Relvar Ellipta 184micrograms/dose / 22micrograms/dose dry powder inhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,30273211000001106,Relvar Ellipta 92micrograms/dose / 22micrograms/dose dry powder inhaler (Waymade Healthcare Plc)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,30891711000001102,Salbutamol 100micrograms/dose inhaler CFC free (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,30891911000001100,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,30892111000001108,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,30924211000001107,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,30950311000001106,AirFluSal Forspiro 50micrograms/dose / 500micrograms/dose dry powder inhaler (Sandoz Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,31063111000001106,Fostair NEXThaler 200micrograms/dose / 6micrograms/dose dry powder inhaler (Chiesi Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,31063411000001101,Fostair 200micrograms/dose / 6micrograms/dose inhaler (Chiesi Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,31064411000001103,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free (A A H Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,31064611000001100,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free (A A H Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,31064811000001101,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler (A A H Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,31087411000001106,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,31087511000001105,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,31457011000001100,Fluticasone furoate 184micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler (J M McGill Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,31457411000001109,Fluticasone furoate 92micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler (J M McGill Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,32333511000001106,Fluticasone furoate 184micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler (Colorama Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,32333911000001104,Fluticasone furoate 92micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler (Colorama Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,32364511000001104,Umeclidinium bromide 65micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler (Ennogen Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,32480911000001107,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid unit dose vials (Colorama Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,32629811000001101,Umeclidinium bromide 65micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler (J M McGill Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,32633011000001106,Aclidinium bromide 396micrograms/dose / Formoterol 11.8micrograms/dose dry powder inhaler (Colorama Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,32684611000001106,Fluticasone furoate 184micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,32684911000001100,Fluticasone furoate 92micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,32898611000001109,Salipraneb 0.5mg/2.5mg nebuliser solution 2.5ml ampoules (Actavis UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,32926011000001100,Symbicort 200micrograms/dose / 6micrograms/dose pressurised inhaler (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,32960711000001105,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,33561211000001109,Soltel 25micrograms/dose inhaler CFC free (Cipla EU Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,33679711000001103,Aerivio Spiromax 50micrograms/dose / 500micrograms/dose dry powder inhaler (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,34023611000001101,Sereflo 25micrograms/dose / 125micrograms/dose inhaler (Cipla EU Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,34023811000001102,Sereflo 25micrograms/dose / 250micrograms/dose inhaler (Cipla EU Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,34215311000001107,AirFluSal 25micrograms/dose / 125micrograms/dose inhaler (Sandoz Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,34215511000001101,AirFluSal 25micrograms/dose / 250micrograms/dose inhaler (Sandoz Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,34675711000001103,Aloflute 25micrograms/dose / 250micrograms/dose inhaler (Viatris UK Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,34677011000001107,Aloflute 25micrograms/dose / 125micrograms/dose inhaler (Viatris UK Healthcare Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,34681611000001100,Trimbow 87micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler (Chiesi Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,34683311000001106,Generic Trimbow 87micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,34812111000001106,Fobumix Easyhaler 320micrograms/dose / 9micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,34950311000001108,Fobumix Easyhaler 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,34950611000001103,Fobumix Easyhaler 80micrograms/dose / 4.5micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,34952211000001104,Trelegy Ellipta 92micrograms/dose / 55micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,34955111000001103,Generic Trelegy Ellipta 92micrograms/dose / 55micrograms/dose / 22micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35369511000001103,Salbutamol 200microgram / Beclometasone 100microgram inhalation powder capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35515311000001106,Fusacomb Easyhaler 50micrograms/dose / 500micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35515511000001100,Fusacomb Easyhaler 50micrograms/dose / 250micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35594011000001105,Combisal 25micrograms/dose / 50micrograms/dose inhaler (Aspire Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35594211000001100,Combisal 25micrograms/dose / 125micrograms/dose inhaler (Aspire Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35594411000001101,Combisal 25micrograms/dose / 250micrograms/dose inhaler (Aspire Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35647311000001101,Flutiform K-haler 125micrograms/dose / 5micrograms/dose breath actuated inhaler (Napp Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35647511000001107,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose breath actuated inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35647611000001106,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose breath actuated inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35650811000001109,Flutiform K-haler 50micrograms/dose / 5micrograms/dose breath actuated inhaler (Napp Pharmaceuticals Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35912011000001109,Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35915911000001100,Terbutaline 1.5mg/5ml oral solution sugar free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35916011000001108,Terbutaline 2.5mg/5ml solution for injection ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35916111000001109,Terbutaline 250micrograms/dose inhaler with spacer
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35916211000001103,Terbutaline 500micrograms/1ml solution for injection ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35916311000001106,Terbutaline 500micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35916411000001104,Terbutaline 7.5mg modified-release tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35926311000001100,Sodium cromoglicate 1mg/dose / Salbutamol 100micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35926411000001107,Sodium cromoglicate 1mg/dose / Salbutamol 100micrograms/dose inhaler with spacer
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35936211000001105,Salbutamol 100micrograms/dose / Beclometasone 50micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35936311000001102,Salbutamol 100micrograms/dose / Ipratropium 20micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35936411000001109,Salbutamol 100micrograms/dose breath actuated inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35936511000001108,Salbutamol 100micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35936611000001107,Salbutamol 200microgram inhalation powder blisters
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35936711000001103,Salbutamol 200microgram inhalation powder blisters with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35936811000001106,Salbutamol 400microgram inhalation powder blisters
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35936911000001101,Salbutamol 400microgram inhalation powder blisters with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35937011000001102,Salbutamol 5mg/50ml solution for infusion vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35937111000001101,Salbutamol 8mg modified-release tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35937211000001107,Salbutamol 95micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35937811000001108,Salmeterol 50microgram inhalation powder blisters with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,35938011000001101,Salmeterol 50microgram inhalation powder blisters
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,36066611000001106,Fenoterol 100micrograms/dose / Ipratropium 40micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,36066711000001102,Fenoterol 100micrograms/dose / Ipratropium bromide 40micrograms/dose breath actuated inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,36604711000001102,Stalpex 50micrograms/dose / 500micrograms/dose dry powder inhaler (Glenmark Pharmaceuticals Europe Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,36889311000001107,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Pharmaram Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,36889511000001101,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (Pharmaram Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,36895211000001101,Serevent 50micrograms/dose Accuhaler (Originalis B.V.)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37350511000001103,Bricanyl 500micrograms/dose Turbohaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37364411000001100,Combivent nebuliser liquid 2.5ml UDVs (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37391711000001105,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37395311000001108,Salamol 100micrograms/dose Easi-Breathe inhaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37397211000001108,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37397411000001107,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37415511000001109,Serevent 50micrograms/dose Accuhaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37434411000001103,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37434611000001100,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37443211000001101,Seretide 250 Accuhaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37443411000001102,Seretide 500 Accuhaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37443611000001104,Seretide 250 Evohaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37443811000001100,Oxis 6 Turbohaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37444011000001108,Seretide 125 Evohaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37444211000001103,Symbicort 400/12 Turbohaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37448711000001102,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37484711000001101,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Mawdsley- Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37484911000001104,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (Mawdsley- Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37526111000001109,Onbrez Breezhaler 150microgram inhalation powder capsules with device (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37526611000001101,Onbrez Breezhaler 300microgram inhalation powder capsules with device (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37532911000001106,Relvar Ellipta 184micrograms/dose / 22micrograms/dose dry powder inhaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37533111000001102,Relvar Ellipta 92micrograms/dose / 22micrograms/dose dry powder inhaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37540311000001105,Yanimo Respimat 2.5micrograms/dose / 2.5micrograms/dose inhalation solution cartridge with device (Boehringer Ingelheim Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37549211000001109,Onbrez Breezhaler 150microgram inhalation powder capsules with device (Mawdsley-Brooks & Company Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37574711000001102,Foradil 12microgram inhalation powder capsules with device (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37575111000001104,Oxis 12 Turbohaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37576711000001106,Bricanyl 500micrograms/dose Turbohaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37625611000001100,Combivent nebuliser liquid 2.5ml UDVs (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37631511000001104,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Ethigen Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37631711000001109,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (Ethigen Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37665111000001104,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37665311000001102,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37678011000001103,Spiolto Respimat 2.5micrograms/dose / 2.5micrograms/dose inhalation solution refill cartridge (Boehringer Ingelheim Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37678311000001100,Striverdi Respimat 2.5micrograms/dose inhalation solution refill cartridge (Boehringer Ingelheim Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37692311000001106,Olodaterol 2.5micrograms/dose inhalation solution cartridge CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37692511000001100,Tiotropium bromide 2.5micrograms/dose / Olodaterol 2.5micrograms/dose inhalation solution cartridge CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37700511000001108,Relvar Ellipta 184micrograms/dose / 22micrograms/dose dry powder inhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37700711000001103,Relvar Ellipta 92micrograms/dose / 22micrograms/dose dry powder inhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37701911000001108,Salamol 100micrograms/dose Easi-Breathe inhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37702211000001106,Seretide 250 Accuhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37702411000001105,Seretide 250 Evohaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37702611000001108,Seretide 500 Accuhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37702811000001107,Serevent 50micrograms/dose Accuhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37714411000001100,AirFluSal Forspiro 50micrograms/dose / 500micrograms/dose dry powder inhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37714611000001102,AirFluSal 25micrograms/dose / 125micrograms/dose inhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37714811000001103,AirFluSal 25micrograms/dose / 250micrograms/dose inhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37715611000001101,Atimos Modulite 12micrograms/dose inhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37729411000001107,Sereflo 25micrograms/dose / 250micrograms/dose inhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37739011000001101,Symbicort 200/6 Turbohaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37979411000001103,Anoro Ellipta 55micrograms/dose / 22micrograms/dose dry powder inhaler (Pharmaram Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37994011000001101,Relvar Ellipta 184micrograms/dose / 22micrograms/dose dry powder inhaler (Pharmaram Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37994211000001106,Relvar Ellipta 92micrograms/dose / 22micrograms/dose dry powder inhaler (Pharmaram Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37996511000001103,Seretide 125 Evohaler (Pharmaram Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37996711000001108,Seretide 250 Evohaler (Pharmaram Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37997311000001107,Symbicort 100/6 Turbohaler (Pharmaram Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37997511000001101,Symbicort 200/6 Turbohaler (Pharmaram Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,37997711000001106,Symbicort 400/12 Turbohaler (Pharmaram Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38130011000001108,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38130211000001103,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38131211000001109,Easyhaler Salbutamol sulfate 100micrograms/dose dry powder inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38131411000001108,Easyhaler Salbutamol sulfate 200micrograms/dose dry powder inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38134511000001109,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38134711000001104,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38134911000001102,Flutiform 50micrograms/dose / 5micrograms/dose inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38135111000001101,Flutiform K-haler 125micrograms/dose / 5micrograms/dose breath actuated inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38135311000001104,Flutiform K-haler 50micrograms/dose / 5micrograms/dose breath actuated inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38136011000001106,Fostair NEXThaler 100micrograms/dose / 6micrograms/dose dry powder inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38157111000001106,Onbrez Breezhaler 150microgram inhalation powder capsules with device (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38157311000001108,Onbrez Breezhaler 300microgram inhalation powder capsules with device (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38165311000001109,Relvar Ellipta 92micrograms/dose / 22micrograms/dose dry powder inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38165511000001103,Relvar Ellipta 184micrograms/dose / 22micrograms/dose dry powder inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38166911000001103,Sirdupla 25micrograms/dose / 125micrograms/dose inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38167111000001103,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38172811000001104,Ventolin 5mg Nebules (DE Pharmaceuticals)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38188711000001104,Terbutaline 10mg/23ml solution for infusion pre-filled syringes (Special Order)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38189211000001101,Terbutaline 12mg/24ml solution for infusion pre-filled syringes (Special Order)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38189511000001103,Terbutaline 3mg/12ml solution for infusion pre-filled syringes (Special Order)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38189911000001105,Terbutaline 6mg/23ml solution for infusion pre-filled syringes (Special Order)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38191511000001103,Terbutaline 8mg/23ml solution for infusion pre-filled syringes (Special Order)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38191811000001100,Terbutaline 9mg/23ml solution for infusion pre-filled syringes (SpecialOrder)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38196411000001108,Terbutaline 10mg/23ml solution for infusion pre-filled syringes
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38196511000001107,Terbutaline 12mg/24ml solution for infusion pre-filled syringes
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38196611000001106,Terbutaline 3mg/12ml solution for infusion pre-filled syringes
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38196711000001102,Terbutaline 6mg/23ml solution for infusion pre-filled syringes
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38196811000001105,Terbutaline 8mg/23ml solution for infusion pre-filled syringes
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38196911000001100,Terbutaline 9mg/23ml solution for infusion pre-filled syringes
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38617811000001107,Combiprasal 0.5mg/2.5mg nebuliser solution 2.5ml unit dose vials (TriOn Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38640111000001109,Sirdupla 25micrograms/dose / 125micrograms/dose inhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38640311000001106,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38895911000001101,Salbutamol 500micrograms/1ml solution for injection ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38896811000001103,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38897411000001103,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38897511000001104,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,38897611000001100,Fluticasone propionate 100micrograms/dose / Salmeterol50micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39025011000001108,Salbutamol 4mg modified-release tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39025111000001109,Salbutamol 8mg modified-release capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39025211000001103,Salbutamol 4mg modified-release capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39025311000001106,Salbutamol 5mg/5ml solution for infusion ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39089311000001103,Flutiform K-haler 125micrograms/dose / 5micrograms/dose breath actuated inhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39105811000001102,Symbicort 100micrograms/dose / 3micrograms/dose pressurised inhaler (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39109411000001101,Salbutamol 2mg/5ml oral solution sugar free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39110811000001105,Salmeterol 25micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39111011000001108,Fluticasone 50micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39111111000001109,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39111311000001106,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39112711000001103,Salbutamol 100micrograms/dose breath actuated inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39112911000001101,Formoterol 6micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39113011000001109,Formoterol 12micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39113111000001105,Terbutaline 250micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39113211000001104,Salmeterol 50micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39113311000001107,Salbutamol 200micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39113611000001102,Salbutamol 100micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39114511000001103,Atectura Breezhaler 125micrograms/62.5micrograms inhalation powder capsules with device (Sandoz Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39115411000001101,Atectura Breezhaler 125micrograms/127.5micrograms inhalation powder capsules with device (Sandoz Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39115911000001109,Atectura Breezhaler 125micrograms/260micrograms inhalation powder capsules with device (Sandoz Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39116311000001103,Indacaterol 125micrograms/dose / Mometasone 127.5micrograms/dose inhalation powder capsules with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39116411000001105,Indacaterol 125micrograms/dose / Mometasone 260micrograms/dose inhalation powder capsules with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39116511000001109,Indacaterol 125micrograms/dose / Mometasone 62.5micrograms/dose inhalation powder capsules with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39133611000001108,Budesonide 100micrograms/dose / Formoterol 3micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39134511000001107,Generic Enerzair Breezhaler 114micrograms/dose / 46micrograms/dose / 136micrograms/dose inhalation powder capsules with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39134711000001102,Enerzair Breezhaler 114micrograms/dose / 46micrograms/dose / 136micrograms/dose inhalation powder capsules with device (Sandoz Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39241911000001100,Salbutamol 2mg tablets (Medihealth (Northern) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39242111000001108,Salbutamol 4mg tablets (Medihealth (Northern) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39327311000001104,Trixeo Aerosphere 5micrograms/dose / 7.2micrograms/dose / 160micrograms/dose pressurised inhaler (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39329111000001107,Bevespi Aerosphere 7.2micrograms/dose / 5micrograms/dose pressurised inhaler (AstraZeneca UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39343511000001103,Generic Trixeo Aerosphere 5micrograms/dose / 7.2micrograms/dose / 160micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39343611000001104,Glycopyrronium 7.2micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39359011000001107,Bricanyl 500micrograms/dose Turbohaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39360211000001103,Fostair NEXThaler 100micrograms/dose / 6micrograms/dose dry powder inhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39360411000001104,Sereflo 25micrograms/dose / 125micrograms/dose inhaler (Pilsco Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39567411000001102,Fixkoh Airmaster 50micrograms/dose / 500micrograms/dose dry powder inhaler (Thornton & Ross Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39567611000001104,Fixkoh Airmaster 50micrograms/dose / 250micrograms/dose dry powder inhaler (Thornton & Ross Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39567811000001100,Fixkoh Airmaster 50micrograms/dose / 100micrograms/dose dry powder inhaler (Thornton & Ross Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39696311000001100,Salbutamol 400microgram / Beclometasone 200microgram inhalation powder capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39703611000001107,Salbutamol 4mg tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39709511000001105,Salbutamol 5mg/ml nebuliser liquid
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39709611000001109,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39709711000001100,Salbutamol 200microgram inhalation powder capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39709811000001108,Salbutamol 400microgram inhalation powder capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39710011000001108,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39710511000001100,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39711511000001107,Fenoterol 1.25mg/4ml / Ipratropium 500micrograms/4ml nebuliser liquid unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39714711000001104,Terbutaline 10mg/ml nebuliser liquid
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39817511000001103,Luforbec 100micrograms/dose / 6micrograms/dose inhaler (Lupin Healthcare (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39939611000001107,Fostair 100micrograms/dose / 6micrograms/dose inhaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,39993311000001105,Trimbow NEXThaler 88micrograms/dose / 5micrograms/dose / 9micrograms/dose dry powder inhaler (Chiesi Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,40034211000001104,Avenor 25micrograms/dose / 50micrograms/dose inhaler (Zentiva PharmaUK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,40040711000001101,Avenor 25micrograms/dose / 125micrograms/dose inhaler (Zentiva Pharma UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,40040911000001104,Avenor 25micrograms/dose / 250micrograms/dose inhaler (Zentiva Pharma UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,40087411000001104,Generic Trimbow NEXThaler 88micrograms/dose / 5micrograms/dose / 9micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,40106011000001102,WockAIR 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Wockhardt UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,40106211000001107,WockAIR 320micrograms/dose / 9micrograms/dose dry powder inhaler (Wockhardt UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,40220711000001106,Seretide 50 Evohaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,40220911000001108,Fostair NEXThaler 100micrograms/dose / 6micrograms/dose dry powder inhaler (CST Pharma Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,40444911000001101,Seffalair Spiromax 12.75micrograms/dose / 202micrograms/dose dry powder inhaler (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,40445111000001100,Seffalair Spiromax 12.75micrograms/dose / 100micrograms/dose dry powder inhaler (Teva UK Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,40455711000001101,Fluticasone propionate 100micrograms/dose / Salmeterol 12.75micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,40455811000001109,Fluticasone propionate 202micrograms/dose / Salmeterol 12.75micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,40504911000001103,Sereflo Ciphaler 50micrograms/dose / 250micrograms/dose dry powder inhaler (Cipla EU Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,40752211000001109,Trimbow 172micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler (Chiesi Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,40766811000001104,Generic Trimbow 172micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,dm+d,40852311000001103,Luforbec 200micrograms/dose / 6micrograms/dose inhaler (Lupin Healthcare (UK) Ltd)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011ABAAAAAA,Generic Trimbow NEXThaler 88microg/5microg/9microg/dose inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011ABAAABAB,Generic Trimbow 172microg/5microg/9microg/dose inh CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011ABBBAAA0,Trimbow 87microg/dose / 5microg/dose / 9microg/dose inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011ABBBABAA,Trimbow NEXThaler 88microg/5microg/9microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011ABBBACAB,Trimbow 172microg/dose / 5microg/dose / 9microg/dose inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011B0BBAAAA,Bambec 10mg tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011B0BBABAB,Bambec 20mg tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011E0AAAAAA,Formoterol 12microgram inhalation pdr caps with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011E0AAABAB,Formoterol 6micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011E0AAACAC,Formoterol 12micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011E0AAADAD,Formoterol 12micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011E0BBAAAA,Foradil 12microgram inhalation powder capsules with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011E0BCAAAB,Oxis 6 Turbohaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011E0BCABAC,Oxis 12 Turbohaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011E0BDAAAD,Atimos Modulite 12micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011E0BEAAAC,Formoterol Easyhaler 12micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011F0AAAAAA,Fenoterol 200micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011F0BBACAA,Berotec 200micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AAADAD,Salbutamol 100micrograms/dose breath actuated inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AAAFAF,Salbutamol 95micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AAAIAI,Salbutamol 200microgram inhalation pdr blist with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AAAJAJ,Salbutamol 400microgram inhalation pdr blist with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AAAKAK,Salbutamol 200microgram inhalation powder blisters
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AAALAL,Salbutamol 400microgram inhalation powder blisters
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AAAQAQ,Salbutamol 200micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AAAUAU,Salbutamol 500micrograms/1ml solution for injection ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AAAVAV,Salbutamol 200microgram inhalation powder capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AAAWAW,Salbutamol 400microgram inhalation powder capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AAAXAX,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AAAZAZ,Salbutamol 2mg tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AABABA,Salbutamol 4mg tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AABBBB,Salbutamol 5mg/ml nebuliser liquid
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AABCBC,Salbutamol 5mg/5ml solution for infusion ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AABDBD,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AABEBE,Salbutamol 4mg modified-release tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AABFBF,Salbutamol 8mg modified-release tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AABGBG,Salbutamol 2mg/5ml oral solution sugar free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AABMBM,Salbutamol 4mg modified-release capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AABPBP,Salbutamol 8mg modified-release capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AABUBU,Salbutamol 100micrograms/dose breath actuated inh CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AABVBV,Salbutamol 5mg/50ml solution for infusion vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AABZBZ,Salbutamol 100micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AACBCB,Salbutamol 100microg/dose dry pdr inhalation cart with dev
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0AACCCC,Salbutamol 100micrograms/dose dry pdr inhalation cartridge
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BDAEAP,Salbulin 100micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BEAHAQ,Ventolin 200micrograms/dose Accuhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BEAIAP,Ventolin 100micrograms/dose Evohaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BEAMBG,Ventolin 2mg/5ml syrup
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BEANAX,Ventolin 2.5mg Nebules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BEAPAV,Ventolin 200microgram Rotacaps
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BEAQAW,Ventolin 400microgram Rotacaps
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BEARBB,Ventolin 5mg/ml respirator solution
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BEATAU,Ventolin 500micrograms/1ml solution for injection ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BEAUBC,Ventolin 5mg/5ml solution for infusion ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BEAXBD,Ventolin 5mg Nebules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BGABAX,Maxivent 2.5mg/2.5ml neb liq unit dose Steripoule vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BGACBD,Maxivent 5mg/2.5ml neb liq unit dose Steripoule vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BIADAX,Salamol 2.5mg/2.5ml neb liq Steri-Neb unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BIAEBD,Salamol 5mg/2.5ml nebuliser liquid Steri-Neb unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BIAFAP,Salamol 100micrograms/dose inhaler CFC free (Teva)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BIAGBU,Salamol 100micrograms/dose Easi-Breathe inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BIAHAP,Salamol 100micrograms/dose inhaler CFC free (Arrow)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BJABAF,Asmasal 95micrograms/dose Clickhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BKADAD,Aerolin 100micrograms/dose Autohaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BLAAAI,Ventodisks 200microgram with Diskhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BLABAK,Ventodisks 200microgram
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BLACAJ,Ventodisks 400microgram with Diskhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BLADAL,Ventodisks 400microgram
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BMAAAP,Airomir 100micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BMABBU,Airomir 100micrograms/dose Autohaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BNAABE,Volmax 4mg modified-release tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BNABBF,Volmax 8mg modified-release tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BPACAV,Salbutamol 200 Cyclocaps
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BPADAW,Salbutamol 400 Cyclocaps
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BSAABM,Ventmax SR 4mg capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BSABBP,Ventmax SR 8mg capsules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BTAAAQ,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BUAABG,Salapin 2mg/5ml syrup
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BVAAAX,Salbutamol 2.5mg/2.5ml neb liq unit dose Steripoule vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BVABBD,Salbutamol 5mg/2.5ml neb liq unit dose Steripoule vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BWAABZ,Easyhaler Salbutamol sulfate 100micrograms/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BWABAQ,Easyhaler Salbutamol sulfate 200micrograms/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BXAACB,Salbulin Novolizer 100micrograms/dose inhalation powder
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BXABCC,Salbulin Novolizer 100micrograms/dose inhalation pdr refill
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BYAAAP,Asmavent 100micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011R0BZAAAP,AirSalb 100micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011U0AAAAAA,Salmeterol 50microgram inhalation pdr blist with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011U0AAABAB,Salmeterol 50microgram inhalation powder blisters
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011U0AAACAC,Salmeterol 25micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011U0AAAEAE,Salmeterol 50micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011U0AAAHAH,Salmeterol 25micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011U0BBAAAA,Serevent 50microgram disks with Diskhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011U0BBABAB,Serevent 50microgram disks
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011U0BBACAC,Serevent 25micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011U0BBAEAE,Serevent 50micrograms/dose Accuhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011U0BBAFAH,Serevent 25micrograms/dose Evohaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011U0BDAAAH,Neovent 25micrograms/dose inhaler CFC free (Teva)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011U0BEAAAH,Neovent 25micrograms/dose inhaler CFC free (Kent Pharm)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011U0BFAAAH,Vertine 25micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011U0BGAAAH,Soltel 25micrograms/dose inhaler CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0AAAAAA,Terbutaline 250micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0AAABAB,Terbutaline 500micrograms/1ml inj ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0AAADAD,Terbutaline 5mg/2ml nebuliser liquid unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0AAAFAF,Terbutaline 250micrograms/dose inhaler with spacer
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0AAAGAG,Terbutaline 1.5mg/5ml oral solution sugar free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0AAAIAI,Terbutaline 7.5mg modified-release tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0AAAKAK,Terbutaline 2.5mg/5ml solution for injection ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0AAAXAX,Terbutaline 10mg/ml nebuliser liquid
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0AABABA,Terbutaline 7.5mg/15ml inf pre-filled syringes
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0AABBBB,Terbutaline 500micrograms/dose dry powder inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0BBAAAH,Bricanyl 5mg tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0BBABAG,Bricanyl 1.5mg/5ml syrup
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0BBACAB,Bricanyl 500micrograms/1ml solution for injection ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0BBADAA,Bricanyl 250micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0BBAFAF,Bricanyl 250micrograms/dose spacer inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0BBAJAK,Bricanyl 2.5mg/5ml solution for injection ampoules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0BBALAD,Bricanyl 5mg/2ml Respules
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0BBANAI,Bricanyl SA 7.5mg tablets
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0BBAQAX,Bricanyl 10mg/ml respirator solution
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0BBARBB,Bricanyl 500micrograms/dose Turbohaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011V0BDABAG,Monovent 1.5mg/5ml syrup
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011X0AAAAAA,Indacaterol 150microgram inhalation pdr caps with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011X0AAABAB,Indacaterol 300microgram inhalation pdr caps with device
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011X0BBAAAA,Onbrez Breezhaler 150microgram inhalation pdr caps with dev
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011X0BBABAB,Onbrez Breezhaler 300microgram inhalation pdr caps with dev
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011Z0AAAAAA,Olodaterol 2.5microg/dose soln for inhalation CFCfree
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011Z0AAABAB,Olodaterol 2.5micrograms/dose inhalation soln cart CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011Z0BBAAAA,Striverdi Respimat 2.5microg/dose inhalation soln
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301011Z0BBABAB,Striverdi Respimat 2.5microg/dose inhalation soln refill
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040AAAAAAAA,Glycopyrronium 7.2microg/Formoterol 5microg/dose inh CFCfree
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040AABBAAAA,Bevespi Aerosphere 7.2microg / 5microg/dose pressurised inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040M0AAAAAA,Fenoterol 100microg/dose / Ipratropium 40microg/dose inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040M0AAABAB,Fenoterol 1.25mg/Ipratropium 500microg/4ml neb liq ud vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040M0AAACAC,Fenoterol 100microg/Ipratropium bromide 40microg/dose BA inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040M0AAADAD,Fenoterol 50microg/Ipratropium brom 20microg/dose CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040M0BBAAAA,Duovent inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040M0BBABAB,Duovent UDVs nebuliser liquid 4ml
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040M0BBACAC,Duovent Autohaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040M0BCABAD,Berodual N inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040R0AAAAAA,Salbutamol 100microg/dose / Ipratropium 20microg/dose inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040R0AAABAB,Salbutamol 2.5mg/Ipratropium brom 500mcg/2.5ml neb liq vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040R0AAACAC,Salbutamol 2.5mg/Ipratropium brom 500mcg/2.5ml neb liq amp
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040R0BBAAAA,Combivent inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040R0BBABAB,Combivent nebuliser liquid 2.5ml UDVs
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040R0BCAAAB,Ipramol nebuliser solution 2.5ml Steri-Neb unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040R0BDAAAC,Salipraneb 0.5mg/2.5mg nebuliser soln 2.5ml ampoules (Arrow)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040R0BEAAAC,Salipraneb 0.5mg/2.5mg nebuliser soln 2.5ml amp (Actavis)
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040R0BFAAAB,Combiprasal 0.5mg/2.5mg neb soln 2.5ml unit dose vials
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040V0AAAAAA,Aclidinium brom 396mcg/dose / Formoterol 11.8mcg/dose DP inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040V0BBAAAA,Duaklir 340micrograms/dose / 12micrograms/dose Genuair
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040W0AAAAAA,Umeclidinium brom 65microg/Vilanterol 22microg/dose dry pdr
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040W0BBAAAA,Anoro Ellipta 55microg/dose / 22microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040X0AAAAAA,Tiotropium brom 2.5microg/Olodaterol 2.5microg/dose soln&dev
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040X0AAABAB,Tiotropium brom 2.5microg/Olodaterol 2.5microg/dose soln
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040X0BBAAAA,Spiolto Respimat 2.5microg/dose/2.5microg/dose soln
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040X0BBABAB,Spiolto Respimat 2.5microg/dose / 2.5microg/dose soln refill
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040X0BCAAAA,Yanimo Respimat 2.5microg/dose / 2.5microg/dose soln
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040Y0AAAAAA,Indacaterol 85microg/Glycopyrronium brom 54microg/dose
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000C0AAANAN,Salbutamol 100microg/dose / Beclometasone 50microg/dose inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000C0AAAPAP,Salbutamol 400microg/Beclometasone 200microg pdr caps
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000C0AABLBL,Salbutamol 200microg/Beclometasone 100microg pdr caps
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000C0AABXBX,Beclometasone 100microg/Formoterol 6microg/dose inh CFCfree
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000C0AABYBY,Beclometasone 100microg/Formoterol 6microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000C0AABZBZ,Beclometasone 200microg/Formoterol 6microg/dose inh CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000C0AACACA,Beclometasone 200microg/Formoterol 6microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000C0BDAAAN,Ventide inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000C0BDABAP,Ventide Rotacaps
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000C0BDACBL,Ventide Paediatric Rotacaps
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000C0BQAABX,Fostair 100micrograms/dose / 6micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000C0BQABBZ,Fostair 200micrograms/dose / 6micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000C0BRAABY,Fostair NEXThaler 100microg/dose / 6microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000C0BRABCA,Fostair NEXThaler 200microg/dose / 6microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000C0BUAABX,Luforbec 100micrograms/dose / 6micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000C0BUABBZ,Luforbec 200micrograms/dose / 6micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0AAALAL,Budesonide 100microg / Formoterol 6microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0AAAMAM,Budesonide 200mcg/dose / Formoterol 6mcg/dose dry powder inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0AAAUAU,Budesonide 400mcg/dose /Formoterol 12mcg/dose dry powder inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0AABBBB,Budesonide 200microg / Formoterol 6microg/dose inh CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0AABCBC,Budesonide 100microg / Formoterol 3microg/dose inh CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0BDAAAL,Symbicort 100/6 Turbohaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0BDABAM,Symbicort 200/6 Turbohaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0BDACAU,Symbicort 400/12 Turbohaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0BDADBB,Symbicort 200microg/dose / 6microg/dose pressurised inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0BDAEBC,Symbicort 100microg/dose / 3microg/dose pressurised inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0BHAAAM,DuoResp Spiromax 160microg/dose / 4.5microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0BIAAAU,Fobumix Easyhaler 320microg/dose / 9microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0BIABAM,Fobumix Easyhaler 160microg / 4.5microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0BIADAL,Fobumix Easyhaler 80microg/dose / 4.5microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0BJAAAM,WockAIR 160micrograms/dose / 4.5micrograms/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000K0BJABAU,WockAIR 320micrograms/dose / 9micrograms/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0AAAXAX,Fluticasone propionate 100microg/Salmeterol 50microg/dose
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0AAAYAY,Fluticasone propionate 250microg/Salmeterol 50microg/dose
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0AAAZAZ,Fluticasone propionate 500microg/Salmeterol 50microg/dose
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0AABEBE,Fluticasone 50microg / Salmeterol 25microg/dose inh CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0AABFBF,Fluticasone 125mcg/dose / Salmeterol 25mcg/dose inh CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0AABGBG,Fluticasone 250mcg/dose / Salmeterol 25mcg/dose inh CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0AABJBJ,Fluticasone 125microg / Formoterol 5microg/dose inh CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0AABKBK,Fluticasone 250microg / Formoterol 10microg/dose inh CFCfree
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0AABLBL,Fluticasone 50microg / Formoterol 5microg/dose inh CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0AABPBP,Fluticasone 125microg/Formoterol 5microg/dose BA inh CFCfree
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0AABQBQ,Fluticasone 50microg/Formoterol 5microg/dose BA inh CFC free
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0AABRBR,Fluticasone propionate 100microg/Salmeterol 12.75microg/dose
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0AABSBS,Fluticasone propionate 202microg/Salmeterol 12.75microg/dose
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BCAAAX,Seretide 100 Accuhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BCABAY,Seretide 250 Accuhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BCACAZ,Seretide 500 Accuhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BCADBE,Seretide 50 Evohaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BCAEBF,Seretide 125 Evohaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BCAFBG,Seretide 250 Evohaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BDAABJ,Flutiform 125micrograms/dose / 5micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BDABBK,Flutiform 250micrograms/dose / 10micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BDACBL,Flutiform 50micrograms/dose / 5micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BDADBP,Flutiform K-haler 125microg/dose / 5microg/dose BA inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BDAEBQ,Flutiform K-haler 50microg/dose / 5microg/dose BA inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BFAABF,Sirdupla 25micrograms/dose / 125micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BFABBG,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BGAAAZ,AirFluSal Forspiro 50microg / 500microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BGABBF,AirFluSal 25micrograms/dose / 125micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BGACBG,AirFluSal 25micrograms/dose / 250micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BHAAAZ,Aerivio Spiromax 50microg / 500microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BIAABF,Sereflo 25micrograms/dose / 125micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BIABBG,Sereflo 25micrograms/dose / 250micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BIACAY,Sereflo Ciphaler 50microg / 250microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BJAABF,Aloflute 25micrograms/dose / 125micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BJABBG,Aloflute 25micrograms/dose / 250micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BKAAAY,Fusacomb Easyhaler 50microg / 250microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BKABAZ,Fusacomb Easyhaler 50microg / 500microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BLAABE,Combisal 25micrograms/dose / 50micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BLABBF,Combisal 25micrograms/dose / 125micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BLACBG,Combisal 25micrograms/dose / 250micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BMAAAZ,Stalpex 50microg/dose / 500microg/dose dry powder inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BNAAAZ,Fixkoh Airmaster 50microg/dose / 500microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BNABAY,Fixkoh Airmaster 50microg/dose / 250microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BNACAX,Fixkoh Airmaster 50microg/dose / 100microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BPAABE,Avenor 25micrograms/dose / 50micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BPABBF,Avenor 25micrograms/dose / 125micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BPACBG,Avenor 25micrograms/dose / 250micrograms/dose inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BQAABR,Seffalair Spiromax 12.75microg / 100microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000N0BQABBS,Seffalair Spiromax 12.75microg / 202microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000V0AAAAAA,Fluticasone furoate 184microg/Vilanterol 22microg/dose
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000V0AAABAB,Fluticasone furoate 92microg/Vilanterol 22microg/dose
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000V0BBAAAA,Relvar Ellipta 184microg/dose / 22microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000V0BBABAB,Relvar Ellipta 92microg/dose / 22microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000W0AAAAAA,Generic Enerzair Breezhaler 114/46/136microg inh caps + dev
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000W0BBAAAA,Enerzair Breezhaler 114microg / 46microg / 136microg/dose
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000X0AAAAAA,Indacaterol 125microg/Mometasone 62.5microg/dose pdr caps
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000X0AAABAB,Indacaterol 125microg/Mometasone 127.5microg/dose pdr caps
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000X0AAACAC,Indacaterol 125microg/Mometasone 260microg/dose pdr caps
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000X0BBAAAA,Atectura Breezhaler 125microg/62.5microg inhalation pdr caps
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000X0BBABAB,Atectura Breezhaler 125microg/127.5microg pdr caps
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000X0BBACAC,Atectura Breezhaler 125microg/260microg inhalation pdr caps
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000Y0AAAAAA,Generic Trixeo Aerosphere 5microg/7.2microg/160microg/dose
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000Y0BBAAAA,Trixeo Aerosphere 5microg / 7.2microg / 160microg/dose inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000Z0AAAAAA,Generic Trelegy Ellipta 92microg/55microg/22microg/dose inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0302000Z0BBAAAA,Trelegy Ellipta 92microg/55microg/22microg/dose dry pdr inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0303010Q0AAAIAI,Sodium cromoglicate 1mg/dose / Salbutamol 100microg/dose inh
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0303010Q0BGAAAI,Aerocrom inhaler
+Beta2AdrenoceptorAgonistsSelective,SABA_LABA,BNF,0303010Q0BGABAK,Aerocrom Syncroner with spacer

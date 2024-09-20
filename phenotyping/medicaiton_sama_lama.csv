@@ -1,0 +1,303 @@
+Medication category,Short name,Code type,Code,Description
+Antimuscarinics,SAMA_LAMA,dm+d,320339009,Ipratropium bromide 40microgram inhalation powder capsules
+Antimuscarinics,SAMA_LAMA,dm+d,320340006,Ipratropium bromide 40microgram inhalation powder capsules with device
+Antimuscarinics,SAMA_LAMA,dm+d,320345001,Ipratropium bromide 20micrograms/dose breath actuated inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,320346000,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials
+Antimuscarinics,SAMA_LAMA,dm+d,320347009,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials
+Antimuscarinics,SAMA_LAMA,dm+d,320348004,Ipratropium bromide 20micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,320350007,Ipratropium bromide 40micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,320440005,Fenoterol 100micrograms/dose / Ipratropium 40micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,320441009,Fenoterol 100micrograms/dose / Ipratropium bromide 40micrograms/dose breath actuated inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,320442002,Salbutamol 100micrograms/dose / Ipratropium 20micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,320445000,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid unit dose vials
+Antimuscarinics,SAMA_LAMA,dm+d,349394001,Fenoterol 1.25mg/4ml / Ipratropium 500micrograms/4ml nebuliser liquid unit dose vials
+Antimuscarinics,SAMA_LAMA,dm+d,414538008,Ipratropium bromide 20mcg CFC-free inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,703924000,Aclidinium bromide 375micrograms inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,24011000001103,Atrovent 20micrograms/dose inhaler (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,109751000001104,Fenoterol 1.25mg/4ml / Ipratropium 500micrograms/4ml nebuliser liquid unit dose vials
+Antimuscarinics,SAMA_LAMA,dm+d,110221000001105,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials
+Antimuscarinics,SAMA_LAMA,dm+d,110481000001107,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials
+Antimuscarinics,SAMA_LAMA,dm+d,110651000001100,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid unit dose vials
+Antimuscarinics,SAMA_LAMA,dm+d,111781000001105,Ipratropium bromide 40microgram inhalation powder capsules with device
+Antimuscarinics,SAMA_LAMA,dm+d,112141000001107,Ipratropium bromide 40microgram inhalation powder capsules
+Antimuscarinics,SAMA_LAMA,dm+d,347611000001103,Atrovent Forte 40micrograms/dose inhaler (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,351411000001106,Atrovent 20micrograms/dose Autohaler (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,2923111000001107,Duovent inhaler (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,2964011000001104,Duovent Autohaler (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3221011000001103,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3221911000001104,Tropiovent 500micrograms/2ml nebuliser liquid unit dose Steripoule vials (Ashbourne Pharmaceuticals Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3222411000001102,Atrovent 500micrograms/2ml nebuliser liquid UDVs (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3222711000001108,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (The Boots Company Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,3222911000001105,Respontin 500micrograms/2ml Nebules (GlaxoSmithKline UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3223111000001101,Ipratropium 500micrograms/2ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3223511000001105,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3225311000001103,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3225811000001107,Tropiovent 250micrograms/1ml nebuliser liquid unit dose Steripoule vials (Ashbourne Pharmaceuticals Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3226411000001101,Atrovent 250micrograms/1ml nebuliser liquid UDVs (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3226811000001104,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (The Boots Company Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,3227011000001108,Respontin 250micrograms/1ml Nebules (GlaxoSmithKline UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3227211000001103,Ipratropium 250micrograms/1ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3227511000001100,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3235911000001100,Atrovent 40microgram Aerocaps (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3238911000001106,Atrovent 40microgram Aerocaps with Aerohaler (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3348611000001107,Combivent inhaler (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3378211000001106,Spiriva 18microgram inhalation powder capsules with HandiHaler (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3380011000001106,Spiriva 18microgram inhalation powder capsules (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,3406011000001104,Combivent nebuliser liquid 2.5ml UDVs (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,4192411000001109,Duovent UDVs nebuliser liquid 4ml (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,5255211000001100,Atrovent 20micrograms/dose inhaler (Waymade Healthcare Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,5259111000001108,Combivent inhaler (Waymade Healthcare Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,5281611000001108,Atrovent 20micrograms/dose inhaler (Dowelhurst Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,5287111000001107,Combivent inhaler (Dowelhurst Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,5287711000001108,Combivent nebuliser liquid 2.5ml UDVs (Dowelhurst Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,5297911000001106,Ipratropium 20micrograms/dose inhaler (Dowelhurst Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,5319611000001103,Spiriva 18microgram inhalation powder capsules with HandiHaler (Dowelhurst Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,7389911000001105,Atrovent 20micrograms/dose inhaler CFC free (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,8097311000001109,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Kent Pharma (UK) Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,8097811000001100,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Kent Pharma (UK) Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,9039611000001103,Ipratropium 250micrograms/1ml nebuliser liquid unit dose Steripoule vials (Galen Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,9039811000001104,Ipratropium 500micrograms/2ml nebuliser liquid unit dose Steripoule vials (Galen Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,9101911000001108,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Teva UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,9102111000001100,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Teva UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,9478911000001107,Tiotropium bromide 18microgram inhalation powder capsules
+Antimuscarinics,SAMA_LAMA,dm+d,9479011000001103,Tiotropium bromide 18microgram inhalation powder capsules with device
+Antimuscarinics,SAMA_LAMA,dm+d,10453411000001106,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Arrow Generics Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,10453611000001109,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Arrow Generics Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,10469711000001108,Spiriva 18microgram inhalation powder capsules (Dowelhurst Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,10509311000001101,Spiriva 18microgram inhalation powder capsules with HandiHaler (Waymade Healthcare Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,10776911000001102,Combivent nebuliser liquid 2.5ml UDVs (Waymade Healthcare Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,10785611000001108,Spiriva 18microgram inhalation powder capsules (Waymade Healthcare Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,10927511000001104,Ipramol nebuliser solution 2.5ml Steri-Neb unit dose vials (Teva UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,11006111000001102,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Accord Healthcare Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,11006311000001100,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Accord Healthcare Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,12146911000001103,Spiriva Respimat 2.5micrograms/dose inhalation solution cartridge with device (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,12197411000001102,Tiotropium bromide 2.5micrograms/dose solution for inhalation cartridge with device CFC free
+Antimuscarinics,SAMA_LAMA,dm+d,13163001000001106,Ipratropium bromide 20micrograms/dose breath actuated inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,13164501000001104,Fenoterol 100micrograms/dose / Ipratropium 40micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,13164601000001100,Fenoterol 100micrograms/dose / Ipratropium bromide 40micrograms/dose breath actuated inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,13164701000001105,Salbutamol 100micrograms/dose / Ipratropium 20micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,13266301000001102,Ipratropium bromide 20micrograms/dose inhaler CFC free
+Antimuscarinics,SAMA_LAMA,dm+d,13952411000001104,Spiriva 18microgram inhalation powder capsules with HandiHaler (DE Pharmaceuticals)
+Antimuscarinics,SAMA_LAMA,dm+d,13953011000001104,Spiriva 18microgram inhalation powder capsules (DE Pharmaceuticals)
+Antimuscarinics,SAMA_LAMA,dm+d,14206211000001105,Atrovent 20micrograms/dose inhaler CFC free (Sigma Pharmaceuticals Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,14214011000001107,Duovent UDVs nebuliser liquid 4ml (Sigma Pharmaceuticals Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,14382411000001103,Spiriva 18microgram inhalation powder capsules (Sigma Pharmaceuticals Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,14384011000001101,Spiriva 18microgram inhalation powder capsules with HandiHaler (Sigma Pharmaceuticals Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,15213511000001109,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Sigma Pharmaceuticals Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,15214311000001101,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Sigma Pharmaceuticals Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,15522411000001103,Salipraneb 0.5mg/2.5mg nebuliser solution 2.5ml ampoules (Arrow Generics Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,15534911000001100,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid ampoules
+Antimuscarinics,SAMA_LAMA,dm+d,16733611000001107,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid ampoules (A A H Pharmaceuticals Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,17454411000001104,Spiriva 18microgram inhalation powder capsules with HandiHaler (Mawdsley-Brooks & Company Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,17454611000001101,piriva Respimat 2.5micrograms/dose solution for inhalation cartridge with device (Mawdsley-Brooks & Company Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,17933111000001105,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,17933311000001107,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,18071311000001107,Atrovent 20micrograms/dose inhaler CFC free (Lexon (UK) Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,18155011000001100,piriva 18microgram inhalation powder capsules (Mawdsley-Brooks & Company Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,18220811000001104,Combivent nebuliser liquid 2.5ml UDVs (Mawdsley-Brooks & Company Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,19541511000001101,Combivent nebuliser liquid 2.5ml UDVs (DE Pharmaceuticals)
+Antimuscarinics,SAMA_LAMA,dm+d,19869411000001109,Combivent nebuliser liquid 2.5ml UDVs (Lexon (UK) Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,20164811000001104,Atrovent 20micrograms/dose inhaler CFC free (DE Pharmaceuticals)
+Antimuscarinics,SAMA_LAMA,dm+d,20985511000001101,Eklira 322micrograms/dose Genuair (AstraZeneca UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,21021211000001107,Aclidinium bromide 375micrograms/dose dry powder inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,21495411000001107,Seebri Breezhaler 44microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,21496211000001102,Glycopyrronium bromide 55microgram inhalation powder capsules with device
+Antimuscarinics,SAMA_LAMA,dm+d,21508411000001109,Atrovent 500micrograms/2ml nebuliser liquid UDVs (Waymade Healthcare Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,21719511000001100,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Advanz Pharma)
+Antimuscarinics,SAMA_LAMA,dm+d,21720011000001109,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Advanz Pharma)
+Antimuscarinics,SAMA_LAMA,dm+d,22062311000001100,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Waymade Healthcare Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,22062511000001106,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Waymade Healthcare Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,23433411000001108,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid unit dose vials (J M McGill Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,23949111000001102,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (DE Pharmaceuticals)
+Antimuscarinics,SAMA_LAMA,dm+d,23949311000001100,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (DE Pharmaceuticals)
+Antimuscarinics,SAMA_LAMA,dm+d,23961011000001108,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid unit dose vials (Niche Pharma Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,24498211000001109,Spiriva Respimat 2.5micrograms/dose solution for inhalation cartridge with device (Waymade Healthcare Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,24644611000001108,Anoro Ellipta 55micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,24645511000001105,Umeclidinium bromide 65micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,27567911000001101,Incruse Ellipta 55micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,27872911000001109,Ipratropium bromide 20micrograms/dose inhaler CFC free (A A H Pharmaceuticals Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,27890611000001109,Umeclidinium bromide 65micrograms/dose dry powder inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,28007211000001102,Ultibro Breezhaler 85microgram/43microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,28049611000001104,Indacaterol 85micrograms/dose / Glycopyrronium bromide 54micrograms/dose inhalation powder capsules with device
+Antimuscarinics,SAMA_LAMA,dm+d,28357211000001106,Duaklir 340micrograms/dose / 12micrograms/dose Genuair (AstraZeneca UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,28365011000001100,Aclidinium bromide 396micrograms/dose / Formoterol 11.8micrograms/dose dry powder inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,28409511000001104,Tiotropium bromide 2.5micrograms/dose solution for inhalation cartridge with device CFC free (AM Distributions (Yorkshire) Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,28410811000001107,Berodual N inhaler (Imported (Germany))
+Antimuscarinics,SAMA_LAMA,dm+d,28422511000001101,Fenoterol 50micrograms/dose / Ipratropium bromide 20micrograms/doseinhaler CFC free
+Antimuscarinics,SAMA_LAMA,dm+d,28424911000001104,Eklira 322micrograms/dose Genuair (Waymade Healthcare Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,29211411000001103,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid unit dose vials (Ennogen Healthcare Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,29971311000001100,Spiolto Respimat 2.5micrograms/dose / 2.5micrograms/dose inhalation solution cartridge with device (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,29978611000001102,Atrovent 250micrograms/1ml nebuliser liquid UDVs (Lexon (UK) Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,29978911000001108,Atrovent 500micrograms/2ml nebuliser liquid UDVs (Lexon (UK) Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,29987211000001108,Tiotropium bromide 2.5micrograms/dose / Olodaterol 2.5micrograms/dose solution for inhalation cartridge with device CFC free
+Antimuscarinics,SAMA_LAMA,dm+d,30215011000001107,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,30273611000001108,Seebri Breezhaler 44microgram inhalation powder capsules with device (Waymade Healthcare Plc)
+Antimuscarinics,SAMA_LAMA,dm+d,30933811000001108,Glycopyrronium bromide 55microgram inhalation powder capsules with device (Ennogen Healthcare Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,31451611000001103,Aclidinium bromide 375micrograms/dose dry powder inhaler (J M McGill Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,31500911000001102,Glycopyrronium bromide 55microgram inhalation powder capsules with device (J M McGill Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,32180811000001101,Aclidinium bromide 375micrograms/dose dry powder inhaler (Niche Pharma Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,32336011000001106,Glycopyrronium bromide 55microgram inhalation powder capsules with device (Colorama Pharmaceuticals Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,32364511000001104,Umeclidinium bromide 65micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler (Ennogen Healthcare Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,32408711000001106,Ipratropium bromide 20micrograms/dose inhaler CFC free (Kent Pharmaceuticals Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,32411611000001108,Aclidinium bromide 375micrograms/dose dry powder inhaler (Colorama Pharmaceuticals Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,32480911000001107,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid unit dose vials (Colorama Pharmaceuticals Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,32629811000001101,Umeclidinium bromide 65micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler (J M McGill Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,32633011000001106,Aclidinium bromide 396micrograms/dose / Formoterol 11.8micrograms/dose dry powder inhaler (Colorama Pharmaceuticals Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,32898611000001109,Salipraneb 0.5mg/2.5mg nebuliser solution 2.5ml ampoules (Actavis UKLtd)
+Antimuscarinics,SAMA_LAMA,dm+d,33594911000001100,Braltus 10microgram inhalation powder capsules with Zonda inhaler (Teva UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,33596311000001107,Tiotropium bromide 10microgram inhalation powder capsules with device
+Antimuscarinics,SAMA_LAMA,dm+d,34681611000001100,Trimbow 87micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler (Chiesi Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,34683311000001106,Generic Trimbow 87micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,34952211000001104,Trelegy Ellipta 92micrograms/dose / 55micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,34954811000001109,Inhalvent 20micrograms/dose inhaler (Alissa Healthcare Research Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,34955111000001103,Generic Trelegy Ellipta 92micrograms/dose / 55micrograms/dose /22micrograms/dose dry powder inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,35894111000001105,Aclidinium bromide 375micrograms/dose dry powder inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,35936311000001102,Salbutamol 100micrograms/dose / Ipratropium 20micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,36049211000001106,Ipratropium bromide 20micrograms/dose breath actuated inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,36049311000001103,Ipratropium bromide 20micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,36049411000001105,Ipratropium bromide 40micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,36066611000001106,Fenoterol 100micrograms/dose / Ipratropium 40micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,36066711000001102,Fenoterol 100micrograms/dose / Ipratropium bromide 40micrograms/dose breath actuated inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,37344011000001102,Atrovent 20micrograms/dose inhaler CFC free (Mawdsley-Brooks & Company Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37344411000001106,Atrovent 250micrograms/1ml nebuliser liquid UDVs (Mawdsley-Brooks & Company Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37344911000001103,Atrovent 500micrograms/2ml nebuliser liquid UDVs (Mawdsley-Brooks & Company Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37364411000001100,Combivent nebuliser liquid 2.5ml UDVs (CST Pharma Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37394911000001105,Spiriva 18microgram inhalation powder capsules (CST Pharma Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37399011000001107,Eklira 322micrograms/dose Genuair (Mawdsley-Brooks & Company Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37439611000001101,Incruse Ellipta 55micrograms/dose dry powder inhaler (CST Pharma Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37511511000001102,Incruse Ellipta 55micrograms/dose dry powder inhaler (Mawdsley-Brooks & Company Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37540311000001105,Yanimo Respimat 2.5micrograms/dose / 2.5micrograms/dose inhalation solution cartridge with device (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37593111000001108,Seebri Breezhaler 44microgram inhalation powder capsules with device (CST Pharma Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37596311000001101,Atrovent 20micrograms/dose inhaler CFC free (CST Pharma Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37625611000001100,Combivent nebuliser liquid 2.5ml UDVs (Pilsco Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37633411000001104,Eklira 322micrograms/dose Genuair (Pilsco Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37666611000001102,Incruse Ellipta 55micrograms/dose dry powder inhaler (Ethigen Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37677711000001102,Spiriva Respimat 2.5micrograms/dose inhalation solution refill cartridge (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37678011000001103,Spiolto Respimat 2.5micrograms/dose / 2.5micrograms/dose inhalation solution refill cartridge (Boehringer Ingelheim Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37692511000001100,Tiotropium bromide 2.5micrograms/dose / Olodaterol 2.5micrograms/dose inhalation solution cartridge CFC free
+Antimuscarinics,SAMA_LAMA,dm+d,37692711000001105,Tiotropium bromide 2.5micrograms/dose inhalation solution cartridge CFC free
+Antimuscarinics,SAMA_LAMA,dm+d,37716011000001104,Braltus 10microgram inhalation powder capsules with Zonda inhaler (Pilsco Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37728211000001103,Seebri Breezhaler 44microgram inhalation powder capsules with device (Pilsco Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37730011000001109,Spiriva 18microgram inhalation powder capsules with HandiHaler (Pilsco Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37743311000001100,Spiriva 18microgram inhalation powder capsules with HandiHaler (CST Pharma Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37743711000001101,Braltus 10microgram inhalation powder capsules with Zonda inhaler (CST Pharma Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37842911000001109,Ipravent 20micrograms/dose inhaler CFC free (Cipla EU Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37979411000001103,Anoro Ellipta 55micrograms/dose / 22micrograms/dose dry powder inhaler (Pharmaram Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37989411000001108,Incruse Ellipta 55micrograms/dose dry powder inhaler (Pharmaram Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,37996311000001109,Seebri Breezhaler 44microgram inhalation powder capsules with device (Pharmaram Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,38120811000001104,Braltus 10microgram inhalation powder capsules with Zonda inhaler (DE Pharmaceuticals)
+Antimuscarinics,SAMA_LAMA,dm+d,38131811000001105,Eklira 322micrograms/dose Genuair (DE Pharmaceuticals)
+Antimuscarinics,SAMA_LAMA,dm+d,38140511000001104,Incruse Ellipta 55micrograms/dose dry powder inhaler (DE Pharmaceuticals)
+Antimuscarinics,SAMA_LAMA,dm+d,38617811000001107,Combiprasal 0.5mg/2.5mg nebuliser solution 2.5ml unit dose vials (TriOn Pharma Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,38893611000001108,Aclidinium bromide 375micrograms/dose dry powder inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,38894511000001107,Ipratropium bromide 20micrograms/dose inhaler CFC free
+Antimuscarinics,SAMA_LAMA,dm+d,39001311000001101,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Medihealth (Northern) Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,39001511000001107,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Medihealth (Northern) Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,39134511000001107,Generic Enerzair Breezhaler 114micrograms/dose / 46micrograms/dose / 136micrograms/dose inhalation powder capsules with device
+Antimuscarinics,SAMA_LAMA,dm+d,39134711000001102,Enerzair Breezhaler 114micrograms/dose / 46micrograms/dose / 136micrograms/dose inhalation powder capsules with device (Sandoz Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,39167711000001100,Rolufta Ellipta 55micrograms/dose dry powder inhaler (Ethigen Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,39327311000001104,Trixeo Aerosphere 5micrograms/dose / 7.2micrograms/dose / 160micrograms/dose pressurised inhaler (AstraZeneca UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,39329111000001107,Bevespi Aerosphere 7.2micrograms/dose / 5micrograms/dose pressurised inhaler (AstraZeneca UK Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,39343511000001103,Generic Trixeo Aerosphere 5micrograms/dose / 7.2micrograms/dose / 160micrograms/dose inhaler CFC free
+Antimuscarinics,SAMA_LAMA,dm+d,39343611000001104,Glycopyrronium 7.2micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free
+Antimuscarinics,SAMA_LAMA,dm+d,39408811000001105,Spiriva 18microgram inhalation powder capsules (Pilsco Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,39605711000001106,Tiogiva 18microgram inhalation powder capsules with device (Glenmark Pharmaceuticals Europe Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,39606211000001105,Tiogiva 18microgram inhalation powder capsules (Glenmark Pharmaceuticals Europe Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,39666311000001103,Acopair 18microgram inhalation powder capsules with NeumoHaler (Viatris UK Healthcare Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,39710511000001100,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid unit dose vials
+Antimuscarinics,SAMA_LAMA,dm+d,39711511000001107,Fenoterol 1.25mg/4ml / Ipratropium 500micrograms/4ml nebuliser liquid unit dose vials
+Antimuscarinics,SAMA_LAMA,dm+d,39717211000001104,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials
+Antimuscarinics,SAMA_LAMA,dm+d,39717311000001107,Ipratropium bromide 40microgram inhalation powder capsules with device
+Antimuscarinics,SAMA_LAMA,dm+d,39717411000001100,Ipratropium bromide 40microgram inhalation powder capsules
+Antimuscarinics,SAMA_LAMA,dm+d,39717511000001101,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials
+Antimuscarinics,SAMA_LAMA,dm+d,39993311000001105,Trimbow NEXThaler 88micrograms/dose / 5micrograms/dose / 9micrograms/dose dry powder inhaler (Chiesi Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,40087411000001104,Generic Trimbow NEXThaler 88micrograms/dose / 5micrograms/dose / 9micrograms/dose dry powder inhaler
+Antimuscarinics,SAMA_LAMA,dm+d,40478511000001100,Seebri Breezhaler 44microgram inhalation powder capsules with device (DE Pharmaceuticals)
+Antimuscarinics,SAMA_LAMA,dm+d,40752211000001109,Trimbow 172micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler (Chiesi Ltd)
+Antimuscarinics,SAMA_LAMA,dm+d,40766811000001104,Generic Trimbow 172micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,BNF,0301011ABAAAAAA,Generic Trimbow NEXThaler 88microg/5microg/9microg/dose inh
+Antimuscarinics,SAMA_LAMA,BNF,0301011ABAAABAB,Generic Trimbow 172microg/5microg/9microg/dose inh CFC free
+Antimuscarinics,SAMA_LAMA,BNF,0301011ABBBAAA0,Trimbow 87microg/dose / 5microg/dose / 9microg/dose inh
+Antimuscarinics,SAMA_LAMA,BNF,0301011ABBBABAA,Trimbow NEXThaler 88microg/5microg/9microg/dose dry pdr inh
+Antimuscarinics,SAMA_LAMA,BNF,0301011ABBBACAB,Trimbow 172microg/dose / 5microg/dose / 9microg/dose inh
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0AAAAAA,Ipratropium bromide 20micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0AAACAC,Ipratropium bromide 500micrograms/2ml neb liq ud vials
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0AAADAD,Ipratropium bromide 40micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0AAAFAF,Ipratropium bromide 250micrograms/1ml neb liq ud vials
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0AAAGAG,Ipratropium bromide 20micrograms/dose BA inhaler
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0AAAHAH,Ipratropium bromide 40microgram inhalation pdr caps with dev
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0AAAIAI,Ipratropium bromide 40microgram inhalation powder capsules
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BBAAAA,Atrovent 20micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BBACAC,Atrovent 500micrograms/2ml nebuliser liquid UDVs
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BBADAD,Atrovent Forte 40micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BBAFAF,Atrovent 250micrograms/1ml nebuliser liquid UDVs
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BBAGAG,Atrovent 20micrograms/dose Autohaler
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BBAHAH,Atrovent 40microgram Aerocaps with Aerohaler
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BBAIAI,Atrovent 40microgram Aerocaps
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BBAJAN,Atrovent 20micrograms/dose inhaler CFC free
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BEAAAF,Ipratropium 250micrograms/1ml neb liq Steri-Neb ud vials
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BEABAC,Ipratropium 500micrograms/2ml neb liq Steri-Neb ud vials
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BFAAAF,Tropiovent 250micrograms/1ml neb liq ud Steripoule vials
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BFABAC,Tropiovent 500micrograms/2ml neb liq ud Steripoule vials
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BGAAAF,Respontin 250micrograms/1ml Nebules
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BGABAC,Respontin 500micrograms/2ml Nebules
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BHAAAF,Ipratropium 250micrograms/1ml neb liq ud Steripoule vials
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BHABAC,Ipratropium 500micrograms/2ml neb liq ud Steripoule vials
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BIAAAN,Inhalvent 20micrograms/dose inhaler
+Antimuscarinics,SAMA_LAMA,BNF,0301020I0BJAAAN,Ipravent 20micrograms/dose inhaler CFC free
+Antimuscarinics,SAMA_LAMA,BNF,0301020Q0AAAAAA,Tiotropium bromide 18microgram inhalation pdr caps with dev
+Antimuscarinics,SAMA_LAMA,BNF,0301020Q0AAABAB,Tiotropium bromide 18microgram inhalation powder capsules
+Antimuscarinics,SAMA_LAMA,BNF,0301020Q0AAACAC,Tiotropium brom 2.5microg/dose soln for inhalation CFCfree
+Antimuscarinics,SAMA_LAMA,BNF,0301020Q0AAADAD,Tiotropium bromide 10microgram inhalation pdr caps with dev
+Antimuscarinics,SAMA_LAMA,BNF,0301020Q0AAAEAE,Tiotropium bromide 2.5micrograms/dose inhalation soln cart
+Antimuscarinics,SAMA_LAMA,BNF,0301020Q0BBAAAA,Spiriva 18microgram inhalation pdr caps with HandiHaler
+Antimuscarinics,SAMA_LAMA,BNF,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules
+Antimuscarinics,SAMA_LAMA,BNF,0301020Q0BBACAC,Spiriva Respimat 2.5microg/dose inhalation soln
+Antimuscarinics,SAMA_LAMA,BNF,0301020Q0BBADAE,Spiriva Respimat 2.5microg/dose inhalation soln refill cart
+Antimuscarinics,SAMA_LAMA,BNF,0301020Q0BCAAAD,Braltus 10microgram inhalation pdr caps with Zonda inhaler
+Antimuscarinics,SAMA_LAMA,BNF,0301020Q0BDAAAA,Acopair 18microgram inhalation pdr caps with NeumoHaler
+Antimuscarinics,SAMA_LAMA,BNF,0301020Q0BEAAAA,Tiogiva 18microgram inhalation powder capsules with device
+Antimuscarinics,SAMA_LAMA,BNF,0301020Q0BEABAB,Tiogiva 18microgram inhalation powder capsules
+Antimuscarinics,SAMA_LAMA,BNF,0301020R0AAAAAA,Aclidinium bromide 375micrograms/dose dry powder inhaler
+Antimuscarinics,SAMA_LAMA,BNF,0301020R0BBAAAA,Eklira 322micrograms/dose Genuair
+Antimuscarinics,SAMA_LAMA,BNF,0301020S0AAAAAA,Glycopyrronium bromide 55microg inhalation pdr caps with dev
+Antimuscarinics,SAMA_LAMA,BNF,0301020S0BBAAAA,Seebri Breezhaler 44microgram inhalation pdr caps with dev
+Antimuscarinics,SAMA_LAMA,BNF,0301020T0AAAAAA,Umeclidinium bromide 65micrograms/dose dry powder inhaler
+Antimuscarinics,SAMA_LAMA,BNF,0301020T0BBAAAA,Incruse Ellipta 55micrograms/dose dry powder inhaler
+Antimuscarinics,SAMA_LAMA,BNF,0301040AAAAAAAA,Glycopyrronium 7.2microg/Formoterol 5microg/dose inh CFCfree
+Antimuscarinics,SAMA_LAMA,BNF,0301040AABBAAAA,Bevespi Aerosphere 7.2microg / 5microg/dose pressurised inh
+Antimuscarinics,SAMA_LAMA,BNF,0301040M0AAAAAA,Fenoterol 100microg/dose / Ipratropium 40microg/dose inh
+Antimuscarinics,SAMA_LAMA,BNF,0301040M0AAABAB,Fenoterol 1.25mg/Ipratropium 500microg/4ml neb liq ud vials
+Antimuscarinics,SAMA_LAMA,BNF,0301040M0AAACAC,Fenoterol 100microg/Ipratropium bromide 40microg/dose BA inh
+Antimuscarinics,SAMA_LAMA,BNF,0301040M0AAADAD,Fenoterol 50microg/Ipratropium brom 20microg/dose CFC free
+Antimuscarinics,SAMA_LAMA,BNF,0301040M0BBAAAA,Duovent inhaler
+Antimuscarinics,SAMA_LAMA,BNF,0301040M0BBABAB,Duovent UDVs nebuliser liquid 4ml
+Antimuscarinics,SAMA_LAMA,BNF,0301040M0BBACAC,Duovent Autohaler
+Antimuscarinics,SAMA_LAMA,BNF,0301040M0BCABAD,Berodual N inhaler
+Antimuscarinics,SAMA_LAMA,BNF,0301040R0AAAAAA,Salbutamol 100microg/dose / Ipratropium 20microg/dose inh
+Antimuscarinics,SAMA_LAMA,BNF,0301040R0AAABAB,Salbutamol 2.5mg/Ipratropium brom 500mcg/2.5ml neb liq vials
+Antimuscarinics,SAMA_LAMA,BNF,0301040R0AAACAC,Salbutamol 2.5mg/Ipratropium brom 500mcg/2.5ml neb liq amp
+Antimuscarinics,SAMA_LAMA,BNF,0301040R0BBAAAA,Combivent inhaler
+Antimuscarinics,SAMA_LAMA,BNF,0301040R0BBABAB,Combivent nebuliser liquid 2.5ml UDVs
+Antimuscarinics,SAMA_LAMA,BNF,0301040R0BCAAAB,Ipramol nebuliser solution 2.5ml Steri-Neb unit dose vials
+Antimuscarinics,SAMA_LAMA,BNF,0301040R0BDAAAC,Salipraneb 0.5mg/2.5mg nebuliser soln 2.5ml ampoules (Arrow)
+Antimuscarinics,SAMA_LAMA,BNF,0301040R0BEAAAC,Salipraneb 0.5mg/2.5mg nebuliser soln 2.5ml amp (Actavis)
+Antimuscarinics,SAMA_LAMA,BNF,0301040R0BFAAAB,Combiprasal 0.5mg/2.5mg neb soln 2.5ml unit dose vials
+Antimuscarinics,SAMA_LAMA,BNF,0301040V0AAAAAA,Aclidinium brom 396mcg/dose / Formoterol 11.8mcg/dose DP inh
+Antimuscarinics,SAMA_LAMA,BNF,0301040V0BBAAAA,Duaklir 340micrograms/dose / 12micrograms/dose Genuair
+Antimuscarinics,SAMA_LAMA,BNF,0301040W0AAAAAA,Umeclidinium brom 65microg/Vilanterol 22microg/dose dry pdr
+Antimuscarinics,SAMA_LAMA,BNF,0301040W0BBAAAA,Anoro Ellipta 55microg/dose / 22microg/dose dry pdr inh
+Antimuscarinics,SAMA_LAMA,BNF,0301040X0AAAAAA,Tiotropium brom 2.5microg/Olodaterol 2.5microg/dose soln&dev
+Antimuscarinics,SAMA_LAMA,BNF,0301040X0AAABAB,Tiotropium brom 2.5microg/Olodaterol 2.5microg/dose soln
+Antimuscarinics,SAMA_LAMA,BNF,0301040X0BBAAAA,Spiolto Respimat 2.5microg/dose/2.5microg/dose soln
+Antimuscarinics,SAMA_LAMA,BNF,0301040X0BBABAB,Spiolto Respimat 2.5microg/dose / 2.5microg/dose soln refill
+Antimuscarinics,SAMA_LAMA,BNF,0301040X0BCAAAA,Yanimo Respimat 2.5microg/dose / 2.5microg/dose soln
+Antimuscarinics,SAMA_LAMA,BNF,0301040Y0AAAAAA,Indacaterol 85microg/Glycopyrronium brom 54microg/dose
+Antimuscarinics,SAMA_LAMA,BNF,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev
+Antimuscarinics,SAMA_LAMA,BNF,0302000W0AAAAAA,Generic Enerzair Breezhaler 114/46/136microg inh caps + dev
+Antimuscarinics,SAMA_LAMA,BNF,0302000W0BBAAAA,Enerzair Breezhaler 114microg / 46microg / 136microg/dose
+Antimuscarinics,SAMA_LAMA,BNF,0302000Y0AAAAAA,Generic Trixeo Aerosphere 5microg/7.2microg/160microg/dose
+Antimuscarinics,SAMA_LAMA,BNF,0302000Y0BBAAAA,Trixeo Aerosphere 5microg / 7.2microg / 160microg/dose inh
+Antimuscarinics,SAMA_LAMA,BNF,0302000Z0AAAAAA,Generic Trelegy Ellipta 92microg/55microg/22microg/dose inh
+Antimuscarinics,SAMA_LAMA,BNF,0302000Z0BBAAAA,Trelegy Ellipta 92microg/55microg/22microg/dose dry pdr inh

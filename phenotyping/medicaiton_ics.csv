@@ -1,0 +1,980 @@
+Medicaiton category,Short name,Code type,Code,Description
+Inhaled corticosteroid,ICS,dm+d,134498003,Budesonide+eformoterol fumarate 200/6mcg breath-actuated dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,134499006,Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,320274007,Salmeterol+fluticasone propionate 25micrograms/50micrograms CFC-free inhaler
+Inhaled corticosteroid,ICS,dm+d,320275008,Salmeterol+fluticasone propionate 25micrograms/125micrograms CFC-free inhaler
+Inhaled corticosteroid,ICS,dm+d,320276009,Salmeterol+fluticasone propionate 25micrograms/250micrograms CFC-free  inhaler
+Inhaled corticosteroid,ICS,dm+d,320277000,Salmeterol+fluticasone propionate 50micrograms/100micrograms breath-  actuated dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,320279002,Salmeterol+fluticasone propionate 50micrograms/250micrograms breath- actuated dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,320280004,Salmeterol+fluticasone propionate 50micrograms/500micrograms breath- actuated dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,320487003,Beclometasone 400microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,320488008,Beclometasone 400microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,320490009,Beclometasone 50micrograms/dose breath actuated inhaler
+Inhaled corticosteroid,ICS,dm+d,320491008,Beclometasone 250micrograms/dose breath actuated inhaler
+Inhaled corticosteroid,ICS,dm+d,320492001,Beclometasone 100micrograms/dose breath actuated inhaler
+Inhaled corticosteroid,ICS,dm+d,320520000,Beclometasone 400microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,dm+d,320527002,Beclometasone 100microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,320528007,Beclometasone 200microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,320529004,Beclometasone 100microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,320530009,Beclometasone 200microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,320531008,Beclometasone 250micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,320532001,Beclometasone 200micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,320533006,Beclometasone 50micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,320534000,Beclometasone 100microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,dm+d,320535004,Beclometasone 200microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,dm+d,320537007,Beclometasone dipropionate 100 microgram/actuation pressurised solution  for inhalation
+Inhaled corticosteroid,ICS,dm+d,320543009,Salbutamol 400microgram / Beclometasone 200microgram inhalation  powder capsules
+Inhaled corticosteroid,ICS,dm+d,320544003,Salbutamol 200microgram / Beclometasone 100microgram inhalation  powder capsules
+Inhaled corticosteroid,ICS,dm+d,320545002,Salbutamol 100micrograms/dose / Beclometasone 50micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,320565009,Budesonide 100micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,320567001,Budesonide 200micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,320568006,Budesonide 400micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,320571003,Budesonide 200micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,320574006,Budesonide 50micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,320580003,Fluticasone propionate 50microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,320581004,Fluticasone propionate 100microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,320582006,Fluticasone propionate 250microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,320586009,Fluticasone propionate 50microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,320587000,Fluticasone propionate 100microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,320588005,Fluticasone propionate 250microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,320592003,Fluticasone 25micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,320599007,Fluticasone propionate 500microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,320600005,Fluticasone propionate 500microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,320602002,Fluticasone propionate 50micrograms breath-actuated dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,320603007,Fluticasone propionate 100micrograms breath-actuated dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,320604001,Fluticasone propionate 250micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,320605000,Fluticasone propionate 500micrograms breath-actuated dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,320610001,Fluticasone 500micrograms/2ml nebuliser liquid unit dose vials
+Inhaled corticosteroid,ICS,dm+d,320611002,Fluticasone 2mg/2ml nebuliser liquid unit dose vials
+Inhaled corticosteroid,ICS,dm+d,320614005,Fluticasone propionate 125micrograms CFC-free inhaler
+Inhaled corticosteroid,ICS,dm+d,320615006,Fluticasone propionate 250micrograms CFC-free inhaler
+Inhaled corticosteroid,ICS,dm+d,320618008,Fluticasone propionate 50micrograms CFC-free inhaler
+Inhaled corticosteroid,ICS,dm+d,320630002,Beclometasone 50micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,320631003,Beclometasone 100micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,320632005,Beclometasone 250micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,407769008,Beclometasone 400micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,407770009,Beclometasone 200micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,408013007,Mometasone furoate 400micrograms breath-actuated dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,408026006,Mometasone furoate 200micrograms breath-actuated dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,408061000,Beclometasone 50micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,408062007,Beclometasone 50micrograms/dose breath actuated inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,408063002,Beclometasone 100micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,408064008,Beclometasone 100micrograms/dose breath actuated inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,109781000001108,Beclometasone 400microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,dm+d,109941000001100,Beclometasone 200microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,dm+d,111721000001109,Fluticasone 2mg/2ml nebuliser liquid unit dose vials
+Inhaled corticosteroid,ICS,dm+d,112121000001102,Salbutamol 400microgram / Beclometasone 200microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,dm+d,113791000001106,Fluticasone 500micrograms/2ml nebuliser liquid unit dose vials
+Inhaled corticosteroid,ICS,dm+d,113851000001106,Beclometasone 100microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,dm+d,398511000001105,Flixotide 125micrograms/dose Evohaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,453611000001102,Seretide 50 Evohaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,539811000001106,Seretide 250 Evohaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,726611000001102,Flixotide 50micrograms/dose Evohaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,810211000001105,Seretide 125 Evohaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,2831211000001109,Flixotide 250micrograms/dose Evohaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,2924111000001109,Pulmicort 200micrograms/dose inhaler (AstraZeneca UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3086011000001108,Becodisks 100microgram (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3088611000001100,Becodisks 100microgram with Diskhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3096011000001109,Becodisks 200microgram with Diskhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3097711000001109,Flixotide 50microgram disks with Diskhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3098611000001101,Flixotide 100microgram disks with Diskhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3099611000001105,Flixotide 100microgram disks (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3099811000001109,Becodisks 200microgram (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3100811000001109,Flixotide 50microgram disks (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3102211000001109,Becodisks 400microgram with Diskhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3103211000001103,Becloforte 400microgram disks with Diskhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3103511000001100,Flixotide 250microgram disks (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3104911000001109,Becodisks 400microgram (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3105311000001107,Becloforte 400microgram disks (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3106311000001102,Flixotide 250microgram disks with Diskhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3108411000001105,Flixotide 500microgram disks with Diskhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3110511000001108,Flixotide 500microgram disks (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3111911000001108,Asmabec 50 Clickhaler (Focus Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,3112411000001105,Pulmicort 200 Turbohaler (AstraZeneca UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3112511000001109,Asmabec 100 Clickhaler (Focus Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,3112911000001102,Pulvinal Beclometasone Dipropionate 100micrograms/dose dry powder inhaler (Chiesi Ltd)
+Inhaled corticosteroid,ICS,dm+d,3113111000001106,Pulmicort 100 Turbohaler (AstraZeneca UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3113411000001101,Pulvinal Beclometasone Dipropionate 200micrograms/dose dry powder inhaler (Chiesi Ltd)
+Inhaled corticosteroid,ICS,dm+d,3174111000001102,Asmabec 250 Clickhaler (Focus Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,3175111000001103,Pulvinal Beclometasone Dipropionate 400micrograms/dose dry powder inhaler (Chiesi Ltd)
+Inhaled corticosteroid,ICS,dm+d,3175211000001109,Filair 50 inhaler (Meda Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,3175611000001106,Qvar 100 inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3175711000001102,Beclometasone 50micrograms/dose inhaler (A A H Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,3175911000001100,Beclometasone 50micrograms/dose inhaler (Viatris UK Healthcare Ltd)
+Inhaled corticosteroid,ICS,dm+d,3176211000001103,Becotide 50 inhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3176411000001104,Beclazone 50 inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3176711000001105,Beclometasone 50micrograms/dose inhaler (Kent Pharma (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,3176811000001102,Qvar 50 inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3177111000001107,Beclometasone 50micrograms/dose inhaler (Alliance Healthcare (Distribution) Ltd)
+Inhaled corticosteroid,ICS,dm+d,3177411000001102,Qvar 50 Autohaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3177711000001108,Qvar 100 Autohaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3177911000001105,Filair 100 inhaler (Meda Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,3178211000001102,Beclometasone 100micrograms/dose inhaler (A A H Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,3178411000001103,Beclometasone 100micrograms/dose inhaler (Viatris UK Healthcare Ltd)
+Inhaled corticosteroid,ICS,dm+d,3178611000001100,Becotide 100 inhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3178811000001101,Beclazone 100 inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3179011000001102,Beclometasone 100micrograms/dose inhaler (Alliance Healthcare (Distribution) Ltd)
+Inhaled corticosteroid,ICS,dm+d,3179311000001104,Becotide 200 inhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3179511000001105,Beclazone 200 inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3179811000001108,Beclometasone 250micrograms/dose inhaler (A A H Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,3180011000001102,Beclometasone 250micrograms/dose inhaler (Viatris UK Healthcare Ltd)
+Inhaled corticosteroid,ICS,dm+d,3180211000001107,Becloforte 250micrograms/dose inhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3180611000001109,Beclazone 250 inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3180911000001103,Beclometasone 250micrograms/dose inhaler (Alliance Healthcare (Distribution) Ltd)
+Inhaled corticosteroid,ICS,dm+d,3181411000001102,AeroBec 100 Autohaler (Meda Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,3181711000001108,Beclazone 100 Easi-Breathe inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3182411000001107,AeroBec Forte 250 Autohaler (Meda Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,3182611000001105,Beclazone 250 Easi-Breathe inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3183811000001101,Flixotide 50micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3184311000001107,Flixotide 100micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3184911000001108,Flixotide 250micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3185211000001103,Flixotide 500micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3186911000001100,Seretide 100 Accuhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3187211000001106,Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3188311000001102,Seretide 500 Accuhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3189711000001107,Beclometasone 100 Cyclocaps (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3190311000001103,Becotide 100microgram Rotacaps (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3192111000001101,Becotide 200microgram Rotacaps (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3192611000001109,Beclometasone 200 Cyclocaps (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3194011000001108,Becotide 400microgram Rotacaps (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3194511000001100,Beclometasone 400 Cyclocaps (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3197211000001105,Budesonide 200 Cyclocaps (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3198411000001108,Budesonide 400 Cyclocaps (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3200511000001109,Ventide Paediatric Rotacaps (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3202211000001107,Ventide Rotacaps (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3228711000001106,Pulmicort 400 Turbohaler (AstraZeneca UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3240911000001108,Pulmicort LS 50micrograms/dose inhaler (AstraZeneca UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3292811000001106,Ventide inhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3294211000001101,Symbicort 100/6 Turbohaler (AstraZeneca UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3294611000001104,Symbicort 200/6 Turbohaler (AstraZeneca UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3389111000001102,Flixotide 0.5mg/2ml Nebules (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3397211000001103,Flixotide 2mg/2ml Nebules (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3432911000001109,Budesonide 200microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,dm+d,3433011000001101,Budesonide 400microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,dm+d,3604611000001104,Beclazone 50 Easi-Breathe inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3604911000001105,AeroBec 50 Autohaler (Meda Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,3635411000001106,Pulmicort 0.5mg Respules (AstraZeneca UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3636511000001103,Pulmicort 1mg Respules (AstraZeneca UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,3654511000001105,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials
+Inhaled corticosteroid,ICS,dm+d,3654611000001109,Budesonide 1mg/2ml nebuliser liquid unit dose vials
+Inhaled corticosteroid,ICS,dm+d,4043811000001103,Asmanex 400micrograms/dose Twisthaler (Organon Pharma (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,4045711000001107,Asmanex 200micrograms/dose Twisthaler (Organon Pharma (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,4332611000001107,Beclometasone 200micrograms/dose inhaler (A A H Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,4373811000001100,Symbicort 400/12 Turbohaler (AstraZeneca UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,4378111000001103,Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,4753511000001101,Filair Forte 250micrograms/dose inhaler (Meda Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,4773611000001100,Beclometasone 50micrograms/dose inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,4773811000001101,Beclometasone 100micrograms/dose inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,4774011000001109,Beclometasone 250micrograms/dose inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,4856011000001103,Flixotide 25micrograms/dose inhaler (GlaxoSmithKline UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,4860811000001104,Pulmicort 200micrograms/dose inhaler with Nebuchamber (AstraZeneca UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,4864911000001104,Budesonide 200micrograms/dose inhaler with spacer
+Inhaled corticosteroid,ICS,dm+d,5256011000001101,Becloforte 250micrograms/dose inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5256411000001105,Becotide 200microgram Rotacaps (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5256611000001108,Becotide 100 inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5256811000001107,Becotide 50 inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5258111000001101,Budesonide 400micrograms/dose Turbohaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5261111000001103,Flixotide 100micrograms/dose Accuhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5261411000001108,Flixotide 250micrograms/dose Accuhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5262211000001102,Flixotide 500micrograms/dose Accuhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5265811000001108,Flixotide 100microgram disks (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5266111000001107,Flixotide 250microgram disks (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5266711000001108,Flixotide 500microgram disks (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5267111000001105,Flixotide 125micrograms/dose Evohaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5268111000001106,Flixotide 250micrograms/dose Evohaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5273211000001102,Pulmicort 100 Turbohaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5273611000001100,Pulmicort 200 Turbohaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5273911000001106,Pulmicort 400 Turbohaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5275611000001101,Seretide 100 Accuhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5276011000001104,Seretide 250 Accuhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5276211000001109,Seretide 500 Accuhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5276811000001105,Seretide 250 Evohaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5277211000001106,Symbicort 200/6 Turbohaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5278711000001103,Ventide inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5282711000001106,Becloforte 250micrograms/dose inhaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5284411000001107,Becotide 200microgram Rotacaps (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5284711000001101,Becotide 50 inhaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5290911000001105,Flixotide 100micrograms/dose Accuhaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5292311000001108,Flixotide 100microgram disks (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5293111000001100,Flixotide 125micrograms/dose Evohaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5293811000001107,Flixotide 250micrograms/dose Accuhaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5294311000001101,Flixotide 250microgram disks (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5294611000001106,Flixotide 250micrograms/dose Evohaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5294811000001105,Flixotide 500micrograms/dose Accuhaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5295011000001100,Flixotide 500microgram disks (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5295211000001105,Flixotide 50micrograms/dose Accuhaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5310511000001105,Pulmicort 0.5mg Respules (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5311011000001106,Pulmicort 100 Turbohaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5312311000001100,Pulmicort 1mg Respules (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5313011000001107,Pulmicort 200 Turbohaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5313811000001101,Pulmicort 400 Turbohaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5317111000001100,Seretide 100 Accuhaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5317311000001103,Seretide 250 Accuhaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5317511000001109,Seretide 500 Accuhaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5321011000001102,Symbicort 200/6 Turbohaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5324211000001109,Ventide inhaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5350011000001105,Budesonide 100micrograms/dose Turbohaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5350211000001100,Budesonide 200micrograms/dose Turbohaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5350411000001101,Budesonide 400micrograms/dose Turbohaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5350911000001109,Fluticasone 125micrograms/dose Evohaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5351111000001100,Fluticasone 250micrograms/dose Evohaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,5404711000001104,Pulmicort 0.5mg Respules (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,5525411000001107,Becotide 100microgram Rotacaps (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,7379111000001102,Beclometasone 100micrograms/dose inhaler (Kent Pharma (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,7379311000001100,Beclometasone 250micrograms/dose inhaler (Kent Pharma (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,8024611000001102,Budesonide 200micrograms/dose dry powder inhalation cartridge with device
+Inhaled corticosteroid,ICS,dm+d,8031811000001102,Budelin Novolizer 200micrograms/dose inhalation powder (Viatris UK Healthcare Ltd)
+Inhaled corticosteroid,ICS,dm+d,8159511000001107,Qvar 50micrograms/dose Easi-Breathe inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,8159711000001102,Qvar 100micrograms/dose Easi-Breathe inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,9003911000001102,Alvesco 80 inhaler (Covis Pharma Europe B.V.)
+Inhaled corticosteroid,ICS,dm+d,9004211000001109,Alvesco 160 inhaler (Covis Pharma Europe B.V.)
+Inhaled corticosteroid,ICS,dm+d,9004411000001108,Ciclesonide 160micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,9004511000001107,Ciclesonide 80micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,9111811000001100,Budelin Novolizer 200micrograms/dose inhalation powder refill (Viatris UK Healthcare Ltd)
+Inhaled corticosteroid,ICS,dm+d,9117811000001107,Budesonide 200micrograms/dose dry powder inhalation cartridge
+Inhaled corticosteroid,ICS,dm+d,9525111000001105,Easyhaler Beclometasone 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,10073911000001106,Easyhaler Budesonide 100micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,10074411000001100,Easyhaler Budesonide 400micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,10074611000001102,Easyhaler Budesonide 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,10272811000001101,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,10273211000001108,Budesonide 1mg/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,10273611000001105,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,10274211000001106,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,10326511000001109,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Kent Pharma (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,10326711000001104,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Kent Pharma (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,10347711000001104,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd)
+Inhaled corticosteroid,ICS,dm+d,10347911000001102,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd)
+Inhaled corticosteroid,ICS,dm+d,10453011000001102,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (ArrowGenerics Ltd)
+Inhaled corticosteroid,ICS,dm+d,10453211000001107,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Arrow Generics Ltd)
+Inhaled corticosteroid,ICS,dm+d,10472811000001102,Seretide 250 Evohaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,10473211000001109,Seretide 125 Evohaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,10506611000001103,Symbicort 400/12 Turbohaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,10512011000001109,Seretide 125 Evohaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,10527411000001109,Pulmicort LS 50micrograms/dose inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,10617711000001103,Clenil Modulite 50micrograms/dose inhaler (Chiesi Ltd)
+Inhaled corticosteroid,ICS,dm+d,10618211000001109,Clenil Modulite 100micrograms/dose inhaler (Chiesi Ltd)
+Inhaled corticosteroid,ICS,dm+d,10619311000001107,Clenil Modulite 200micrograms/dose inhaler (Chiesi Ltd)
+Inhaled corticosteroid,ICS,dm+d,10619611000001102,Clenil Modulite 250micrograms/dose inhaler (Chiesi Ltd)
+Inhaled corticosteroid,ICS,dm+d,10621011000001101,Beclometasone 200micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,10621111000001100,Beclometasone 250micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,10785011000001101,Pulmicort 1mg Respules (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,10834011000001106,Flixotide 2mg/2ml Nebules (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,10835911000001109,Flixotide 25micrograms/dose inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,10838111000001101,Becodisks 200microgram (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,10838311000001104,Becodisks 400microgram (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,10844511000001104,Becotide 200 inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,10855011000001109,Flixotide 50micrograms/dose Evohaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,10983311000001107,Symbicort 100/6 Turbohaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,11005511000001104,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Accord Healthcare Ltd)
+Inhaled corticosteroid,ICS,dm+d,11005711000001109,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Accord Healthcare Ltd)
+Inhaled corticosteroid,ICS,dm+d,11400011000001108,Beclometasone 50micrograms/dose inhaler (Almus Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,11400511000001100,Beclometasone 100micrograms/dose inhaler (Almus Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,11400811000001102,Beclometasone 250micrograms/dose inhaler (Almus Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,12888311000001102,Flixotide 0.5mg/2ml Nebules (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,12906411000001100,Fostair 100micrograms/dose / 6micrograms/dose inhaler (Chiesi Ltd)
+Inhaled corticosteroid,ICS,dm+d,12911011000001100,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,13132801000001101,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,13162101000001100,Fluticasone 50micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,13162201000001107,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,13162301000001103,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,13162401000001106,Fluticasone propionate 100micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,13162501000001105,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,13162601000001109,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,13164801000001101,Beclometasone 400microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,13164901000001107,Beclometasone 400microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,13165001000001107,Beclometasone 50micrograms/dose breath actuated inhaler
+Inhaled corticosteroid,ICS,dm+d,13165101000001108,Beclometasone 250micrograms/dose breath actuated inhaler
+Inhaled corticosteroid,ICS,dm+d,13165201000001101,Beclometasone 100micrograms/dose breath actuated inhaler
+Inhaled corticosteroid,ICS,dm+d,13165301000001105,Beclometasone 100microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,13165401000001102,Beclometasone 200microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,13165501000001103,Beclometasone 100microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,13165601000001104,Beclometasone 200microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,13166001000001102,Salbutamol 100micrograms/dose / Beclometasone 50micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,13166401000001107,Budesonide 200micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,13166501000001106,Budesonide 50micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,13166601000001105,Fluticasone propionate 50microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,13166701000001100,Fluticasone propionate 100microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,13166801000001109,Fluticasone propionate 250microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,13166901000001103,Fluticasone propionate 50microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,13167001000001104,Fluticasone propionate 100microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,13167101000001103,Fluticasone propionate 250microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,13167301000001101,Fluticasone propionate 500microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,13167401000001109,Fluticasone propionate 500microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,13167501000001108,Fluticasone propionate 50micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,13167601000001107,Fluticasone propionate 100micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,13167801000001106,Fluticasone propionate 500micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,13167901000001100,Fluticasone 125micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,13168001000001103,Fluticasone 250micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,13168101000001102,Fluticasone 50micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,13180411000001105,Beclazone 100 Easi-Breathe inhaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,13180811000001107,Beclazone 250 Easi-Breathe inhaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,13181011000001105,Beclazone 50 Easi-Breathe inhaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,13186411000001107,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,13186811000001109,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,13206411000001106,Symbicort 100/6 Turbohaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,13206611000001109,Symbicort 400/12 Turbohaler (Dowelhurst Ltd)
+Inhaled corticosteroid,ICS,dm+d,13261601000001100,Mometasone 400micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,13261701000001105,Mometasone 200micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,13262201000001105,Beclometasone 50micrograms/dose breath actuated inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,13262401000001109,Beclometasone 100micrograms/dose breath actuated inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,13841811000001102,Flixotide 50micrograms/dose Accuhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,13876511000001105,Flixotide 100micrograms/dose Accuhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13876711000001100,Flixotide 250micrograms/dose Accuhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13876911000001103,Flixotide 500micrograms/dose Accuhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13877111000001103,Flixotide 250microgram disks (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13877311000001101,Flixotide 500microgram disks (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13877511000001107,Flixotide 125micrograms/dose Evohaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13877711000001102,Flixotide 250micrograms/dose Evohaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13878311000001100,Flixotide 0.5mg/2ml Nebules (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13878511000001106,Flixotide 2mg/2ml Nebules (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13952211000001103,Pulmicort 0.5mg Respules (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13952511000001100,Pulmicort 1mg Respules (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13952811000001102,Pulmicort 100 Turbohaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13953111000001103,Pulmicort 200 Turbohaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13953611000001106,Pulmicort 400 Turbohaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13954711000001100,Qvar 100 inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13958011000001106,Symbicort 100/6 Turbohaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13958611000001104,Symbicort 200/6 Turbohaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13959211000001106,Symbicort 400/12 Turbohaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13961211000001104,Pulmicort LS 50micrograms/dose inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13997111000001100,Seretide 100 Accuhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13997511000001109,Seretide 250 Accuhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13998111000001104,Seretide 125 Evohaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,13998411000001109,Seretide 250 Evohaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,14233711000001100,Flixotide 100micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14233911000001103,Flixotide 500micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14234111000001104,Flixotide 250micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14234311000001102,Flixotide 50micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14234511000001108,Flixotide 125micrograms/dose Evohaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14234711000001103,Flixotide 250micrograms/dose Evohaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14234911000001101,Flixotide 0.5mg/2ml Nebules (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14235111000001100,Flixotide 2mg/2ml Nebules (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14235311000001103,Flixotide 100microgram disks (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14235511000001109,Flixotide 250microgram disks (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14235711000001104,Flixotide 500microgram disks (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14238811000001103,Fluticasone 250micrograms/dose Evohaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14382711000001109,Pulmicort 1mg Respules (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14386211000001101,Pulmicort 0.5mg Respules (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14387611000001102,Pulmicort 400 Turbohaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14390211000001104,Pulmicort 100 Turbohaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14390411000001100,Pulmicort 200 Turbohaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14616311000001102,Qvar 100 Autohaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14616611000001107,Qvar 100 inhaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14620511000001104,Symbicort 100/6 Turbohaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14620711000001109,Symbicort 200/6 Turbohaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14621111000001102,Symbicort 400/12 Turbohaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14674111000001100,Seretide 100 Accuhaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14674711000001104,Seretide 250 Accuhaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14705211000001107,Seretide 500 Accuhaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14705411000001106,Seretide 125 Evohaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14705811000001108,Seretide 250 Evohaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,14755711000001106,Qvar 100 Autohaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,14951111000001102,Pulmicort 100micrograms/dose inhaler CFC free (AstraZeneca UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,14959511000001107,Budesonide 100micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,15052211000001104,Beclometasone 200micrograms/dose inhaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,15060511000001109,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,15358411000001102,Pulmicort 200micrograms/dose inhaler CFC free (AstraZeneca UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,15374611000001106,Budesonide 200micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,15418911000001106,Qvar 100micrograms/dose Easi-Breathe inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,15884311000001105,Qvar 100 inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,16140411000001105,Becodisks 200microgram (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16140911000001102,Becodisks 400microgram (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16179611000001103,Flixotide 250micrograms/dose Accuhaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16179811000001104,Flixotide 500micrograms/dose Accuhaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16180011000001105,Flixotide 125micrograms/dose Evohaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16180211000001100,Flixotide 250micrograms/dose Evohaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16180411000001101,Flixotide 0.5mg/2ml Nebules (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16180611000001103,Flixotide 2mg/2ml Nebules (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16230011000001102,Pulmicort 100 Turbohaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16230211000001107,Pulmicort 200 Turbohaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16230511000001105,Pulmicort 400 Turbohaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16230911000001103,Pulmicort 0.5mg Respules (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16231411000001102,Pulmicort 1mg Respules (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16232011000001103,Qvar 100 Autohaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16240811000001109,Seretide 100 Accuhaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16241011000001107,Seretide 250 Accuhaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16241111000001108,Seretide 500 Accuhaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16241311000001105,Seretide 125 Evohaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16241511000001104,Seretide 250 Evohaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16277711000001101,Becodisks 200microgram (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,16278211000001107,Becodisks 400microgram (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,16545111000001101,Flixotide 250micrograms/dose Accuhaler (Stephar (U.K.) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16545311000001104,Flixotide 125micrograms/dose Evohaler (Stephar (U.K.) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16545511000001105,Flixotide 250micrograms/dose Evohaler (Stephar (U.K.) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16579011000001104,Flixotide 50micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,16579211000001109,Flixotide 100micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,16579411000001108,Flixotide 250micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,16579611000001106,Flixotide 500micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,16579811000001105,Flixotide 125micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,16580011000001104,Flixotide 250micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,16580211000001109,Flixotide 0.5mg/2ml Nebules (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,16580411000001108,Flixotide 2mg/2ml Nebules (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,16581211000001103,Fluticasone 250micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,16586711000001104,Pulmicort 400 Turbohaler (Stephar (U.K.) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16587011000001103,Pulmicort 0.5mg Respules (Stephar (U.K.) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16587211000001108,Pulmicort 1mg Respules (Stephar (U.K.) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16587911000001104,Seretide 100 Accuhaler (Stephar (U.K.) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16588111000001101,Seretide 250 Evohaler (Stephar (U.K.) Ltd)
+Inhaled corticosteroid,ICS,dm+d,16728511000001101,Seretide 50 Evohaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,17425011000001106,Pulmicort 0.5mg Respules (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17425311000001109,Pulmicort 1mg Respules (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17425611000001104,Pulmicort 100 Turbohaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17425811000001100,Pulmicort 200 Turbohaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17426011000001102,Pulmicort 400 Turbohaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17426811000001108,Qvar 50 inhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17427011000001104,Qvar 100 inhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17427211000001109,Qvar 100 Autohaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17440111000001102,Seretide 100 Accuhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17440311000001100,Seretide 250 Accuhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17440511000001106,Seretide 500 Accuhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17440711000001101,Seretide 125 Evohaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17440911000001104,Seretide 250 Evohaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17457311000001102,Symbicort 100/6 Turbohaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17457611000001107,Symbicort 200/6 Turbohaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17457811000001106,Symbicort 400/12 Turbohaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17490511000001100,Alvesco 160 inhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17505711000001109,Flixotide 50micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,17600111000001105,Becodisks 200microgram (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,17600311000001107,Becodisks 400microgram (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,17793411000001101,Beclometasone 50micrograms/dose inhaler (Phoenix Healthcare Distribution Ltd)
+Inhaled corticosteroid,ICS,dm+d,17794111000001108,Beclometasone 100micrograms/dose inhaler (Phoenix Healthcare Distribution Ltd)
+Inhaled corticosteroid,ICS,dm+d,17809311000001106,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd)
+Inhaled corticosteroid,ICS,dm+d,17810011000001102,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd)
+Inhaled corticosteroid,ICS,dm+d,17833911000001100,Beclometasone 250micrograms/dose inhaler (Phoenix Healthcare Distribution Ltd)
+Inhaled corticosteroid,ICS,dm+d,18050311000001104,Alvesco 160 inhaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,18058211000001105,Flixotide 50micrograms/dose Evohaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,18058811000001106,Qvar 100micrograms/dose Easi-Breathe inhaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,18059011000001105,Qvar 50micrograms/dose Easi-Breathe inhaler (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,18174511000001109,Pulmicort 1mg Respules (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18174711000001104,Pulmicort 0.5mg Respules (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18174911000001102,Pulmicort 100 Turbohaler (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18175111000001101,Pulmicort 200 Turbohaler (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18175311000001104,Pulmicort 400 Turbohaler (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18185011000001106,Seretide 100 Accuhaler (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18185211000001101,Seretide 250 Accuhaler (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18185411000001102,Seretide 500 Accuhaler (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18185611000001104,Seretide 125 Evohaler (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18185811000001100,Seretide 250 Evohaler (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18195111000001106,Symbicort 100/6 Turbohaler (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18195311000001108,Symbicort 200/6 Turbohaler (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18195511000001102,Symbicort 400/12 Turbohaler (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18261611000001102,Flixotide 100micrograms/dose Accuhaler (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18261811000001103,Flixotide 250micrograms/dose Accuhaler (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18262011000001101,Flixotide 500micrograms/dose Accuhaler (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18262211000001106,Flixotide 125micrograms/dose Evohaler (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18262411000001105,Flixotide 250micrograms/dose Evohaler (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18262611000001108,Flixotide 250microgram disks (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18263011000001105,Flixotide 500microgram disks (Necessity Supplies Ltd)
+Inhaled corticosteroid,ICS,dm+d,18295511000001100,Qvar 100 Autohaler (Stephar (U.K.) Ltd)
+Inhaled corticosteroid,ICS,dm+d,18507011000001106,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Almus Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,18507211000001101,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Almus Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,18579211000001101,Flixotide 50micrograms/dose Evohaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,18608111000001104,Qvar 100 Autohaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,18608311000001102,Qvar 50 Autohaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,18608511000001108,Qvar 100micrograms/dose Easi-Breathe inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,18608711000001103,Qvar 50micrograms/dose Easi-Breathe inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,18608911000001101,Qvar 50 inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,18611411000001104,Seretide 500 Accuhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,19612611000001105,Flixotide 50micrograms/dose Accuhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,19726711000001101,Alvesco 80 inhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,19727911000001101,Asmanex 400micrograms/dose Twisthaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,19737111000001101,Clenil Modulite 50micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,19737311000001104,Clenil Modulite 100micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,19737511000001105,Clenil Modulite 200micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,19737811000001108,Clenil Modulite 250micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,19965011000001108,Flixotide 100micrograms/dose Accuhaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,21019411000001101,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (Napp Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,21019711000001107,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Napp Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,21020611000001104,Flutiform 50micrograms/dose / 5micrograms/dose inhaler (Napp Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,21113711000001102,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,21113811000001105,Fluticasone 250micrograms/dose / Formoterol 10micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,21113911000001100,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,21690711000001109,Alvesco 160 inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,21804411000001104,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Waymade  Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,21804611000001101,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Waymade Healthcare  Plc)
+Inhaled corticosteroid,ICS,dm+d,22622411000001105,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,22622611000001108,Budesonide 1mg/2ml nebuliser liquid unit dose vials (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,23438611000001104,Alvesco 80 inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,24591711000001104,Clenil Modulite 200micrograms/dose inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,24591911000001102,Clenil Modulite 250micrograms/dose inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,24660811000001107,Beclometasone 100micrograms/dose inhaler CFC free (Ennogen Healthcare  Ltd)
+Inhaled corticosteroid,ICS,dm+d,24667411000001109,Asmanex 200micrograms/dose Twisthaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,25254111000001105,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,25254711000001106,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,26112111000001106,Fostair NEXThaler 100micrograms/dose / 6micrograms/dose dry powder inhaler (Chiesi Ltd)
+Inhaled corticosteroid,ICS,dm+d,26148711000001101,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,27991211000001105,Qvar 50micrograms/dose Easi-Breathe inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,29525711000001109,Beclometasone 50micrograms/dose inhaler CFC free (Colorama Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,29526111000001102,Beclometasone 100micrograms/dose inhaler CFC free (Colorama Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,29526411000001107,Beclometasone 200micrograms/dose inhaler CFC free (Colorama Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,29749211000001101,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,29749411000001102,Flutiform 50micrograms/dose / 5micrograms/dose inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,29749611000001104,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,29775411000001101,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Sigma Pharmaceuticals Plc)
+Inhaled corticosteroid,ICS,dm+d,29782111000001107,Sirdupla 25micrograms/dose / 125micrograms/dose inhaler (Viatris UK Healthcare Ltd)
+Inhaled corticosteroid,ICS,dm+d,29782511000001103,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler (Viatris UK Healthcare Ltd)
+Inhaled corticosteroid,ICS,dm+d,29959011000001102,Alvesco 80 inhaler (Lexon (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,30004311000001102,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,30004511000001108,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,30253911000001100,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler (Waymade Healthcare Plc)
+Inhaled corticosteroid,ICS,dm+d,30950311000001106,AirFluSal Forspiro 50micrograms/dose / 500micrograms/dose dry powder inhaler (Sandoz Ltd)
+Inhaled corticosteroid,ICS,dm+d,30950511000001100,Beclometasone 100micrograms/dose inhaler CFC free (DE  Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,30950711000001105,Beclometasone 200micrograms/dose inhaler CFC free (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,30950911000001107,Beclometasone 50micrograms/dose inhaler CFC free (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,31063111000001106,Fostair NEXThaler 200micrograms/dose / 6micrograms/dose dry powder inhaler (Chiesi Ltd)
+Inhaled corticosteroid,ICS,dm+d,31063411000001101,Fostair 200micrograms/dose / 6micrograms/dose inhaler (Chiesi Ltd)
+Inhaled corticosteroid,ICS,dm+d,31064411000001103,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free (A A H Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,31064611000001100,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free (A A H Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,31064811000001101,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler (A A H Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,31087411000001106,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose  inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,31087511000001105,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose dry  powder inhaler
+Inhaled corticosteroid,ICS,dm+d,31352911000001106,Beclometasone 100micrograms/dose inhaler CFC free (J M McGill Ltd)
+Inhaled corticosteroid,ICS,dm+d,31353111000001102,Beclometasone 200micrograms/dose inhaler CFC free (J M McGill Ltd)
+Inhaled corticosteroid,ICS,dm+d,31353311000001100,Beclometasone 50micrograms/dose inhaler CFC free (J M McGill Ltd)
+Inhaled corticosteroid,ICS,dm+d,32199311000001102,Beclometasone 100micrograms/dose inhaler CFC free (Niche Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,32199911000001101,Beclometasone 200micrograms/dose inhaler CFC free (Niche Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,32200311000001106,Beclometasone 50micrograms/dose inhaler CFC free (Niche Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,32926011000001100,Symbicort 200micrograms/dose / 6micrograms/dose pressurised inhaler (AstraZeneca UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,32960711000001105,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,33679711000001103,Aerivio Spiromax 50micrograms/dose / 500micrograms/dose dry powder inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,34023611000001101,Sereflo 25micrograms/dose / 125micrograms/dose inhaler (Cipla EU Ltd)
+Inhaled corticosteroid,ICS,dm+d,34023811000001102,Sereflo 25micrograms/dose / 250micrograms/dose inhaler (Cipla EU Ltd)
+Inhaled corticosteroid,ICS,dm+d,34215311000001107,AirFluSal 25micrograms/dose / 125micrograms/dose inhaler (Sandoz Ltd)
+Inhaled corticosteroid,ICS,dm+d,34215511000001101,AirFluSal 25micrograms/dose / 250micrograms/dose inhaler (Sandoz Ltd)
+Inhaled corticosteroid,ICS,dm+d,34675711000001103,Aloflute 25micrograms/dose / 250micrograms/dose inhaler (Viatris UK Healthcare Ltd)
+Inhaled corticosteroid,ICS,dm+d,34677011000001107,Aloflute 25micrograms/dose / 125micrograms/dose inhaler (Viatris UK Healthcare Ltd)
+Inhaled corticosteroid,ICS,dm+d,34681611000001100,Trimbow 87micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler (Chiesi Ltd)
+Inhaled corticosteroid,ICS,dm+d,34683311000001106,Generic Trimbow 87micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,34812111000001106,Fobumix Easyhaler 320micrograms/dose / 9micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,34950311000001108,Fobumix Easyhaler 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,34950611000001103,Fobumix Easyhaler 80micrograms/dose / 4.5micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,35369511000001103,Salbutamol 200microgram / Beclometasone 100microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,dm+d,35430111000001100,Kelhale 50micrograms/dose inhaler (Cipla EU Ltd)
+Inhaled corticosteroid,ICS,dm+d,35430311000001103,Kelhale 100micrograms/dose inhaler (Cipla EU Ltd)
+Inhaled corticosteroid,ICS,dm+d,35515311000001106,Fusacomb Easyhaler 50micrograms/dose / 500micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,35515511000001100,Fusacomb Easyhaler 50micrograms/dose / 250micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,35594011000001105,Combisal 25micrograms/dose / 50micrograms/dose inhaler (Aspire Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,35594211000001100,Combisal 25micrograms/dose / 125micrograms/dose inhaler (Aspire Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,35594411000001101,Combisal 25micrograms/dose / 250micrograms/dose inhaler (Aspire Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,35647311000001101,Flutiform K-haler 125micrograms/dose / 5micrograms/dose breath actuated inhaler (Napp Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,35647511000001107,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose breath actuated inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,35647611000001106,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose breath actuated inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,35650811000001109,Flutiform K-haler 50micrograms/dose / 5micrograms/dose breath actuated inhaler (Napp Pharmaceuticals Ltd)
+Inhaled corticosteroid,ICS,dm+d,35907611000001101,Beclometasone 100microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,35907711000001105,Beclometasone 100microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,35907811000001102,Beclometasone 100micrograms/dose breath actuated inhaler
+Inhaled corticosteroid,ICS,dm+d,35907911000001107,Beclometasone 100micrograms/dose breath actuated inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,35908011000001109,Beclometasone 100micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,35908111000001105,Beclometasone 100micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,35908211000001104,Beclometasone 200microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,35908311000001107,Beclometasone 200microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,35908411000001100,Beclometasone 200micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,35908511000001101,Beclometasone 200micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,35908611000001102,Beclometasone 250micrograms/dose breath actuated inhaler
+Inhaled corticosteroid,ICS,dm+d,35908711000001106,Beclometasone 250micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,35908811000001103,Beclometasone 250micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,35908911000001108,Beclometasone 400microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,35909011000001104,Beclometasone 400microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,35909111000001103,Beclometasone 400micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,35909211000001109,Beclometasone 50micrograms/dose breath actuated inhaler
+Inhaled corticosteroid,ICS,dm+d,35909311000001101,Beclometasone 50micrograms/dose breath actuated inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,35909411000001108,Beclometasone 50micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,35909511000001107,Beclometasone 50micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,35909611000001106,Beclometasone 50micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,35912011000001109,Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,35912111000001105,Budesonide 100micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,35912411000001100,Budesonide 200micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,35912511000001101,Budesonide 200micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,35912711000001106,Budesonide 400micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,35912811000001103,Budesonide 50micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,35936211000001105,Salbutamol 100micrograms/dose / Beclometasone 50micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,36059111000001102,Fluticasone 25micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,36059211000001108,Fluticasone propionate 100microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,36059311000001100,Fluticasone propionate 100microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,36059411000001107,Fluticasone propionate 250microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,36059511000001106,Fluticasone propionate 250microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,36059611000001105,Fluticasone propionate 500microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,36059711000001101,Fluticasone propionate 500microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,36059811000001109,Fluticasone propionate 50microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,dm+d,36059911000001104,Fluticasone propionate 50microgram inhalation powder blisters with device
+Inhaled corticosteroid,ICS,dm+d,36565411000001101,Fluticasone propionate 250micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,36603211000001106,Soprobec 50micrograms/dose inhaler (Glenmark Pharmaceuticals Europe Ltd)
+Inhaled corticosteroid,ICS,dm+d,36603411000001105,Soprobec 200micrograms/dose inhaler (Glenmark Pharmaceuticals Europe Ltd)
+Inhaled corticosteroid,ICS,dm+d,36603611000001108,Soprobec 100micrograms/dose inhaler (Glenmark Pharmaceuticals Europe Ltd)
+Inhaled corticosteroid,ICS,dm+d,36603811000001107,Soprobec 250micrograms/dose inhaler (Glenmark Pharmaceuticals Europe Ltd)
+Inhaled corticosteroid,ICS,dm+d,36604711000001102,Stalpex 50micrograms/dose / 500micrograms/dose dry powder inhaler (Glenmark Pharmaceuticals Europe Ltd)
+Inhaled corticosteroid,ICS,dm+d,36889311000001107,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Pharmaram Ltd)
+Inhaled corticosteroid,ICS,dm+d,36889511000001101,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (Pharmaram Ltd)
+Inhaled corticosteroid,ICS,dm+d,37391711000001105,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,37397211000001108,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,37397411000001107,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Mawdsley-Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,37400911000001108,Qvar 100 Autohaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,37434411000001103,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,37434611000001100,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,37443211000001101,Seretide 250 Accuhaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,37443411000001102,Seretide 500 Accuhaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,37443611000001104,Seretide 250 Evohaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,37444011000001108,Seretide 125 Evohaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,37444211000001103,Symbicort 400/12 Turbohaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,37444611000001101,Qvar 100 inhaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,37446211000001108,Flixotide 100micrograms/dose Accuhaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,37446411000001107,Flixotide 250micrograms/dose Accuhaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,37446611000001105,Flixotide 500micrograms/dose Accuhaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,37448711000001102,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,37484711000001101,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Mawdsley- Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,37484911000001104,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (Mawdsley- Brooks & Company Ltd)
+Inhaled corticosteroid,ICS,dm+d,37577111000001108,Alvesco 160 inhaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,37631511000001104,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Ethigen Ltd)
+Inhaled corticosteroid,ICS,dm+d,37631711000001109,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (Ethigen Ltd)
+Inhaled corticosteroid,ICS,dm+d,37665111000001104,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,37665311000001102,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,37699111000001100,Pulmicort 0.5mg Respules (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,37699311000001103,Pulmicort 1mg Respules (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,37699711000001104,Qvar 100 Autohaler (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,37702211000001106,Seretide 250 Accuhaler (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,37702411000001105,Seretide 250 Evohaler (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,37702611000001108,Seretide 500 Accuhaler (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,37714411000001100,AirFluSal Forspiro 50micrograms/dose / 500micrograms/dose dry powder inhaler (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,37714611000001102,AirFluSal 25micrograms/dose / 125micrograms/dose inhaler (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,37714811000001103,AirFluSal 25micrograms/dose / 250micrograms/dose inhaler (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,37727811000001101,Qvar 100 inhaler (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,37729411000001107,Sereflo 25micrograms/dose / 250micrograms/dose inhaler (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,37739011000001101,Symbicort 200/6 Turbohaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,37996511000001103,Seretide 125 Evohaler (Pharmaram Ltd)
+Inhaled corticosteroid,ICS,dm+d,37996711000001108,Seretide 250 Evohaler (Pharmaram Ltd)
+Inhaled corticosteroid,ICS,dm+d,37997311000001107,Symbicort 100/6 Turbohaler (Pharmaram Ltd)
+Inhaled corticosteroid,ICS,dm+d,37997511000001101,Symbicort 200/6 Turbohaler (Pharmaram Ltd)
+Inhaled corticosteroid,ICS,dm+d,37997711000001106,Symbicort 400/12 Turbohaler (Pharmaram Ltd)
+Inhaled corticosteroid,ICS,dm+d,38130011000001108,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,38130211000001103,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,38130411000001104,Easyhaler Beclometasone 200micrograms/dose dry powder inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,38130611000001101,Easyhaler Budesonide 100micrograms/dose dry powder inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,38130811000001102,Easyhaler Budesonide 200micrograms/dose dry powder inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,38131011000001104,Easyhaler Budesonide 400micrograms/dose dry powder inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,38134511000001109,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,38134711000001104,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,38134911000001102,Flutiform 50micrograms/dose / 5micrograms/dose inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,38135111000001101,Flutiform K-haler 125micrograms/dose / 5micrograms/dose breath actuated inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,38135311000001104,Flutiform K-haler 50micrograms/dose / 5micrograms/dose breath actuated inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,38136011000001106,Fostair NEXThaler 100micrograms/dose / 6micrograms/dose dry powder  'nhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,38166911000001103,Sirdupla 25micrograms/dose / 125micrograms/dose inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,38167111000001103,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,38640111000001109,Sirdupla 25micrograms/dose / 125micrograms/dose inhaler (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,38640311000001106,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,38807211000001100,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Medihealth (Northern) Ltd)
+Inhaled corticosteroid,ICS,dm+d,38807411000001101,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Medihealth (Northern) Ltd)
+Inhaled corticosteroid,ICS,dm+d,38895411000001109,Mometasone 200micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,38895611000001107,Mometasone 400micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,38896811000001103,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,38897411000001103,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,38897511000001104,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,38897611000001100,Fluticasone propionate 100micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,38897711000001109,Fluticasone propionate 500micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,38897811000001101,Fluticasone propionate 100micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,38897911000001106,Fluticasone propionate 50micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,38960111000001101,Fluticasone 500micrograms/2ml nebuliser liquid unit dose vials (Imported)
+Inhaled corticosteroid,ICS,dm+d,38960511000001105,Fluticasone 2mg/2ml nebuliser liquid unit dose vials (Imported)
+Inhaled corticosteroid,ICS,dm+d,39089311000001103,Flutiform K-haler 125micrograms/dose / 5micrograms/dose breath actuated inhaler (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,39105811000001102,Symbicort 100micrograms/dose / 3micrograms/dose pressurised inhaler (AstraZeneca UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,39110911000001100,Fluticasone 50micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,39111011000001108,Fluticasone 50micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,39111111000001109,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,39111211000001103,Fluticasone 125micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,39111311000001106,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,39111411000001104,Fluticasone 250micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,39114511000001103,Atectura Breezhaler 125micrograms/62.5micrograms inhalation powder capsules with device (Sandoz Ltd)
+Inhaled corticosteroid,ICS,dm+d,39115411000001101,Atectura Breezhaler 125micrograms/127.5micrograms inhalation powder capsules with device (Sandoz Ltd)
+Inhaled corticosteroid,ICS,dm+d,39115911000001109,Atectura Breezhaler 125micrograms/260micrograms inhalation powder capsules with device (Sandoz Ltd)
+Inhaled corticosteroid,ICS,dm+d,39116311000001103,Indacaterol 125micrograms/dose / Mometasone 127.5micrograms/dose inhalation powder capsules with device
+Inhaled corticosteroid,ICS,dm+d,39116411000001105,Indacaterol 125micrograms/dose / Mometasone 260micrograms/dose inhalation powder capsules with device
+Inhaled corticosteroid,ICS,dm+d,39116511000001109,Indacaterol 125micrograms/dose / Mometasone 62.5micrograms/dose inhalation powder capsules with device
+Inhaled corticosteroid,ICS,dm+d,39133611000001108,Budesonide 100micrograms/dose / Formoterol 3micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,39134511000001107,Generic Enerzair Breezhaler 114micrograms/dose / 46micrograms/dose / 136micrograms/dose inhalation powder capsules with device
+Inhaled corticosteroid,ICS,dm+d,39134711000001102,Enerzair Breezhaler 114micrograms/dose / 46micrograms/dose / 136micrograms/dose inhalation powder capsules with device (Sandoz Ltd)
+Inhaled corticosteroid,ICS,dm+d,39327311000001104,Trixeo Aerosphere 5micrograms/dose / 7.2micrograms/dose / 160micrograms/dose pressurised inhaler (AstraZeneca UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,39343511000001103,Generic Trixeo Aerosphere 5micrograms/dose / 7.2micrograms/dose / 160micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,dm+d,39360211000001103,Fostair NEXThaler 100micrograms/dose / 6micrograms/dose dry powder inhaler (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,39360411000001104,Sereflo 25micrograms/dose / 125micrograms/dose inhaler (Pilsco Ltd)
+Inhaled corticosteroid,ICS,dm+d,39567411000001102,Fixkoh Airmaster 50micrograms/dose / 500micrograms/dose dry powder inhaler (Thornton & Ross Ltd)
+Inhaled corticosteroid,ICS,dm+d,39567611000001104,Fixkoh Airmaster 50micrograms/dose / 250micrograms/dose dry powder inhaler (Thornton & Ross Ltd)
+Inhaled corticosteroid,ICS,dm+d,39567811000001100,Fixkoh Airmaster 50micrograms/dose / 100micrograms/dose dry powder inhaler (Thornton & Ross Ltd)
+Inhaled corticosteroid,ICS,dm+d,39691211000001100,Fluticasone propionate 100micrograms/dose dry powder inhaler (Imported)
+Inhaled corticosteroid,ICS,dm+d,39695511000001104,Beclometasone 100microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,dm+d,39695611000001100,Beclometasone 200microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,dm+d,39695711000001109,Beclometasone 400microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,dm+d,39696311000001100,Salbutamol 400microgram / Beclometasone 200microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,dm+d,39712311000001105,Fluticasone 500micrograms/2ml nebuliser liquid unit dose vials
+Inhaled corticosteroid,ICS,dm+d,39712511000001104,Fluticasone 2mg/2ml nebuliser liquid unit dose vials
+Inhaled corticosteroid,ICS,dm+d,39817511000001103,Luforbec 100micrograms/dose / 6micrograms/dose inhaler (Lupin Healthcare (UK) Ltd)
+Inhaled corticosteroid,ICS,dm+d,39939611000001107,Fostair 100micrograms/dose / 6micrograms/dose inhaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,39993311000001105,Trimbow NEXThaler 88micrograms/dose / 5micrograms/dose / 9micrograms/dose dry powder inhaler (Chiesi Ltd)
+Inhaled corticosteroid,ICS,dm+d,40034211000001104,Avenor 25micrograms/dose / 50micrograms/dose inhaler (Zentiva Pharma UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,40040711000001101,Avenor 25micrograms/dose / 125micrograms/dose inhaler (Zentiva Pharma UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,40040911000001104,Avenor 25micrograms/dose / 250micrograms/dose inhaler (Zentiva Pharma UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,40087411000001104,Generic Trimbow NEXThaler 88micrograms/dose / 5micrograms/dose / 9micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,40106011000001102,WockAIR 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Wockhardt UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,40106211000001107,WockAIR 320micrograms/dose / 9micrograms/dose dry powder inhaler (Wockhardt UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,40220711000001106,Seretide 50 Evohaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,40220911000001108,Fostair NEXThaler 100micrograms/dose / 6micrograms/dose dry powder inhaler (CST Pharma Ltd)
+Inhaled corticosteroid,ICS,dm+d,40377811000001105,Alvesco 160 inhaler (DE Pharmaceuticals)
+Inhaled corticosteroid,ICS,dm+d,40444911000001101,Seffalair Spiromax 12.75micrograms/dose / 202micrograms/dose dry powder inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,40445111000001100,Seffalair Spiromax 12.75micrograms/dose / 100micrograms/dose dry powder inhaler (Teva UK Ltd)
+Inhaled corticosteroid,ICS,dm+d,40455711000001101,Fluticasone propionate 100micrograms/dose / Salmeterol 12.75micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,40455811000001109,Fluticasone propionate 202micrograms/dose / Salmeterol 12.75micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,dm+d,40504911000001103,Sereflo Ciphaler 50micrograms/dose / 250micrograms/dose dry powder inhaler (Cipla EU Ltd)
+Inhaled corticosteroid,ICS,dm+d,40752211000001109,Trimbow 172micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler (Chiesi Ltd)
+Inhaled corticosteroid,ICS,dm+d,40766811000001104,Generic Trimbow 172micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler
+Inhaled corticosteroid,ICS,dm+d,40852311000001103,Luforbec 200micrograms/dose / 6micrograms/dose inhaler (Lupin Healthcare (UK) Ltd)
+Inhaled corticosteroid,ICS,BNF,0301011ABAAAAAA,Generic Trimbow NEXThaler 88microg/5microg/9microg/dose inh
+Inhaled corticosteroid,ICS,BNF,0301011ABAAABAB,Generic Trimbow 172microg/5microg/9microg/dose inh CFC free
+Inhaled corticosteroid,ICS,BNF,0301011ABBBAAA0,Trimbow 87microg/dose / 5microg/dose / 9microg/dose inh
+Inhaled corticosteroid,ICS,BNF,0301011ABBBABAA,Trimbow NEXThaler 88microg/5microg/9microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0301011ABBBACAB,Trimbow 172microg/dose / 5microg/dose / 9microg/dose inh
+Inhaled corticosteroid,ICS,BNF,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0AAAEAE,Beclometasone 100microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,BNF,0302000C0AAAFAF,Beclometasone 200microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,BNF,0302000C0AAAGAG,Beclometasone 100microgram inhalation pdr blist with device
+Inhaled corticosteroid,ICS,BNF,0302000C0AAAHAH,Beclometasone 200microgram inhalation pdr blist with device
+Inhaled corticosteroid,ICS,BNF,0302000C0AAAIAI,Beclometasone 400microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,BNF,0302000C0AAAJAJ,Beclometasone 400microgram inhalation pdr blist with device
+Inhaled corticosteroid,ICS,BNF,0302000C0AAAKAK,Beclometasone 200microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,BNF,0302000C0AAALAL,Beclometasone 100microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,BNF,0302000C0AAANAN,Salbutamol 100microg/dose / Beclometasone 50microg/dose inh
+Inhaled corticosteroid,ICS,BNF,0302000C0AAAPAP,Salbutamol 400microg/Beclometasone 200microg pdr caps
+Inhaled corticosteroid,ICS,BNF,0302000C0AAAQAQ,Beclometasone 400microgram inhalation powder blisters
+Inhaled corticosteroid,ICS,BNF,0302000C0AAARAR,Beclometasone 200micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0AAASAS,Beclometasone 50micrograms/dose breath actuated inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0AAATAT,Beclometasone 100micrograms/dose breath actuated inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0AAAUAU,Beclometasone 250micrograms/dose breath actuated inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0AABEBE,Beclometasone 50micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,BNF,0302000C0AABFBF,Beclometasone 100micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,BNF,0302000C0AABGBG,Beclometasone 50micrograms/dose breath actuated inh CFC free
+Inhaled corticosteroid,ICS,BNF,0302000C0AABHBH,Beclometasone 100mcg/dose breath actuated inhaler CFC free
+Inhaled corticosteroid,ICS,BNF,0302000C0AABIBI,Beclometasone 50micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0AABJBJ,Beclometasone 100micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0AABKBK,Beclometasone 250micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0AABLBL,Salbutamol 200microg/Beclometasone 100microg pdr caps
+Inhaled corticosteroid,ICS,BNF,0302000C0AABSBS,Beclometasone 400micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0AABUBU,Beclometasone 200micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0AABVBV,Beclometasone 200micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,BNF,0302000C0AABWBW,Beclometasone 250micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,BNF,0302000C0AABXBX,Beclometasone 100microg/Formoterol 6microg/dose inh CFCfree
+Inhaled corticosteroid,ICS,BNF,0302000C0AABYBY,Beclometasone 100microg/Formoterol 6microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000C0AABZBZ,Beclometasone 200microg/Formoterol 6microg/dose inh CFC free
+Inhaled corticosteroid,ICS,BNF,0302000C0AACACA,Beclometasone 200microg/Formoterol 6microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000C0BBAAAC,Becloforte 250micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BBACAJ,Becloforte 400microgram disks with Diskhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BBADAQ,Becloforte 400microgram disks
+Inhaled corticosteroid,ICS,BNF,0302000C0BCACAE,Becotide 100microgram Rotacaps
+Inhaled corticosteroid,ICS,BNF,0302000C0BCADAF,Becotide 200microgram Rotacaps
+Inhaled corticosteroid,ICS,BNF,0302000C0BCAGAI,Becotide 400microgram Rotacaps
+Inhaled corticosteroid,ICS,BNF,0302000C0BCAHAB,Becotide 100 inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BCAIAA,Becotide 50 inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BCAQAR,Becotide 200 inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BDAAAN,Ventide inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BDABAP,Ventide Rotacaps
+Inhaled corticosteroid,ICS,BNF,0302000C0BDACBL,Ventide Paediatric Rotacaps
+Inhaled corticosteroid,ICS,BNF,0302000C0BEAAAS,AeroBec 50 Autohaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BEABAU,AeroBec Forte 250 Autohaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BEACAT,AeroBec 100 Autohaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BFAAAA,Beclazone 50 inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BFABAB,Beclazone 100 inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BFACAC,Beclazone 250 inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BFADAS,Beclazone 50 Easi-Breathe inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BFAEAT,Beclazone 100 Easi-Breathe inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BFAFAU,Beclazone 250 Easi-Breathe inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BFAGAR,Beclazone 200 inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BGAAAA,Filair 50 inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BGABAB,Filair 100 inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BGACAC,Filair Forte 250micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BHAAAG,Becodisks 100microgram with Diskhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BHABAL,Becodisks 100microgram
+Inhaled corticosteroid,ICS,BNF,0302000C0BHACAH,Becodisks 200microgram with Diskhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BHADAK,Becodisks 200microgram
+Inhaled corticosteroid,ICS,BNF,0302000C0BHAEAJ,Becodisks 400microgram with Diskhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BHAFAQ,Becodisks 400microgram
+Inhaled corticosteroid,ICS,BNF,0302000C0BIADBI,Asmabec 50 Clickhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BIAEBJ,Asmabec 100 Clickhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BIAFBK,Asmabec 250 Clickhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BJAABE,Qvar 50 inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BJABBF,Qvar 100 inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BJACBG,Qvar 50 Autohaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BJADBH,Qvar 100 Autohaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BJAEBG,Qvar 50micrograms/dose Easi-Breathe inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BJAFBH,Qvar 100micrograms/dose Easi-Breathe inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BLAABU,Pulvinal Beclometasone Diprop 200microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000C0BLABBJ,Pulvinal Beclometasone Diprop 100microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000C0BLACBS,Pulvinal Beclometasone Diprop 400microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000C0BMAAAE,Beclometasone 100 Cyclocaps
+Inhaled corticosteroid,ICS,BNF,0302000C0BMABAF,Beclometasone 200 Cyclocaps
+Inhaled corticosteroid,ICS,BNF,0302000C0BMACAI,Beclometasone 400 Cyclocaps
+Inhaled corticosteroid,ICS,BNF,0302000C0BNAABU,Easyhaler Beclometasone 200micrograms/dose dry pdr inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BPAABE,Clenil Modulite 50micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BPABBF,Clenil Modulite 100micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BPACBV,Clenil Modulite 200micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BPADBW,Clenil Modulite 250micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BQAABX,Fostair 100micrograms/dose / 6micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BQABBZ,Fostair 200micrograms/dose / 6micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BRAABY,Fostair NEXThaler 100microg/dose / 6microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000C0BRABCA,Fostair NEXThaler 200microg/dose / 6microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000C0BSAABE,Kelhale 50micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BSABBF,Kelhale 100micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BTAABE,Soprobec 50micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BTABBV,Soprobec 200micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BTACBF,Soprobec 100micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BTADBW,Soprobec 250micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BUAABX,Luforbec 100micrograms/dose / 6micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000C0BUABBZ,Luforbec 200micrograms/dose / 6micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000K0AAAAAA,Budesonide 50micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000K0AAADAD,Budesonide 200micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000K0AAAGAG,Budesonide 200micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000K0AAAHAH,Budesonide 400micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000K0AAAIAI,Budesonide 1mg/2ml nebuliser liquid unit dose vials
+Inhaled corticosteroid,ICS,BNF,0302000K0AAAJAJ,Budesonide 500micrograms/2ml neb liq unit dose vials
+Inhaled corticosteroid,ICS,BNF,0302000K0AAAKAK,Budesonide 100micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000K0AAALAL,Budesonide 100microg / Formoterol 6microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000K0AAAMAM,Budesonide 200mcg/dose / Formoterol 6mcg/dose dry powder inh
+Inhaled corticosteroid,ICS,BNF,0302000K0AAARAR,Budesonide 200microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,BNF,0302000K0AAASAS,Budesonide 400microgram inhalation powder capsules
+Inhaled corticosteroid,ICS,BNF,0302000K0AAATAT,Budesonide 200micrograms/dose inhaler with spacer
+Inhaled corticosteroid,ICS,BNF,0302000K0AAAUAU,Budesonide 400mcg/dose /Formoterol 12mcg/dose dry powder inh
+Inhaled corticosteroid,ICS,BNF,0302000K0AAAVAV,Budesonide 200microg/dose dry pdr inhalation cart with dev
+Inhaled corticosteroid,ICS,BNF,0302000K0AAAWAW,Budesonide 200micrograms/dose dry pdr inhalation cartridge
+Inhaled corticosteroid,ICS,BNF,0302000K0AAAZAZ,Budesonide 100micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,BNF,0302000K0AABABA,Budesonide 200micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,BNF,0302000K0AABBBB,Budesonide 200microg / Formoterol 6microg/dose inh CFC free
+Inhaled corticosteroid,ICS,BNF,0302000K0AABCBC,Budesonide 100microg / Formoterol 3microg/dose inh CFC free
+Inhaled corticosteroid,ICS,BNF,0302000K0BBADAD,Pulmicort 200micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000K0BBAEAA,Pulmicort LS 50micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000K0BBAGAI,Pulmicort 1mg Respules
+Inhaled corticosteroid,ICS,BNF,0302000K0BBAHAG,Pulmicort 200 Turbohaler
+Inhaled corticosteroid,ICS,BNF,0302000K0BBAIAH,Pulmicort 400 Turbohaler
+Inhaled corticosteroid,ICS,BNF,0302000K0BBAJAJ,Pulmicort 0.5mg Respules
+Inhaled corticosteroid,ICS,BNF,0302000K0BBAKAK,Pulmicort 100 Turbohaler
+Inhaled corticosteroid,ICS,BNF,0302000K0BBALAT,Pulmicort 200micrograms/dose inhaler with Nebuchamber
+Inhaled corticosteroid,ICS,BNF,0302000K0BBAMAZ,Pulmicort 100micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,BNF,0302000K0BBANBA,Pulmicort 200micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,BNF,0302000K0BDAAAL,Symbicort 100/6 Turbohaler
+Inhaled corticosteroid,ICS,BNF,0302000K0BDABAM,Symbicort 200/6 Turbohaler
+Inhaled corticosteroid,ICS,BNF,0302000K0BDACAU,Symbicort 400/12 Turbohaler
+Inhaled corticosteroid,ICS,BNF,0302000K0BDADBB,Symbicort 200microg/dose / 6microg/dose pressurised inh
+Inhaled corticosteroid,ICS,BNF,0302000K0BDAEBC,Symbicort 100microg/dose / 3microg/dose pressurised inh
+Inhaled corticosteroid,ICS,BNF,0302000K0BEAAAR,Budesonide 200 Cyclocaps
+Inhaled corticosteroid,ICS,BNF,0302000K0BEABAS,Budesonide 400 Cyclocaps
+Inhaled corticosteroid,ICS,BNF,0302000K0BFAAAV,Budelin Novolizer 200micrograms/dose inhalation powder
+Inhaled corticosteroid,ICS,BNF,0302000K0BFABAW,Budelin Novolizer 200micrograms/dose inhalation pdr refill
+Inhaled corticosteroid,ICS,BNF,0302000K0BGAAAK,Easyhaler Budesonide 100micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000K0BGABAG,Easyhaler Budesonide 200micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000K0BGACAH,Easyhaler Budesonide 400micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000K0BHAAAM,DuoResp Spiromax 160microg/dose / 4.5microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000K0BIAAAU,Fobumix Easyhaler 320microg/dose / 9microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000K0BIABAM,Fobumix Easyhaler 160microg / 4.5microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000K0BIADAL,Fobumix Easyhaler 80microg/dose / 4.5microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000K0BJAAAM,WockAIR 160micrograms/dose / 4.5micrograms/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000K0BJABAU,WockAIR 320micrograms/dose / 9micrograms/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000N0AAAAAA,Fluticasone propionate 50microg inhalation pdr blist
+Inhaled corticosteroid,ICS,BNF,0302000N0AAABAB,Fluticasone propionate 50microgram inhalation pdr blist
+Inhaled corticosteroid,ICS,BNF,0302000N0AAACAC,Fluticasone propionate100microg inhalation pdr blist
+Inhaled corticosteroid,ICS,BNF,0302000N0AAADAD,Fluticasone propionate 100microgram inhalation pdr blist
+Inhaled corticosteroid,ICS,BNF,0302000N0AAAEAE,Fluticasone propionate 250mcg inhalation pdr blist + dev
+Inhaled corticosteroid,ICS,BNF,0302000N0AAAFAF,Fluticasone propionate 250microgram inhalation pdr blist
+Inhaled corticosteroid,ICS,BNF,0302000N0AAAGAG,Fluticasone 25micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0AAAPAP,Fluticasone propionate 500microg inhalation pdr blist
+Inhaled corticosteroid,ICS,BNF,0302000N0AAAQAQ,Fluticasone propionate 500microgram inhalation pdr blist
+Inhaled corticosteroid,ICS,BNF,0302000N0AAARAR,Fluticasone propionate 50micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0AAASAS,Fluticasone propionate 100micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0AAATAT,Fluticasone propionate 250micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0AAAUAU,Fluticasone propionate 500micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0AAAVAV,Fluticasone 500micrograms/2ml neb liq unit dose vials
+Inhaled corticosteroid,ICS,BNF,0302000N0AAAWAW,Fluticasone 2mg/2ml nebuliser liquid unit dose vials
+Inhaled corticosteroid,ICS,BNF,0302000N0AAAXAX,Fluticasone propionate 100microg/Salmeterol 50microg/dose
+Inhaled corticosteroid,ICS,BNF,0302000N0AAAYAY,Fluticasone propionate 250microg/Salmeterol 50microg/dose
+Inhaled corticosteroid,ICS,BNF,0302000N0AAAZAZ,Fluticasone propionate 500microg/Salmeterol 50microg/dose
+Inhaled corticosteroid,ICS,BNF,0302000N0AABABA,Fluticasone 125micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,BNF,0302000N0AABCBC,Fluticasone 250micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,BNF,0302000N0AABEBE,Fluticasone 50microg / Salmeterol 25microg/dose inh CFC free
+Inhaled corticosteroid,ICS,BNF,0302000N0AABFBF,Fluticasone 125mcg/dose / Salmeterol 25mcg/dose inh CFC free
+Inhaled corticosteroid,ICS,BNF,0302000N0AABGBG,Fluticasone 250mcg/dose / Salmeterol 25mcg/dose inh CFC free
+Inhaled corticosteroid,ICS,BNF,0302000N0AABHBH,Fluticasone 50micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,BNF,0302000N0AABJBJ,Fluticasone 125microg / Formoterol 5microg/dose inh CFC free
+Inhaled corticosteroid,ICS,BNF,0302000N0AABKBK,Fluticasone 250microg / Formoterol 10microg/dose inh CFCfree
+Inhaled corticosteroid,ICS,BNF,0302000N0AABLBL,Fluticasone 50microg / Formoterol 5microg/dose inh CFC free
+Inhaled corticosteroid,ICS,BNF,0302000N0AABPBP,Fluticasone 125microg/Formoterol 5microg/dose BA inh CFCfree
+Inhaled corticosteroid,ICS,BNF,0302000N0AABQBQ,Fluticasone 50microg/Formoterol 5microg/dose BA inh CFC free
+Inhaled corticosteroid,ICS,BNF,0302000N0AABRBR,Fluticasone propionate 100microg/Salmeterol 12.75microg/dose
+Inhaled corticosteroid,ICS,BNF,0302000N0AABSBS,Fluticasone propionate 202microg/Salmeterol 12.75microg/dose
+Inhaled corticosteroid,ICS,BNF,0302000N0BBAAAA,Flixotide 50microgram disks with Diskhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BBABAB,Flixotide 50microgram disks
+Inhaled corticosteroid,ICS,BNF,0302000N0BBACAC,Flixotide 100microgram disks with Diskhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BBADAD,Flixotide 100microgram disks
+Inhaled corticosteroid,ICS,BNF,0302000N0BBAEAE,Flixotide 250microgram disks with Diskhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BBAFAF,Flixotide 250microgram disks
+Inhaled corticosteroid,ICS,BNF,0302000N0BBAGAG,Flixotide 25micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BBAPAP,Flixotide 500microgram disks with Diskhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BBAQAQ,Flixotide 500microgram disks
+Inhaled corticosteroid,ICS,BNF,0302000N0BBARAR,Flixotide 50micrograms/dose Accuhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BBASAS,Flixotide 100micrograms/dose Accuhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BBATAT,Flixotide 250micrograms/dose Accuhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BBAUAU,Flixotide 500micrograms/dose Accuhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BBAVAV,Flixotide 0.5mg/2ml Nebules
+Inhaled corticosteroid,ICS,BNF,0302000N0BBAWAW,Flixotide 2mg/2ml Nebules
+Inhaled corticosteroid,ICS,BNF,0302000N0BBAYBA,Flixotide 125micrograms/dose Evohaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BBBABC,Flixotide 250micrograms/dose Evohaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BBBBBH,Flixotide 50micrograms/dose Evohaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BCAAAX,Seretide 100 Accuhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BCABAY,Seretide 250 Accuhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BCACAZ,Seretide 500 Accuhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BCADBE,Seretide 50 Evohaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BCAEBF,Seretide 125 Evohaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BCAFBG,Seretide 250 Evohaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BDAABJ,Flutiform 125micrograms/dose / 5micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BDABBK,Flutiform 250micrograms/dose / 10micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BDACBL,Flutiform 50micrograms/dose / 5micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BDADBP,Flutiform K-haler 125microg/dose / 5microg/dose BA inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BDAEBQ,Flutiform K-haler 50microg/dose / 5microg/dose BA inh
+Inhaled corticosteroid,ICS,BNF,0302000N0BFAABF,Sirdupla 25micrograms/dose / 125micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BFABBG,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BGAAAZ,AirFluSal Forspiro 50microg / 500microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000N0BGABBF,AirFluSal 25micrograms/dose / 125micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BGACBG,AirFluSal 25micrograms/dose / 250micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BHAAAZ,Aerivio Spiromax 50microg / 500microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000N0BIAABF,Sereflo 25micrograms/dose / 125micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BIABBG,Sereflo 25micrograms/dose / 250micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BIACAY,Sereflo Ciphaler 50microg / 250microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000N0BJAABF,Aloflute 25micrograms/dose / 125micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BJABBG,Aloflute 25micrograms/dose / 250micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BKAAAY,Fusacomb Easyhaler 50microg / 250microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000N0BKABAZ,Fusacomb Easyhaler 50microg / 500microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000N0BLAABE,Combisal 25micrograms/dose / 50micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BLABBF,Combisal 25micrograms/dose / 125micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BLACBG,Combisal 25micrograms/dose / 250micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BMAAAZ,Stalpex 50microg/dose / 500microg/dose dry powder inh
+Inhaled corticosteroid,ICS,BNF,0302000N0BNAAAZ,Fixkoh Airmaster 50microg/dose / 500microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000N0BNABAY,Fixkoh Airmaster 50microg/dose / 250microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000N0BNACAX,Fixkoh Airmaster 50microg/dose / 100microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000N0BPAABE,Avenor 25micrograms/dose / 50micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BPABBF,Avenor 25micrograms/dose / 125micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BPACBG,Avenor 25micrograms/dose / 250micrograms/dose inhaler
+Inhaled corticosteroid,ICS,BNF,0302000N0BQAABR,Seffalair Spiromax 12.75microg / 100microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000N0BQABBS,Seffalair Spiromax 12.75microg / 202microg/dose dry pdr inh
+Inhaled corticosteroid,ICS,BNF,0302000R0AAAAAA,Mometasone 200micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000R0AAACAC,Mometasone 400micrograms/dose dry powder inhaler
+Inhaled corticosteroid,ICS,BNF,0302000R0BBAAAA,Asmanex 200micrograms/dose Twisthaler
+Inhaled corticosteroid,ICS,BNF,0302000R0BBACAC,Asmanex 400micrograms/dose Twisthaler
+Inhaled corticosteroid,ICS,BNF,0302000U0AAAAAA,Ciclesonide 80micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,BNF,0302000U0AAABAB,Ciclesonide 160micrograms/dose inhaler CFC free
+Inhaled corticosteroid,ICS,BNF,0302000U0BBAAAA,Alvesco 80 inhaler
+Inhaled corticosteroid,ICS,BNF,0302000U0BBABAB,Alvesco 160 inhaler
+Inhaled corticosteroid,ICS,BNF,0302000W0AAAAAA,Generic Enerzair Breezhaler 114/46/136microg inh caps + dev
+Inhaled corticosteroid,ICS,BNF,0302000W0BBAAAA,Enerzair Breezhaler 114microg / 46microg / 136microg/dose
+Inhaled corticosteroid,ICS,BNF,0302000X0AAAAAA,Indacaterol 125microg/Mometasone 62.5microg/dose pdr caps
+Inhaled corticosteroid,ICS,BNF,0302000X0AAABAB,Indacaterol 125microg/Mometasone 127.5microg/dose pdr caps
+Inhaled corticosteroid,ICS,BNF,0302000X0AAACAC,Indacaterol 125microg/Mometasone 260microg/dose pdr caps
+Inhaled corticosteroid,ICS,BNF,0302000X0BBAAAA,Atectura Breezhaler 125microg/62.5microg inhalation pdr caps
+Inhaled corticosteroid,ICS,BNF,0302000X0BBABAB,Atectura Breezhaler 125microg/127.5microg pdr caps
+Inhaled corticosteroid,ICS,BNF,0302000X0BBACAC,Atectura Breezhaler 125microg/260microg inhalation pdr caps
+Inhaled corticosteroid,ICS,BNF,0302000Y0AAAAAA,Generic Trixeo Aerosphere 5microg/7.2microg/160microg/dose
+Inhaled corticosteroid,ICS,BNF,0302000Y0BBAAAA,Trixeo Aerosphere 5microg / 7.2microg / 160microg/dose inh
