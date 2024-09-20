@@ -1,0 +1,25 @@
+pheno_name,code_clean,vocab,description,status,info
+smoking,137K.00,Read2,Stopped smoking,Ex smoker,PH350_1513
+smoking,137O.00,Read2,Ex cigar smoker,Ex smoker,PH350_1513
+smoking,1379,Read2,Ex-moderate smoker (10-19/day),Ex smoker,PH350_1513
+smoking,137S.00,Read2,Ex smoker,Ex smoker,PH350_1513
+smoking,137N.00,Read2,Ex pipe smoker,Ex smoker,PH350_1513
+smoking,1377,Read2,Ex-trivial smoker (<1/day),Ex smoker,PH350_1513
+smoking,137T.00,Read2,Date ceased smoking,Ex smoker,PH350_1513
+smoking,ZV11600,Read2,[V]Personal history of tobacco abuse,Ex or current smoker,PH350_1513
+smoking,H310100,Read2,Smokers' cough,Ex or current smoker,PH350_1513
+smoking,137L.00,Read2,Current non-smoker,Non smoker,PH350_1513
+smoking,137j.00,Read2,Ex-cigarette smoker,Ex smoker,PH350_1513
+smoking,137A.00,Read2,Ex-heavy smoker (20-39/day),Ex smoker,PH350_1513
+smoking,9km..00,Read2,Ex-smoker annual review - enhanced services administration,Ex smoker,PH350_1513
+smoking,137F.00,Read2,Ex-smoker - amount unknown,Ex smoker,PH350_1513
+smoking,E251300,Read2,Tobacco dependence in remission,Ex smoker,PH350_1513
+smoking,1371.11,Read2,Non-smoker,Non smoker,PH350_1513
+smoking,1378,Read2,Ex-light smoker (1-9/day),Ex smoker,PH350_1513
+smoking,1371,Read2,Never smoked tobacco,Non smoker,PH350_1513
+smoking,137B.00,Read2,Ex-very heavy smoker (40+/day),Ex smoker,PH350_1513
+smoking,13WK.00,Read2,No smokers in the household,Non smoker,PH350_1513
+smoking,9kn..00,Read2,Non-smoker annual review - enhanced services administration,Non smoker,PH350_1513
+smoking,F17,ICD10,Mental and behavioural disorders due to use of tobacco,Current smoker,PH350_1513
+smoking,Z720,ICD10,Tobacco use,Current smoker,PH350_1513
+smoking,Z716,ICD10,Tobacco abuse counselling,Current smoker,PH350_1513
