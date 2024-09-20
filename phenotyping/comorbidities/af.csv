@@ -1,0 +1,25 @@
+pheno_name,code_clean,vocab,description,info
+AF,9Os3.00,Read2,Atrial fibrillation monitoring verbal invite,PH36_v72
+AF,G573000,Read2,Atrial fibrillation,PH36_v72
+AF,14AR.00,Read2,History of atrial flutter,PH36_v72
+AF,212R.00,Read2,Atrial fibrillation resolved,PH36_v72
+AF,9Os0.00,Read2,Atrial fibrillation monitoring first letter,PH36_v72
+AF,G573400,Read2,Permanent atrial fibrillation,PH36_v72
+AF,G573100,Read2,Atrial flutter,PH36_v72
+AF,9Os..00,Read2,Atrial fibrillation monitoring administration,PH36_v72
+AF,3272.00,Read2,ECG: atrial fibrillation,PH36_v72
+AF,G573300,Read2,Non-rheumatic atrial fibrillation,PH36_v72
+AF,9Os4.00,Read2,Atrial fibrillation monitoring telephone invite,PH36_v72
+AF,9hF1.00,Read2,Excepted from atrial fibrillation qual indic: Inform dissent,PH36_v72
+AF,G573.00,Read2,Atrial fibrillation and flutter,PH36_v72
+AF,6A9..00,Read2,Atrial fibrillation annual review,PH36_v72
+AF,9hF..00,Read2,Exception reporting: atrial fibrillation quality indicators,PH36_v72
+AF,9Os2.00,Read2,Atrial fibrillation monitoring third letter,PH36_v72
+AF,9Os1.00,Read2,Atrial fibrillation monitoring second letter,PH36_v72
+AF,14AN.00,Read2,H/O: atrial fibrillation,PH36_v72
+AF,3273.00,Read2,ECG: atrial flutter,PH36_v72
+AF,662S.00,Read2,Atrial fibrillation monitoring,PH36_v72
+AF,G573500,Read2,Persistent atrial fibrillation,PH36_v72
+AF,G573z00,Read2,Atrial fibrillation and flutter NOS,PH36_v72
+AF,G573200,Read2,Paroxysmal atrial fibrillation,PH36_v72
+AF,I48,ICD10,Atrial fibrillation and flutter,PH36_v72

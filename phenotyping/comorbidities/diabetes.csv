@@ -1,0 +1,151 @@
+pheno_name,code_clean,vocab,description,info
+Diabetes,C10F411,Read2,Type II diabetes mellitus with ulcer,PH152_v304
+Diabetes,C108912,Read2,Type 1 diabetes mellitus maturity onset,PH152_v304
+Diabetes,C10FQ00,Read2,Type 2 diabetes mellitus with exudative maculopathy,PH152_v304
+Diabetes,C108.12,Read2,Type 1 diabetes mellitus,PH152_v304
+Diabetes,C10F611,Read2,Type II diabetes mellitus with retinopathy,PH152_v304
+Diabetes,C108511,Read2,Type I diabetes mellitus with ulcer,PH152_v304
+Diabetes,C10EP11,Read2,Type I diabetes mellitus with exudative maculopathy,PH152_v304
+Diabetes,C10F711,Read2,Type II diabetes mellitus - poor control,PH152_v304
+Diabetes,C109511,Read2,Type II diabetes mellitus with gangrene,PH152_v304
+Diabetes,C10F400,Read2,Type 2 diabetes mellitus with ulcer,PH152_v304
+Diabetes,C10E300,Read2,Type 1 diabetes mellitus with multiple complications,PH152_v304
+Diabetes,C109412,Read2,Type 2 diabetes mellitus with ulcer,PH152_v304
+Diabetes,C109F11,Read2,Type II diabetes mellitus with peripheral angiopathy,PH152_v304
+Diabetes,C108012,Read2,Type 1 diabetes mellitus with renal complications,PH152_v304
+Diabetes,C109211,Read2,Type II diabetes mellitus with neurological complications,PH152_v304
+Diabetes,C109B11,Read2,Type II diabetes mellitus with polyneuropathy,PH152_v304
+Diabetes,C108911,Read2,Type I diabetes mellitus maturity onset,PH152_v304
+Diabetes,C10F300,Read2,Type 2 diabetes mellitus with multiple complications,PH152_v304
+Diabetes,C10E900,Read2,Type 1 diabetes mellitus maturity onset,PH152_v304
+Diabetes,C10EA11,Read2,Type I diabetes mellitus without complication,PH152_v304
+Diabetes,C108411,Read2,Unstable type I diabetes mellitus,PH152_v304
+Diabetes,C10FA11,Read2,Type II diabetes mellitus with mononeuropathy,PH152_v304
+Diabetes,C10FF00,Read2,Type 2 diabetes mellitus with peripheral angiopathy,PH152_v304
+Diabetes,C10EC00,Read2,Type 1 diabetes mellitus with polyneuropathy,PH152_v304
+Diabetes,C10E411,Read2,Unstable type I diabetes mellitus,PH152_v304
+Diabetes,C109012,Read2,Type 2 diabetes mellitus with renal complications,PH152_v304
+Diabetes,C108J11,Read2,Type I diabetes mellitus with neuropathic arthropathy,PH152_v304
+Diabetes,C109612,Read2,Type 2 diabetes mellitus with retinopathy,PH152_v304
+Diabetes,C10FC00,Read2,Type 2 diabetes mellitus with nephropathy,PH152_v304
+Diabetes,C108H11,Read2,Type I diabetes mellitus with arthropathy,PH152_v304
+Diabetes,C108F11,Read2,Type I diabetes mellitus with diabetic cataract,PH152_v304
+Diabetes,C108A11,Read2,Type I diabetes mellitus without complication,PH152_v304
+Diabetes,C10FG00,Read2,Type 2 diabetes mellitus with arthropathy,PH152_v304
+Diabetes,C109H11,Read2,Type II diabetes mellitus with neuropathic arthropathy,PH152_v304
+Diabetes,C10E700,Read2,Type 1 diabetes mellitus with retinopathy,PH152_v304
+Diabetes,C10E800,Read2,Type 1 diabetes mellitus - poor control,PH152_v304
+Diabetes,C10FD00,Read2,Type 2 diabetes mellitus with hypoglycaemic coma,PH152_v304
+Diabetes,C10E.00,Read2,Type 1 diabetes mellitus,PH152_v304
+Diabetes,C10F600,Read2,Type 2 diabetes mellitus with retinopathy,PH152_v304
+Diabetes,C10F311,Read2,Type II diabetes mellitus with multiple complications,PH152_v304
+Diabetes,C10EH00,Read2,Type 1 diabetes mellitus with arthropathy,PH152_v304
+Diabetes,C108J12,Read2,Type 1 diabetes mellitus with neuropathic arthropathy,PH152_v304
+Diabetes,C10FM00,Read2,Type 2 diabetes mellitus with persistent microalbuminuria,PH152_v304
+Diabetes,C10E500,Read2,Type 1 diabetes mellitus with ulcer,PH152_v304
+Diabetes,C109112,Read2,Type 2 diabetes mellitus with ophthalmic complications,PH152_v304
+Diabetes,C10E400,Read2,Unstable type 1 diabetes mellitus,PH152_v304
+Diabetes,C109512,Read2,Type 2 diabetes mellitus with gangrene,PH152_v304
+Diabetes,C10EK00,Read2,Type 1 diabetes mellitus with persistent proteinuria,PH152_v304
+Diabetes,C10FE11,Read2,Type II diabetes mellitus with diabetic cataract,PH152_v304
+Diabetes,C10EJ00,Read2,Type 1 diabetes mellitus with neuropathic arthropathy,PH152_v304
+Diabetes,C10FH00,Read2,Type 2 diabetes mellitus with neuropathic arthropathy,PH152_v304
+Diabetes,C10FR00,Read2,Type 2 diabetes mellitus with gastroparesis,PH152_v304
+Diabetes,C10F200,Read2,Type 2 diabetes mellitus with neurological complications,PH152_v304
+Diabetes,C109.12,Read2,Type 2 diabetes mellitus,PH152_v304
+Diabetes,C10FE00,Read2,Type 2 diabetes mellitus with diabetic cataract,PH152_v304
+Diabetes,C109411,Read2,Type II diabetes mellitus with ulcer,PH152_v304
+Diabetes,C109E12,Read2,Type 2 diabetes mellitus with diabetic cataract,PH152_v304
+Diabetes,C10FL00,Read2,Type 2 diabetes mellitus with persistent proteinuria,PH152_v304
+Diabetes,C108712,Read2,Type 1 diabetes mellitus with retinopathy,PH152_v304
+Diabetes,C10EL00,Read2,Type 1 diabetes mellitus with persistent microalbuminuria,PH152_v304
+Diabetes,C108.13,Read2,Type I diabetes mellitus,PH152_v304
+Diabetes,C108811,Read2,Type I diabetes mellitus - poor control,PH152_v304
+Diabetes,C10E200,Read2,Type 1 diabetes mellitus with neurological complications,PH152_v304
+Diabetes,C10FJ11,Read2,Insulin treated Type II diabetes mellitus,PH152_v304
+Diabetes,C10FJ00,Read2,Insulin treated Type 2 diabetes mellitus,PH152_v304
+Diabetes,C10FL11,Read2,Type II diabetes mellitus with persistent proteinuria,PH152_v304
+Diabetes,C10EC11,Read2,Type I diabetes mellitus with polyneuropathy,PH152_v304
+Diabetes,C10FB00,Read2,Type 2 diabetes mellitus with polyneuropathy,PH152_v304
+Diabetes,C109011,Read2,Type II diabetes mellitus with renal complications,PH152_v304
+Diabetes,C10F911,Read2,Type II diabetes mellitus without complication,PH152_v304
+Diabetes,C10E100,Read2,Type 1 diabetes mellitus with ophthalmic complications,PH152_v304
+Diabetes,C10F500,Read2,Type 2 diabetes mellitus with gangrene,PH152_v304
+Diabetes,C10FK00,Read2,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,PH152_v304
+Diabetes,C109E11,Read2,Type II diabetes mellitus with diabetic cataract,PH152_v304
+Diabetes,C10EP00,Read2,Type 1 diabetes mellitus with exudative maculopathy,PH152_v304
+Diabetes,C10EN00,Read2,Type 1 diabetes mellitus with ketoacidotic coma,PH152_v304
+Diabetes,C10E311,Read2,Type I diabetes mellitus with multiple complications,PH152_v304
+Diabetes,C10F900,Read2,Type 2 diabetes mellitus without complication,PH152_v304
+Diabetes,C109K00,Read2,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,PH152_v304
+Diabetes,C10EB00,Read2,Type 1 diabetes mellitus with mononeuropathy,PH152_v304
+Diabetes,C108812,Read2,Type 1 diabetes mellitus - poor control,PH152_v304
+Diabetes,C109C11,Read2,Type II diabetes mellitus with nephropathy,PH152_v304
+Diabetes,C108412,Read2,Unstable type 1 diabetes mellitus,PH152_v304
+Diabetes,C109G11,Read2,Type II diabetes mellitus with arthropathy,PH152_v304
+Diabetes,C10EQ00,Read2,Type 1 diabetes mellitus with gastroparesis,PH152_v304
+Diabetes,C10F211,Read2,Type II diabetes mellitus with neurological complications,PH152_v304
+Diabetes,C109212,Read2,Type 2 diabetes mellitus with neurological complications,PH152_v304
+Diabetes,C10F700,Read2,Type 2 diabetes mellitus - poor control,PH152_v304
+Diabetes,C10EM00,Read2,Type 1 diabetes mellitus with ketoacidosis,PH152_v304
+Diabetes,C10EE00,Read2,Type 1 diabetes mellitus with hypoglycaemic coma,PH152_v304
+Diabetes,C10EF00,Read2,Type 1 diabetes mellitus with diabetic cataract,PH152_v304
+Diabetes,C108512,Read2,Type 1 diabetes mellitus with ulcer,PH152_v304
+Diabetes,C10E911,Read2,Type I diabetes mellitus maturity onset,PH152_v304
+Diabetes,C10FB11,Read2,Type II diabetes mellitus with polyneuropathy,PH152_v304
+Diabetes,C10E711,Read2,Type I diabetes mellitus with retinopathy,PH152_v304
+Diabetes,C10F100,Read2,Type 2 diabetes mellitus with ophthalmic complications,PH152_v304
+Diabetes,C108D11,Read2,Type I diabetes mellitus with nephropathy,PH152_v304
+Diabetes,C108212,Read2,Type 1 diabetes mellitus with neurological complications,PH152_v304
+Diabetes,C108011,Read2,Type I diabetes mellitus with renal complications,PH152_v304
+Diabetes,C10ED00,Read2,Type 1 diabetes mellitus with nephropathy,PH152_v304
+Diabetes,C108E12,Read2,Type 1 diabetes mellitus with hypoglycaemic coma,PH152_v304
+Diabetes,C109D12,Read2,Type 2 diabetes mellitus with hypoglycaemic coma,PH152_v304
+Diabetes,C109H12,Read2,Type 2 diabetes mellitus with neuropathic arthropathy,PH152_v304
+Diabetes,C109D11,Read2,Type II diabetes mellitus with hypoglycaemic coma,PH152_v304
+Diabetes,C109J00,Read2,Insulin treated Type 2 diabetes mellitus,PH152_v304
+Diabetes,C108711,Read2,Type I diabetes mellitus with retinopathy,PH152_v304
+Diabetes,C10FP00,Read2,Type 2 diabetes mellitus with ketoacidotic coma,PH152_v304
+Diabetes,C10F011,Read2,Type II diabetes mellitus with renal complications,PH152_v304
+Diabetes,C10FA00,Read2,Type 2 diabetes mellitus with mononeuropathy,PH152_v304
+Diabetes,C10E600,Read2,Type 1 diabetes mellitus with gangrene,PH152_v304
+Diabetes,C109C12,Read2,Type 2 diabetes mellitus with nephropathy,PH152_v304
+Diabetes,C10EM11,Read2,Type I diabetes mellitus with ketoacidosis,PH152_v304
+Diabetes,C10F.00,Read2,Type 2 diabetes mellitus,PH152_v304
+Diabetes,C109G12,Read2,Type 2 diabetes mellitus with arthropathy,PH152_v304
+Diabetes,C109.13,Read2,Type II diabetes mellitus,PH152_v304
+Diabetes,C108211,Read2,Type I diabetes mellitus with neurological complications,PH152_v304
+Diabetes,C109111,Read2,Type II diabetes mellitus with ophthalmic complications,PH152_v304
+Diabetes,C10FD11,Read2,Type II diabetes mellitus with hypoglycaemic coma,PH152_v304
+Diabetes,C109A11,Read2,Type II diabetes mellitus with mononeuropathy,PH152_v304
+Diabetes,C10FM11,Read2,Type II diabetes mellitus with persistent microalbuminuria,PH152_v304
+Diabetes,C10E.11,Read2,Type I diabetes mellitus,PH152_v304
+Diabetes,C10EN11,Read2,Type I diabetes mellitus with ketoacidotic coma,PH152_v304
+Diabetes,C109712,Read2,Type 2 diabetes mellitus - poor control,PH152_v304
+Diabetes,C10FN00,Read2,Type 2 diabetes mellitus with ketoacidosis,PH152_v304
+Diabetes,C108E11,Read2,Type I diabetes mellitus with hypoglycaemic coma,PH152_v304
+Diabetes,C109J12,Read2,Insulin treated Type II diabetes mellitus,PH152_v304
+Diabetes,C109611,Read2,Type II diabetes mellitus with retinopathy,PH152_v304
+Diabetes,C10EA00,Read2,Type 1 diabetes mellitus without complication,PH152_v304
+Diabetes,C10F000,Read2,Type 2 diabetes mellitus with renal complications,PH152_v304
+Diabetes,C109711,Read2,Type II diabetes mellitus - poor control,PH152_v304
+Diabetes,C10E000,Read2,Type 1 diabetes mellitus with renal complications,PH152_v304
+Diabetes,C10F.11,Read2,Type II diabetes mellitus,PH152_v304
+Diabetes,C109F12,Read2,Type 2 diabetes mellitus with peripheral angiopathy,PH152_v304
+Diabetes,C10E511,Read2,Type I diabetes mellitus with ulcer,PH152_v304
+Diabetes,C10EG00,Read2,Type 1 diabetes mellitus with peripheral angiopathy,PH152_v304
+Diabetes,H360,ICD10,Diabetic retinopathy,PH152_v304
+Diabetes,E13,ICD10,Other specified diabetes mellitus,PH152_v304
+Diabetes,O243,ICD10,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified",PH152_v304
+Diabetes,N083,ICD10,Glomerular disorders in diabetes mellitus,PH152_v304
+Diabetes,H280,ICD10,Diabetic cataract,PH152_v304
+Diabetes,O242,ICD10,Diabetes mellitus in pregnancy: Pre-existing malnutrition-related diabetes mellitus,PH152_v304
+Diabetes,M142,ICD10,Diabetic arthropathy,PH152_v304
+Diabetes,G632,ICD10,Diabetic polyneuropathy,PH152_v304
+Diabetes,E12,ICD10,Malnutrition-related diabetes mellitus,PH152_v304
+Diabetes,O240,ICD10,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, insulin-dependent",PH152_v304
+Diabetes,O241,ICD10,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, non-insulin-dependent",PH152_v304
+Diabetes,E10,ICD10,Insulin-dependent diabetes mellitus,PH152_v304
+Diabetes,E11,ICD10,Non-insulin-dependent diabetes mellitus,PH152_v304
+Diabetes,G590,ICD10,Diabetic mononeuropathy,PH152_v304
+Diabetes,E14,ICD10,Unspecified diabetes mellitus,PH152_v304

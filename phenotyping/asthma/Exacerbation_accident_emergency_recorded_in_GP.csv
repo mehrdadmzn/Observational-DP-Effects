@@ -1,0 +1,4 @@
+pheno_name,code_clean,vocab,description,info
+AsthmaExacerbation,663d.00,Read2,Emergency asthma admission since last appointment,PH12_v24
+AsthmaExacerbation,8H2P.00,Read2,"Emergency admission, asthma",PH12_v24
+AsthmaExacerbation,663m.00,Read2,Asthma accident and emergency attendance since last visit,PH12_v24

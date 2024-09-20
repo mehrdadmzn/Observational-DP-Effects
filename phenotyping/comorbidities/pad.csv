@@ -1,0 +1,208 @@
+pheno_name,code_clean,vocab,description,info
+PAD,7A12312,Read2,Dacron aortoiliac Y graft,PH236_v472
+PAD,7A49.11,Read2,Reconstruction of common femoral artery,PH236_v472
+PAD,7A48200,Read2,Bypass femoral artery by fem/pop art anast c vein graft NEC,PH236_v472
+PAD,G73yz00,Read2,Other specified peripheral vascular disease NOS,PH236_v472
+PAD,7A48800,Read2,Bypass femoral artery by fem/peron a anast c prosthesis NEC,PH236_v472
+PAD,G731z00,Read2,Thromboangiitis obliterans NOS,PH236_v472
+PAD,7A4A000,Read2,Repair of femoral artery NEC,PH236_v472
+PAD,7A49700,Read2,Profundoplasty of popliteal artery NEC,PH236_v472
+PAD,7A41000,Read2,Emerg bypass iliac art by iliac/femoral art anastomosis NEC,PH236_v472
+PAD,7A47300,Read2,Emerg bypass pop art by pop/pop art anast c vein graft NEC,PH236_v472
+PAD,7A41311,Read2,Femoro-femoral prosthetic cross over graft,PH236_v472
+PAD,G73..00,Read2,Other peripheral vascular disease,PH236_v472
+PAD,7A44000,Read2,Percutaneous transluminal angioplasty of iliac artery,PH236_v472
+PAD,C107100,Read2,"Diabetes mellitus, adult, + peripheral circulatory disorder",PH236_v472
+PAD,R055000,Read2,[D]Failure of peripheral circulation,PH236_v472
+PAD,7A41600,Read2,Emerg bypass leg artery by aorta/com fem art anastomosis NEC,PH236_v472
+PAD,7A10100,Read2,Bypass aorta by anastomosis axillary to femoral artery NEC,PH236_v472
+PAD,G742400,Read2,Embolism and thrombosis of the femoral artery,PH236_v472
+PAD,7A42111,Read2,Endarterectomy of common iliac artery NEC,PH236_v472
+PAD,G731.00,Read2,Thromboangiitis obliterans,PH236_v472
+PAD,C108G00,Read2,Insulin dependent diab mell with peripheral angiopathy,PH236_v472
+PAD,G73y500,Read2,Acroparaesthesia - Nothnagel's type,PH236_v472
+PAD,7A44y00,Read2,Other specified transluminal operation on iliac artery,PH236_v472
+PAD,7A12300,Read2,Bypass bifurcation aorta by anastom aorta to iliac artery,PH236_v472
+PAD,7A4B300,Read2,Percutaneous transluminal embolectomy of popliteal artery,PH236_v472
+PAD,7A4A300,Read2,Open embolectomy popliteal artery,PH236_v472
+PAD,R054200,Read2,[D]Gangrene of toe in diabetic,PH236_v472
+PAD,7A47100,Read2,Emerg bypass popliteal art by pop/pop art anast c prosth NEC,PH236_v472
+PAD,7A43000,Read2,Repair of iliac artery NEC,PH236_v472
+PAD,7A19200,Read2,Open embolectomy of bifurcation of aorta,PH236_v472
+PAD,C109F00,Read2,Non-insulin-dependent d m with peripheral angiopath,PH236_v472
+PAD,7A48400,Read2,Bypass femoral artery by fem/tib art anast c prosthesis NEC,PH236_v472
+PAD,7A43.00,Read2,Other open operations on iliac artery,PH236_v472
+PAD,G73..11,Read2,Peripheral ischaemic vascular disease,PH236_v472
+PAD,7A43111,Read2,Open embolectomy of common iliac artery,PH236_v472
+PAD,7A12311,Read2,Aorto biiliac graft,PH236_v472
+PAD,M271.12,Read2,Ischaemic leg ulcer,PH236_v472
+PAD,C107.00,Read2,Diabetes mellitus with peripheral circulatory disorder,PH236_v472
+PAD,7A49.00,Read2,Reconstruction of femoral artery or popliteal artery,PH236_v472
+PAD,C107400,Read2,NIDDM with peripheral circulatory disorder,PH236_v472
+PAD,7A44100,Read2,Percutaneous transluminal embolectomy of iliac artery,PH236_v472
+PAD,7A44z00,Read2,Transluminal operation on iliac artery NOS,PH236_v472
+PAD,7A4Ay00,Read2,Other open operation on femoral or popliteal artery OS,PH236_v472
+PAD,G73z011,Read2,Claudication,PH236_v472
+PAD,7A50100,Read2,Revision of reconstruction involving iliac artery,PH236_v472
+PAD,7A41F00,Read2,Ilio-femoral prosthetic cross over graft,PH236_v472
+PAD,7A49200,Read2,Endarterectomy of femoral artery NEC,PH236_v472
+PAD,7A4B200,Read2,Percutaneous transluminal embolectomy of femoral artery,PH236_v472
+PAD,G73y200,Read2,Acrocyanosis,PH236_v472
+PAD,G73y400,Read2,Acroparaesthesia - Schultze's type,PH236_v472
+PAD,G73y800,Read2,Erythromelalgia,PH236_v472
+PAD,G732000,Read2,Gangrene of toe,PH236_v472
+PAD,7A49.13,Read2,Reconstruction of femoral artery,PH236_v472
+PAD,G73y000,Read2,Diabetic peripheral angiopathy,PH236_v472
+PAD,7A12111,Read2,Aorto bifemoral graft,PH236_v472
+PAD,7A41C00,Read2,Bypass leg artery by aorta/deep femoral art anastomosis NEC,PH236_v472
+PAD,G74y200,Read2,Embolism and/or thrombosis of the external iliac artery,PH236_v472
+PAD,G74y000,Read2,Embolism and/or thrombosis of the common iliac artery,PH236_v472
+PAD,7A49z00,Read2,Reconstruction of femoral or popliteal artery NOS,PH236_v472
+PAD,7A48y00,Read2,Other bypass of femoral artery or popliteal artery OS,PH236_v472
+PAD,7A48.15,Read2,Other bypass of popliteal artery,PH236_v472
+PAD,7A10300,Read2,Axillo-unifemoral PTFE bypass graft,PH236_v472
+PAD,G73z000,Read2,Intermittent claudication,PH236_v472
+PAD,14NB.00,Read2,H/O: Peripheral vascular disease procedure,PH236_v472
+PAD,M271400,Read2,Mixed venous and arterial leg ulcer,PH236_v472
+PAD,7A42.11,Read2,Reconstruction of common iliac artery,PH236_v472
+PAD,7A41900,Read2,Bypass common iliac artery by aorta/com iliac art anast NEC,PH236_v472
+PAD,G73y700,Read2,Erythrocyanosis,PH236_v472
+PAD,7A49800,Read2,Reconstruction of femoral artery with vein graft,PH236_v472
+PAD,7A47.15,Read2,Other emergency bypass of superficial femoral artery,PH236_v472
+PAD,G742700,Read2,Embolism and thrombosis of the dorsalis pedis artery,PH236_v472
+PAD,7A4B800,Read2,Percut translum thrombolysis femoral graft streptokinase,PH236_v472
+PAD,7A4A211,Read2,Open thrombectomy of femoral artery,PH236_v472
+PAD,C109F12,Read2,Type 2 diabetes mellitus with peripheral angiopathy,PH236_v472
+PAD,7A48z00,Read2,Other bypass of femoral artery or popliteal artery NOS,PH236_v472
+PAD,7A42100,Read2,Endarterectomy of iliac artery NEC,PH236_v472
+PAD,G73y.00,Read2,Other specified peripheral vascular disease,PH236_v472
+PAD,7A50.00,Read2,Revision of reconstruction of artery,PH236_v472
+PAD,7A41200,Read2,Emerg bypass iliac artery by femoral/femoral art anast NEC,PH236_v472
+PAD,7A48.00,Read2,Other bypass of femoral artery or popliteal artery,PH236_v472
+PAD,7A4A700,Read2,Repair of femoral artery with temporary silastic shunt,PH236_v472
+PAD,7A12000,Read2,Emerg bypass bifurc aorta by anast aorta to femoral artery,PH236_v472
+PAD,G742z00,Read2,Peripheral arterial embolism and thrombosis NOS,PH236_v472
+PAD,7A47.16,Read2,Other emergency bypass of femoral artery,PH236_v472
+PAD,7A41100,Read2,Bypass iliac artery by iliac/femoral artery anastomosis NEC,PH236_v472
+PAD,7A4A800,Read2,Repair of popliteal artery with temporary silastic shunt,PH236_v472
+PAD,C10FF00,Read2,Type 2 diabetes mellitus with peripheral angiopathy,PH236_v472
+PAD,G731000,Read2,Buerger's disease,PH236_v472
+PAD,7A41z00,Read2,Other bypass of iliac artery NOS,PH236_v472
+PAD,7A4B000,Read2,Percutaneous transluminal angioplasty of femoral artery,PH236_v472
+PAD,7A48.16,Read2,Other bypass of superficial femoral artery,PH236_v472
+PAD,7A42.00,Read2,Reconstruction of iliac artery,PH236_v472
+PAD,7A47400,Read2,Emerg bypass femoral art by fem/tib art anast c prosth NEC,PH236_v472
+PAD,G742500,Read2,Embolism and thrombosis of the popliteal artery,PH236_v472
+PAD,G732100,Read2,Gangrene of foot,PH236_v472
+PAD,7A49.14,Read2,Reconstruction of popliteal artery,PH236_v472
+PAD,7A47y00,Read2,Other emergency bypass of femoral or popliteal artery OS,PH236_v472
+PAD,7A47.13,Read2,Other emergency bypass of deep femoral artery,PH236_v472
+PAD,7A47200,Read2,Emerg bypass femoral art by fem/pop a anast c vein graft NEC,PH236_v472
+PAD,G73z.00,Read2,Peripheral vascular disease NOS,PH236_v472
+PAD,G74y300,Read2,Embolism and thrombosis of the iliac artery unspecified,PH236_v472
+PAD,7A48000,Read2,Bypass femoral artery by fem/pop art anast c prosthesis NEC,PH236_v472
+PAD,M271000,Read2,Ischaemic ulcer diabetic foot,PH236_v472
+PAD,7A47B00,Read2,Emerg bypass pop art by pop/peron art anast c vein graft NEC,PH236_v472
+PAD,7A47000,Read2,Emerg bypass femoral art by fem/pop art anast c prosth NEC,PH236_v472
+PAD,7A12y00,Read2,Other specified other bypass of bifurcation of aorta,PH236_v472
+PAD,G742600,Read2,Embolism and thrombosis of the anterior tibial artery,PH236_v472
+PAD,G702.00,Read2,Extremity artery atheroma,PH236_v472
+PAD,7A4A.11,Read2,Other open operations on common femoral artery,PH236_v472
+PAD,7A10200,Read2,Axillo-bifemoral bypass graft,PH236_v472
+PAD,7A48C00,Read2,Bypass femoral artery by femoral/femoral art anastomosis NEC,PH236_v472
+PAD,7A48700,Read2,Bypass popliteal artery by pop/tib a anast c vein graft NEC,PH236_v472
+PAD,7A48500,Read2,Bypass popliteal artery by pop/tib a anast c prosthesis NEC,PH236_v472
+PAD,7A47.11,Read2,Other emerg bypass femoral or popliteal art by anastomosis,PH236_v472
+PAD,7A4A100,Read2,Repair of popliteal artery NEC,PH236_v472
+PAD,7A49500,Read2,Profundoplasty and patch repair of popliteal artery,PH236_v472
+PAD,7A47z00,Read2,Other emergency bypass of femoral or popliteal artery NOS,PH236_v472
+PAD,7A47.00,Read2,Other emergency bypass of femoral artery or popliteal artery,PH236_v472
+PAD,R055011,Read2,[D]Peripheral circulatory failure,PH236_v472
+PAD,R054300,Read2,[D]Widespread diabetic foot gangrene,PH236_v472
+PAD,7A12112,Read2,Dacron aortofemoral Y graft,PH236_v472
+PAD,C107z00,Read2,Diabetes mellitus NOS with peripheral circulatory disorder,PH236_v472
+PAD,7A41B00,Read2,Bypass leg artery by aorta/com femoral art anastomosis NEC,PH236_v472
+PAD,C109F11,Read2,Type II diabetes mellitus with peripheral angiopathy,PH236_v472
+PAD,7A41211,Read2,Emergency femoro-femoral prosthetic cross over graft,PH236_v472
+PAD,7A48600,Read2,Bypass femoral artery by fem/tib art anast c vein graft NEC,PH236_v472
+PAD,7A47.14,Read2,Other emergency bypass of popliteal artery,PH236_v472
+PAD,7A12100,Read2,Bypass bifurc aorta by anastom aorta to femoral artery NEC,PH236_v472
+PAD,7A4B400,Read2,Percutaneous transluminal embolisation of femoral artery,PH236_v472
+PAD,7A4B100,Read2,Percutaneous transluminal angioplasty of popliteal artery,PH236_v472
+PAD,7A48E00,Read2,Femoro-femoral prosthetic cross over graft,PH236_v472
+PAD,7A48A00,Read2,Bypass femoral artery by fem/peron a anast c vein graft NEC,PH236_v472
+PAD,7A42000,Read2,Endarterectomy and patch repair of iliac artery,PH236_v472
+PAD,G74y100,Read2,Embolism and/or thrombosis of the internal iliac artery,PH236_v472
+PAD,G73y600,Read2,Acroparaesthesia - unspecified,PH236_v472
+PAD,7A44400,Read2,Percutaneous transluminal insertion of iliac artery stent,PH236_v472
+PAD,G73y100,Read2,Peripheral angiopathic disease EC NOS,PH236_v472
+PAD,7A48.12,Read2,Other bypass of common femoral artery,PH236_v472
+PAD,G73zz00,Read2,Peripheral vascular disease NOS,PH236_v472
+PAD,7A42z00,Read2,Reconstruction of iliac artery NOS,PH236_v472
+PAD,7A50300,Read2,Revision of reconstruction of popliteal artery,PH236_v472
+PAD,7A48.11,Read2,Other bypass of femoral or popliteal artery by anastomosis,PH236_v472
+PAD,M271300,Read2,Arterial leg ulcer,PH236_v472
+PAD,C107300,Read2,IDDM with peripheral circulatory disorder,PH236_v472
+PAD,G73..13,Read2,Peripheral ischaemia,PH236_v472
+PAD,7A48100,Read2,Bypass popliteal artery by pop/pop a anast c prosthesis NEC,PH236_v472
+PAD,7A49100,Read2,Endarterectomy and patch repair of popliteal artery,PH236_v472
+PAD,7A12.00,Read2,Other bypass of bifurcation of aorta,PH236_v472
+PAD,7A43011,Read2,Repair of common iliac artery NEC,PH236_v472
+PAD,7A42011,Read2,Endarterectomy and patch repair of common iliac artery,PH236_v472
+PAD,7A50200,Read2,Revision of reconstruction involving femoral artery,PH236_v472
+PAD,7A4B900,Read2,Percutaneous transluminal insertion of stent femoral artery,PH236_v472
+PAD,7A47C00,Read2,Emerg bypass femoral artery by fem/fem art anastomosis NEC,PH236_v472
+PAD,7A4B500,Read2,Percutaneous transluminal embolisation of popliteal artery,PH236_v472
+PAD,7A4A311,Read2,Open thrombectomy of popliteal artery,PH236_v472
+PAD,C107000,Read2,"Diabetes mellitus, juvenile +peripheral circulatory disorder",PH236_v472
+PAD,7A48B00,Read2,Bypass popliteal art by pop/peron art anast c vein graft NEC,PH236_v472
+PAD,7A49000,Read2,Endarterectomy and patch repair of femoral artery,PH236_v472
+PAD,7A49900,Read2,Reconstruction of popliteal artery with vein graft,PH236_v472
+PAD,7A41y00,Read2,Other specified other bypass of iliac artery,PH236_v472
+PAD,7A47D00,Read2,Emerg bypass popliteal artery by pop/fem art anastomosis NEC,PH236_v472
+PAD,7A4A200,Read2,Open embolectomy of femoral artery,PH236_v472
+PAD,2G63.00,Read2,Ischaemic toe,PH236_v472
+PAD,14F7.00,Read2,H/O: arterial lower limb ulcer,PH236_v472
+PAD,7A49.15,Read2,Reconstruction of superficial femoral artery,PH236_v472
+PAD,7A43100,Read2,Open embolectomy of iliac artery,PH236_v472
+PAD,7A47700,Read2,Emerg bypass pop art by pop/tib art anast c vein graft NEC,PH236_v472
+PAD,7A42y00,Read2,Other specified reconstruction of iliac artery,PH236_v472
+PAD,7A4A.13,Read2,Other open operations on popliteal artery,PH236_v472
+PAD,7A43300,Read2,Open insertion of iliac artery stent,PH236_v472
+PAD,G700.11,Read2,Aorto-iliac disease,PH236_v472
+PAD,7A47600,Read2,Emerg bypass femoral art by fem/tib a anast c vein graft NEC,PH236_v472
+PAD,G702z00,Read2,Extremity artery atheroma NOS,PH236_v472
+PAD,7A43.11,Read2,Other open operations on common iliac artery,PH236_v472
+PAD,7A4A.00,Read2,Other open operations on femoral artery or popliteal artery,PH236_v472
+PAD,7A49300,Read2,Endarterectomy of popliteal artery NEC,PH236_v472
+PAD,7A10000,Read2,Emerg aortic bypass by anastomosis axillary to femoral art,PH236_v472
+PAD,7A50000,Read2,Revision of reconstruction involving aorta,PH236_v472
+PAD,7A4A.14,Read2,Other open operations on superficial femoral artery,PH236_v472
+PAD,G733.00,Read2,Ischaemic foot,PH236_v472
+PAD,7A42012,Read2,Iliac endarterectomy and patch,PH236_v472
+PAD,7A48.14,Read2,Other bypass of femoral artery,PH236_v472
+PAD,7A4A212,Read2,Open femoral embolectomy,PH236_v472
+PAD,7A48D00,Read2,Bypass popliteal artery by pop/fem artery anastomosis NEC,PH236_v472
+PAD,G742900,Read2,Embolism and thrombosis of a leg artery NOS,PH236_v472
+PAD,A3A0F00,Read2,Gas gangrene-foot,PH236_v472
+PAD,G73..12,Read2,Ischaemia of legs,PH236_v472
+PAD,7A41.00,Read2,Other bypass of iliac artery,PH236_v472
+PAD,7A12z00,Read2,Other bypass of bifurcation of aorta NOS,PH236_v472
+PAD,7A49y00,Read2,Reconstruction of femoral or popliteal artery OS,PH236_v472
+PAD,7A49400,Read2,Profundoplasty femoral artery & patch repair deep fem artery,PH236_v472
+PAD,Gyu7400,Read2,[X]Other specified peripheral vascular diseases,PH236_v472
+PAD,G732.00,Read2,Peripheral gangrene,PH236_v472
+PAD,7A48300,Read2,Bypass popliteal artery by pop/pop a anast c vein graft NEC,PH236_v472
+PAD,7A41300,Read2,Bypass iliac artery by femoral/femoral art anastomosis NEC,PH236_v472
+PAD,7A44300,Read2,Insertion of iliac artery stent,PH236_v472
+PAD,7A49600,Read2,Profundoplasty of femoral artery NEC,PH236_v472
+PAD,7A41400,Read2,Emerg bypass comm iliac art by aorta/com iliac art anast NEC,PH236_v472
+PAD,G73y511,Read2,Nothnagel's vasomotor acroparaesthesia,PH236_v472
+PAD,C10EG00,Read2,Type 1 diabetes mellitus with peripheral angiopathy,PH236_v472
+PAD,G740.12,Read2,Aortoiliac obstruction,PH236_v472
+PAD,I745,ICD10,Embolism and thrombosis of iliac artery,PH236_v472
+PAD,I743,ICD10,Embolism and thrombosis of arteries of lower extremities,PH236_v472
+PAD,I744,ICD10,"Embolism and thrombosis of arteries of extremities, unspecified",PH236_v472
+PAD,I739,ICD10,"Peripheral vascular disease, unspecified",PH236_v472
+PAD,I731,ICD10,Thromboangiitis obliterans [Buerger],PH236_v472
+PAD,I738,ICD10,Other specified peripheral vascular diseases,PH236_v472

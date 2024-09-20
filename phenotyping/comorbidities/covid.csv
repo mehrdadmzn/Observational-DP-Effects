@@ -1,0 +1,8 @@
+pheno_name,code_clean,vocab,description,info
+COVID-19,4J3R1,Read2,2019-nCoV (novel coronavirus) detected,SAIL_harmonising_paper
+COVID-19,4J3R.,Read2,2019-nCoV (novel coronavirus) serology,SAIL_harmonising_paper
+COVID-19,A7953,Read2,COVID-19 confirmed using clinical diagnostic criteria,SAIL_harmonising_paper
+COVID-19,A7952,Read2,COVID-19 confirmed by laboratory test,SAIL_harmonising_paper
+COVID-19,A7951,Read2,Disease caused by 2019-nCoV (novel coronavirus),SAIL_harmonising_paper
+COVID-19,U072,ICD10,suspected COVID19,PH01_v2
+COVID-19,U071,ICD10,confirmed COVID19,PH01_v2

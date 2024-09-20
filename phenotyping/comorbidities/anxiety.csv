@@ -1,0 +1,436 @@
+pheno_name,code_clean,vocab,description,info
+Anxiety,E2000,Read2,anxiety state unspecified,PH1113_v2453
+Anxiety,Eu41z,Read2,"[x]anxiety disord unspecified | [x]anxiety disorder, unspecified",PH1113_v2453
+Anxiety,Eu932,Read2,[x]social anx dis childhood | [x]social anxiety disorder of childhood,PH1113_v2453
+Anxiety,E2021,Read2,agoraphobia with panic attacks,PH1113_v2453
+Anxiety,E2D00,Read2,child/adolesc.overanxious.dis. | childhood and adolescent overanxiousness disturbance,PH1113_v2453
+Anxiety,E202A,Read2,fear of flying,PH1113_v2453
+Anxiety,Eu40.,Read2,[x]phobic anxiety disorders,PH1113_v2453
+Anxiety,E2001,Read2,panic disorder,PH1113_v2453
+Anxiety,Eu413,Read2,[x]other mixed anxiety disord | [x]other mixed anxiety disorders,PH1113_v2453
+Anxiety,E2020,Read2,phobia unspecified,PH1113_v2453
+Anxiety,E202z,Read2,phobic disorder nos,PH1113_v2453
+Anxiety,E28z.,Read2,acute stress reaction nos,PH1113_v2453
+Anxiety,Eu421,Read2,[x]predom compuls acts/ritual | [x]predominantly compulsive acts [obsessional rituals],PH1113_v2453
+Anxiety,Eu410,Read2,[x]panic episodic paroxysm anx | [x]panic disorder [episodic paroxysmal anxiety],PH1113_v2453
+Anxiety,E2002,Read2,generalised anxiety disorder,PH1113_v2453
+Anxiety,E2027,Read2,animal phobia,PH1113_v2453
+Anxiety,Eu42y,Read2,[x]oth obsessve-compulsve dis | [x]other obsessive-compulsive disorders,PH1113_v2453
+Anxiety,E202B,Read2,cancer phobia,PH1113_v2453
+Anxiety,Eu422,Read2,[x]mixed obsess thoughts/acts | [x]mixed obsessional thoughts and acts,PH1113_v2453
+Anxiety,E2023,Read2,"social phobia-eating in public | social phobia, fear of eating in public",PH1113_v2453
+Anxiety,E2005,Read2,recurrent anxiety,PH1113_v2453
+Anxiety,E2004,Read2,chronic anxiety,PH1113_v2453
+Anxiety,E2031,Read2,obsessional neurosis,PH1113_v2453
+Anxiety,E200.,Read2,anxiety states,PH1113_v2453
+Anxiety,Eu401,Read2,[x]social phobias,PH1113_v2453
+Anxiety,E2030,Read2,compulsive neurosis,PH1113_v2453
+Anxiety,E2028,Read2,claustrophobia,PH1113_v2453
+Anxiety,Eu402,Read2,[x]specific (isolated) phobia | [x]specific (isolated) phobias,PH1113_v2453
+Anxiety,E203.,Read2,obsessive-compulsive disorders,PH1113_v2453
+Anxiety,Eu42.,Read2,[x]obsessive - compulsive dis | [x]obsessive - compulsive disorder,PH1113_v2453
+Anxiety,E202D,Read2,fear of death,PH1113_v2453
+Anxiety,E200z,Read2,anxiety state nos,PH1113_v2453
+Anxiety,E202C,Read2,dental phobia,PH1113_v2453
+Anxiety,E2025,Read2,"social phobia-public washing | social phobia, fear of public washing",PH1113_v2453
+Anxiety,E2022,Read2,agoraphobia - no panic attacks | agoraphobia without mention of panic attacks,PH1113_v2453
+Anxiety,Eu931,Read2,[x]phobic anxiet dis childhood | [x]phobic anxiety disorder of childhood,PH1113_v2453
+Anxiety,Eu403,Read2,[x]needle phobia,PH1113_v2453
+Anxiety,Eu400,Read2,[x]agoraphobia,PH1113_v2453
+Anxiety,E2024,Read2,"social phobia-public speaking | social phobia, fear of public speaking",PH1113_v2453
+Anxiety,E202.,Read2,phobic disorders,PH1113_v2453
+Anxiety,Eu420,Read2,[x]predom obsessional thoughts | [x]predominantly obsessional thoughts or ruminations,PH1113_v2453
+Anxiety,E203z,Read2,obsessive-compulsive dis nos | obsessive-compulsive disorder nos,PH1113_v2453
+Anxiety,E2D0z,Read2,anxiety/fear child/adolesc.nos | disturbance anxiety and fearfulness childhood/adolescent nos | disturbance of anxiety and fearfulness in childhood and adolescence nos,PH1113_v2453
+Anxiety,E2D01,Read2,child/adolesc.fearfulness dis. | childhood and adolescent fearfulness disturbance,PH1113_v2453
+Anxiety,Eu41y,Read2,[x]other specif anxiety disord | [x]other specified anxiety disorders,PH1113_v2453
+Anxiety,Eu40z,Read2,"[x]phobic anxiety disordr unsp | [x]phobic anxiety disorder, unspecified",PH1113_v2453
+Anxiety,Eu411,Read2,[x]generalized anxiety disord | [x]generalized anxiety disorder,PH1113_v2453
+Anxiety,Eu930,Read2,[x]separ anxiety dis childhood | [x]separation anxiety disorder of childhood,PH1113_v2453
+Anxiety,Eu41.,Read2,[x]other anxiety disorders,PH1113_v2453
+Anxiety,E2920,Read2,separation anxiety disorder,PH1113_v2453
+Anxiety,E202E,Read2,fear of pregnancy,PH1113_v2453
+Anxiety,E2D0.,Read2,anxiety/fear child/adoles.dis. | disturbance of anxiety and fearfulness childhood/adolescent | disturbance of anxiety and fearfulness in childhood and adolescence,PH1113_v2453
+Anxiety,E2026,Read2,acrophobia,PH1113_v2453
+Anxiety,Eu40y,Read2,[x]other phobic anxiety disord | [x]other phobic anxiety disorders,PH1113_v2453
+Anxiety,Eu42z,Read2,"[x]obsessve-complsve dis unsp | [x]obsessive-compulsive disorder, unspecified",PH1113_v2453
+Anxiety,E2029,Read2,fear of crowds,PH1113_v2453
+Anxiety,F411,ICD10,generalized anxiety disorder,PH1113_v2453
+Anxiety,F400,ICD10,agoraphobia,PH1113_v2453
+Anxiety,F930,ICD10,separation anxiety disorder of childhood,PH1113_v2453
+Anxiety,F42,ICD10,obsessive-compulsive disorder,PH1113_v2453
+Anxiety,F413,ICD10,other mixed anxiety disorders,PH1113_v2453
+Anxiety,F402,ICD10,specific (isolated) phobias,PH1113_v2453
+Anxiety,F401,ICD10,social phobias,PH1113_v2453
+Anxiety,F421,ICD10,predominantly compulsive acts [obsessional rituals],PH1113_v2453
+Anxiety,F931,ICD10,phobic anxiety disorder of childhood,PH1113_v2453
+Anxiety,F422,ICD10,mixed obsessional thoughts and acts,PH1113_v2453
+Anxiety,F932,ICD10,social anxiety disorder of childhood,PH1113_v2453
+Anxiety,F40,ICD10,phobic anxiety disorders,PH1113_v2453
+Anxiety,F410,ICD10,panic disorder [episodic paroxysmal anxiety],PH1113_v2453
+Anxiety,F428,ICD10,other obsessive-compulsive disorders,PH1113_v2453
+Anxiety,F419,ICD10,"anxiety disorder, unspecified",PH1113_v2453
+Anxiety,F409,ICD10,"phobic anxiety disorder, unspecified",PH1113_v2453
+Anxiety,F420,ICD10,predominantly obsessional thoughts or ruminations,PH1113_v2453
+Anxiety,F418,ICD10,other specified anxiety disorders,PH1113_v2453
+Anxiety,F429,ICD10,"obsessive-compulsive disorder, unspecified",PH1113_v2453
+Anxiety,F41,ICD10,other anxiety disorders,PH1113_v2453
+Anxiety,F408,ICD10,other phobic anxiety disorders,PH1113_v2453
+Anxiety,Eu412,Read2,[X]Mixed anxiety and depressive disorder,PH1113_v2453
+Anxiety,E2003,Read2,Anxiety with depression,PH1113_v2453
+Anxiety,F412,ICD10,mixed anxiety and depressive disorder,PH1113_v2453
+Anxiety,225J.,Read2,o/e - panic attack,PH1113_v2453
+Anxiety,1B12.,Read2,nerves - nervousness,PH1113_v2453
+Anxiety,1B13.,Read2,anxiousness,PH1113_v2453
+Anxiety,2259,Read2,o/e - nervous,PH1113_v2453
+Anxiety,1B1V.,Read2,c/o - panic attack,PH1113_v2453
+Anxiety,2258,Read2,o/e - anxious,PH1113_v2453
+Anxiety,R2y2.,Read2,[d]nervousness,PH1113_v2453
+Anxiety,8HHp.,Read2,	ref guid self-help for anxiety | referral for guided self-help for anxiety,PH1113_v2453
+Anxiety,8G52.,Read2,	antiphobic therapy,PH1113_v2453
+Anxiety,8G94.,Read2,	anxiety management training,PH1113_v2453
+Anxiety,d28x.,Read2,hydroxyzine hcl 10mg tablets,PH1113_v2453
+Anxiety,d285.,Read2,ucerax 10mg/5ml syrup,PH1113_v2453
+Anxiety,d219.,Read2,*alupram 10mg tablets,PH1113_v2453
+Anxiety,d268.,Read2,clobazam 10mg/5ml oral susp | clobazam 10mg/5ml oral suspension,PH1113_v2453
+Anxiety,d245.,Read2,*chlordiazepoxide hcl 25mg tab | chlordiazepoxide hydrochloride 25mg tablets,PH1113_v2453
+Anxiety,d1an.,Read2,*euhypnos 10mg/5ml oral soln | euhypnos 10mg/5ml oral solution,PH1113_v2453
+Anxiety,d16..,Read2,loprazolam,PH1113_v2453
+Anxiety,d21k.,Read2,stesolid 5mg rectal solution,PH1113_v2453
+Anxiety,d132.,Read2,*welldorm 225mg/5ml elixir,PH1113_v2453
+Anxiety,d182.,Read2,nitrazepam 5mg tablets,PH1113_v2453
+Anxiety,d2a3.,Read2,*almazine 1mg tablets,PH1113_v2453
+Anxiety,d213.,Read2,diazepam 2mg tablets,PH1113_v2453
+Anxiety,d153.,Read2,*paxane 15mg capsules,PH1113_v2453
+Anxiety,d21n.,Read2,tensium 5mg tablets,PH1113_v2453
+Anxiety,d1f1.,Read2,stilnoct 5mg tablets,PH1113_v2453
+Anxiety,d119.,Read2,chloral hydrate 500mg/5ml syr | chloral hydrate 500mg/5ml syrup,PH1113_v2453
+Anxiety,d291.,Read2,*anxon 15mg capsules,PH1113_v2453
+Anxiety,d246.,Read2,*chlordiazepoxide 5mg tablets,PH1113_v2453
+Anxiety,d1ai.,Read2,*temazepam gel filled 30mg cap | temazepam gel filled 30mg capsules,PH1113_v2453
+Anxiety,d161.,Read2,loprazolam 1mg tablets,PH1113_v2453
+Anxiety,d121.,Read2,*heminevrin 192mg capsules,PH1113_v2453
+Anxiety,d21a.,Read2,*atensine 2mg tablets,PH1113_v2453
+Anxiety,d25..,Read2,chlormezanone,PH1113_v2453
+Anxiety,d2bz.,Read2,*medazepam 10mg capsules,PH1113_v2453
+Anxiety,d283.,Read2,*atarax 10mg/5ml syrup,PH1113_v2453
+Anxiety,d21j.,Read2,*stesolid 20mg/4ml injection,PH1113_v2453
+Anxiety,d247.,Read2,*chlordiazepoxide 10mg tablets,PH1113_v2453
+Anxiety,d211.,Read2,*diazepam 2mg capsules,PH1113_v2453
+Anxiety,d1aj.,Read2,*temazepam 10mg/sachet soln | temazepam 10mg/sachet oral solution,PH1113_v2453
+Anxiety,d1hz.,Read2,melatonin 2mg m/r tablets,PH1113_v2453
+Anxiety,d27..,Read2,clorazepate dipotassium,PH1113_v2453
+Anxiety,d1a5.,Read2,*temazepam 10mg/5ml elixir,PH1113_v2453
+Anxiety,d1f..,Read2,zolpidem,PH1113_v2453
+Anxiety,d115.,Read2,welldorm 143mg/5ml elixir,PH1113_v2453
+Anxiety,d267.,Read2,tapclob 10mg/5ml oral susp | tapclob 10mg/5ml oral suspension,PH1113_v2453
+Anxiety,d187.,Read2,*nitrados 5mg tablets,PH1113_v2453
+Anxiety,d2a..,Read2,lorazepam [anxiolytic],PH1113_v2453
+Anxiety,d2f2.,Read2,*buspar 5mg tablets,PH1113_v2453
+Anxiety,d13y.,Read2,*dichloralphenazone 650mg tabs | dichloralphenazone 650mg tablets,PH1113_v2453
+Anxiety,d24h.,Read2,tropium 5mg tablets,PH1113_v2453
+Anxiety,d1d1.,Read2,zopiclone 7.5mg tablets,PH1113_v2453
+Anxiety,d2f..,Read2,buspirone hydrochloride,PH1113_v2453
+Anxiety,d1ae.,Read2,*temazepam gelthix 30mg caps | temazepam gelthix 30mg capsules,PH1113_v2453
+Anxiety,d1h1.,Read2,circadin 2mg m/r tablets,PH1113_v2453
+Anxiety,d1d2.,Read2,zimovane 7.5mg tablets,PH1113_v2453
+Anxiety,d2a7.,Read2,ativan 4mg/1ml injection,PH1113_v2453
+Anxiety,d21r.,Read2,*valium 2mg tablets,PH1113_v2453
+Anxiety,d186.,Read2,mogadon 5mg tablets,PH1113_v2453
+Anxiety,d29..,Read2,*ketazolam,PH1113_v2453
+Anxiety,d2g2.,Read2,anexate 500mcg/5ml injection | anexate 500micrograms/5ml injection,PH1113_v2453
+Anxiety,d183.,Read2,*nitrazepam 10mg tablets,PH1113_v2453
+Anxiety,d264.,Read2,frisium 10mg tablets,PH1113_v2453
+Anxiety,d21c.,Read2,*atensine 10mg tablets,PH1113_v2453
+Anxiety,d122.,Read2,*heminevrin 250mg/5ml syrup,PH1113_v2453
+Anxiety,d1i5.,Read2,dexdor 1mg/10ml conc for inf | dexdor 1mg/10ml concentrate for solution for infusion,PH1113_v2453
+Anxiety,d243.,Read2,chlordiazepoxide hcl 5mg tabs | chlordiazepoxide hydrochloride 5mg tablets,PH1113_v2453
+Anxiety,d22..,Read2,alprazolam,PH1113_v2453
+Anxiety,d21v.,Read2,valium [anxiol] 10mg/2ml inj | valium [anxiol] 10mg/2ml injection,PH1113_v2453
+Anxiety,d18b.,Read2,*somnite 5mg tablets,PH1113_v2453
+Anxiety,d2az.,Read2,lorazepam 4mg/1ml injection,PH1113_v2453
+Anxiety,d152.,Read2,dalmane 30mg capsules,PH1113_v2453
+Anxiety,d2a2.,Read2,lorazepam 2.5mg tablets,PH1113_v2453
+Anxiety,d26..,Read2,clobazam,PH1113_v2453
+Anxiety,d21G.,Read2,*valclair 10mg suppositories,PH1113_v2453
+Anxiety,d18c.,Read2,somnite 2.5mg/5ml mixture,PH1113_v2453
+Anxiety,d184.,Read2,nitrazepam 2.5mg/5ml mixture,PH1113_v2453
+Anxiety,d1g..,Read2,zaleplon,PH1113_v2453
+Anxiety,d241.,Read2,chlordiazepoxide 5mg capsules,PH1113_v2453
+Anxiety,d1al.,Read2,*euhypnos 10mg/sachet solution | euhypnos 10mg/sachet oral solution,PH1113_v2453
+Anxiety,d21F.,Read2,dialar 5mg/5ml syrup,PH1113_v2453
+Anxiety,d21..,Read2,diazepam [anxiolytic],PH1113_v2453
+Anxiety,d188.,Read2,*noctesed 5mg tablets,PH1113_v2453
+Anxiety,d1a6.,Read2,*normison 10mg capsules,PH1113_v2453
+Anxiety,d18..,Read2,nitrazepam,PH1113_v2453
+Anxiety,d23y.,Read2,*bromazepam 1.5mg tablets,PH1113_v2453
+Anxiety,d21g.,Read2,*solis 2mg capsules,PH1113_v2453
+Anxiety,d25z.,Read2,*chlormezanone 200mg tablets,PH1113_v2453
+Anxiety,d2c5.,Read2,meprate 400mg tablets,PH1113_v2453
+Anxiety,d1f2.,Read2,zolpidem tartrate 5mg tablets,PH1113_v2453
+Anxiety,d13z.,Read2,*dichloralphenazone 225mg/5ml | dichloralphenazone 225mg/5ml elixir,PH1113_v2453
+Anxiety,d2e1.,Read2,*centrax 10mg tablets,PH1113_v2453
+Anxiety,d1g1.,Read2,sonata 5mg capsules,PH1113_v2453
+Anxiety,d24j.,Read2,*tropium 25mg tablets,PH1113_v2453
+Anxiety,d21z.,Read2,*diazepam 10mg suppositories,PH1113_v2453
+Anxiety,d114.,Read2,*chloral hydrate 500mg caps | chloral hydrate 500mg capsules,PH1113_v2453
+Anxiety,d1a8.,Read2,*temazepam planpak capsules,PH1113_v2453
+Anxiety,d1ak.,Read2,*temazepam 20mg/sach oral soln | temazepam 20mg/sachet oral solution,PH1113_v2453
+Anxiety,d1a9.,Read2,temazepam 10mg tablets,PH1113_v2453
+Anxiety,d151.,Read2,dalmane 15mg capsules,PH1113_v2453
+Anxiety,d1a1.,Read2,*temazepam 10mg capsules,PH1113_v2453
+Anxiety,d2g1.,Read2,flumazenil 500mcg/5ml inj | flumazenil 500microgram/5ml injection,PH1113_v2453
+Anxiety,d22y.,Read2,alprazolam 250mcg tablets | alprazolam 250microgram tablets,PH1113_v2453
+Anxiety,d1ac.,Read2,*temazepam gelthix 20mg caps | temazepam gelthix 20mg capsules,PH1113_v2453
+Anxiety,d216.,Read2,diazepam 2mg/5ml elixir,PH1113_v2453
+Anxiety,d2f5.,Read2,buspirone 10mg tablets,PH1113_v2453
+Anxiety,d154.,Read2,*paxane 30mg capsules,PH1113_v2453
+Anxiety,d2d2.,Read2,oxazepam 10mg tablets,PH1113_v2453
+Anxiety,d1d5.,Read2,*zileze 7.5 tablets,PH1113_v2453
+Anxiety,d263.,Read2,clobazam 10mg tablets,PH1113_v2453
+Anxiety,d162.,Read2,*dormonoct 1mg tablets,PH1113_v2453
+Anxiety,d244.,Read2,chlordiazepoxide hcl 10mg tabs | chlordiazepoxide hydrochloride 10mg tablets,PH1113_v2453
+Anxiety,d21D.,Read2,*rimapam 10mg tablets,PH1113_v2453
+Anxiety,d123.,Read2,*heminevrin 8mg/ml infusion,PH1113_v2453
+Anxiety,d2c2.,Read2,meprobamate 400mg tablets,PH1113_v2453
+Anxiety,d251.,Read2,*trancopal 200mg tablets,PH1113_v2453
+Anxiety,d21B.,Read2,*rimapam 2mg tablets,PH1113_v2453
+Anxiety,d2f3.,Read2,*buspar 5mg tablets x126,PH1113_v2453
+Anxiety,d261.,Read2,*clobazam 10mg capsules,PH1113_v2453
+Anxiety,d1i1.,Read2,dexdor 200mcg/2ml conc for inf | dexdor 200micrograms/2ml concentrate for soln for infusion,PH1113_v2453
+Anxiety,d232.,Read2,*lexotan 3mg tablets,PH1113_v2453
+Anxiety,d21i.,Read2,*stesolid 10mg/2ml injection,PH1113_v2453
+Anxiety,d1ad.,Read2,*temazepam gelthix 15mg caps | temazepam gelthix 15mg capsules,PH1113_v2453
+Anxiety,d2d5.,Read2,*oxanid 10mg tablets,PH1113_v2453
+Anxiety,d29y.,Read2,*ketazolam 15mg capsules,PH1113_v2453
+Anxiety,d1i2.,Read2,dexmedetomidine 200mcg/2ml inj | dexmedetomidine 200micrograms/2ml conc for soln for inj,PH1113_v2453
+Anxiety,d2ez.,Read2,*prazepam 10mg tablets,PH1113_v2453
+Anxiety,d1c..,Read2,triclofos sodium,PH1113_v2453
+Anxiety,d21C.,Read2,*rimapam 5mg tablets,PH1113_v2453
+Anxiety,d14..,Read2,*flunitrazepam,PH1113_v2453
+Anxiety,d24e.,Read2,*librium 100mg injection,PH1113_v2453
+Anxiety,d21s.,Read2,*valium 5mg tablets,PH1113_v2453
+Anxiety,d1ah.,Read2,*temazepam gel filled 15mg cap | temazepam gel filled 15mg capsules,PH1113_v2453
+Anxiety,d21b.,Read2,*atensine 5mg tablets,PH1113_v2453
+Anxiety,d1am.,Read2,*euhypnos 20mg/sachet solution | euhypnos 20mg/sachet oral solution,PH1113_v2453
+Anxiety,d11..,Read2,chloral hydrate,PH1113_v2453
+Anxiety,d248.,Read2,*chlordiazepoxide 25mg tablets,PH1113_v2453
+Anxiety,d189.,Read2,remnos 5mg tablets,PH1113_v2453
+Anxiety,d2f1.,Read2,buspirone 5mg tablets,PH1113_v2453
+Anxiety,d1f3.,Read2,zolpidem tartrate 10mg tablets,PH1113_v2453
+Anxiety,d21m.,Read2,tensium 2mg tablets,PH1113_v2453
+Anxiety,d1b..,Read2,*triazolam,PH1113_v2453
+Anxiety,d21e.,Read2,*evacalm 2mg tablets,PH1113_v2453
+Anxiety,d2b2.,Read2,*nobrium 10mg capsules,PH1113_v2453
+Anxiety,d218.,Read2,*alupram 5mg tablets,PH1113_v2453
+Anxiety,d266.,Read2,clobazam 5mg/5ml oral susp | clobazam 5mg/5ml oral suspension,PH1113_v2453
+Anxiety,d2c4.,Read2,*equanil 400mg tablets,PH1113_v2453
+Anxiety,d24b.,Read2,*librium 5mg tablets,PH1113_v2453
+Anxiety,d2c6.,Read2,*tenavoid tablets,PH1113_v2453
+Anxiety,d21f.,Read2,*evacalm 5mg tablets,PH1113_v2453
+Anxiety,d131.,Read2,*welldorm 650mg tablets,PH1113_v2453
+Anxiety,d2d..,Read2,oxazepam,PH1113_v2453
+Anxiety,d2a4.,Read2,*almazine 2.5mg tablets,PH1113_v2453
+Anxiety,d24f.,Read2,tropium 5mg capsules,PH1113_v2453
+Anxiety,d21u.,Read2,*valium 2mg/5ml syrup,PH1113_v2453
+Anxiety,d28y.,Read2,hydroxyzine hcl 25mg tablets,PH1113_v2453
+Anxiety,d222.,Read2,xanax 500micrograms tablets,PH1113_v2453
+Anxiety,d141.,Read2,*rohypnol 1mg tablets,PH1113_v2453
+Anxiety,d2f4.,Read2,*buspar 10mg tablets,PH1113_v2453
+Anxiety,d26A.,Read2,perizam 2mg/ml oral suspension,PH1113_v2453
+Anxiety,d22z.,Read2,alprazolam 500mcg tablets | alprazolam 500microgram tablets,PH1113_v2453
+Anxiety,d21J.,Read2,diazepam 10mg/5ml suspension,PH1113_v2453
+Anxiety,d1b3.,Read2,*halcion 125microgram tablets,PH1113_v2453
+Anxiety,d11A.,Read2,somnwell 707mg tablets,PH1113_v2453
+Anxiety,d12..,Read2,clomethiazole ed. [hypnot] | clomethiazole edisylate [hypnotic],PH1113_v2453
+Anxiety,d2...,Read2,anxiolytics,PH1113_v2453
+Anxiety,d1...,Read2,hypnotics,PH1113_v2453
+Anxiety,d2c..,Read2,meprobamate,PH1113_v2453
+Anxiety,d15z.,Read2,flurazepam 30mg capsules,PH1113_v2453
+Anxiety,d2by.,Read2,*medazepam 5mg capsules,PH1113_v2453
+Anxiety,d21x.,Read2,*valium 5mg suppositories,PH1113_v2453
+Anxiety,d281.,Read2,atarax 10mg tablets,PH1113_v2453
+Anxiety,d24d.,Read2,*librium 25mg tablets,PH1113_v2453
+Anxiety,d1ao.,Read2,temazepam 10mg/5ml s/f soln | temazepam 10mg/5ml sugar free oral solution,PH1113_v2453
+Anxiety,d272.,Read2,*tranxene 15mg capsules,PH1113_v2453
+Anxiety,d2ax.,Read2,*ativan 4mg/ml injection,PH1113_v2453
+Anxiety,d21t.,Read2,*valium 10mg tablets,PH1113_v2453
+Anxiety,d2e..,Read2,*prazepam,PH1113_v2453
+Anxiety,d1a7.,Read2,*normison 20mg capsules,PH1113_v2453
+Anxiety,d24a.,Read2,librium 10mg capsules,PH1113_v2453
+Anxiety,d21h.,Read2,*solis 5mg capsules,PH1113_v2453
+Anxiety,d1ab.,Read2,*temazepam gelthix 10mg caps | temazepam gelthix 10mg capsules,PH1113_v2453
+Anxiety,d118.,Read2,chloral hydrate 143mg/5ml elix | chloral hydrate 143mg/5ml elixir,PH1113_v2453
+Anxiety,d2c1.,Read2,*meprobamate 200mg tablets,PH1113_v2453
+Anxiety,d2d7.,Read2,*oxanid 30mg tablets,PH1113_v2453
+Anxiety,d1a..,Read2,temazepam [hypnotic],PH1113_v2453
+Anxiety,d242.,Read2,chlordiazepoxide 10mg capsules,PH1113_v2453
+Anxiety,d1b4.,Read2,*halcion 250microgram tablets,PH1113_v2453
+Anxiety,d24..,Read2,chlordiazepoxide,PH1113_v2453
+Anxiety,d2d4.,Read2,oxazepam 30mg tablets,PH1113_v2453
+Anxiety,d282.,Read2,atarax 25mg tablets,PH1113_v2453
+Anxiety,d1gy.,Read2,zaleplon 5mg capsules,PH1113_v2453
+Anxiety,d18f.,Read2,nitrazepam 5mg/5ml suspension,PH1113_v2453
+Anxiety,d29z.,Read2,*ketazolam 30mg capsules,PH1113_v2453
+Anxiety,d24i.,Read2,tropium 10mg tablets,PH1113_v2453
+Anxiety,d2a1.,Read2,lorazepam 1mg tablets,PH1113_v2453
+Anxiety,d292.,Read2,*anxon 30mg capsules,PH1113_v2453
+Anxiety,d1g2.,Read2,sonata 10mg capsules,PH1113_v2453
+Anxiety,d24c.,Read2,*librium 10mg tablets,PH1113_v2453
+Anxiety,d21E.,Read2,dialar 2mg/5ml syrup,PH1113_v2453
+Anxiety,d1b2.,Read2,*triazolam 250mcg tablets | triazolam 250microgram tablets,PH1113_v2453
+Anxiety,d2b..,Read2,*medazepam,PH1113_v2453
+Anxiety,d112.,Read2,*chloral paed 200mg/5ml elixir | chloral paediatric 200mg/5ml elixir,PH1113_v2453
+Anxiety,d28z.,Read2,hydroxyzine hcl 10mg/5ml syrup,PH1113_v2453
+Anxiety,d23..,Read2,bromazepam,PH1113_v2453
+Anxiety,d217.,Read2,*alupram 2mg tablets,PH1113_v2453
+Anxiety,d21w.,Read2,*valium dup del injection,PH1113_v2453
+Anxiety,d1d3.,Read2,zopiclone 3.75mg tablets,PH1113_v2453
+Anxiety,d17..,Read2,lormetazepam,PH1113_v2453
+Anxiety,d262.,Read2,*frisium 10mg capsules,PH1113_v2453
+Anxiety,d1gz.,Read2,zaleplon 10mg capsules,PH1113_v2453
+Anxiety,d2g..,Read2,flumazenil,PH1113_v2453
+Anxiety,d249.,Read2,librium 5mg capsules,PH1113_v2453
+Anxiety,d2b1.,Read2,*nobrium 5mg capsules,PH1113_v2453
+Anxiety,d18e.,Read2,*unisomnia 5mg tablets,PH1113_v2453
+Anxiety,d221.,Read2,xanax 250micrograms tablets,PH1113_v2453
+Anxiety,d212.,Read2,*diazepam 5mg capsules,PH1113_v2453
+Anxiety,d12w.,Read2,clomethiaz edis 250mg/5ml syrp | clomethiazole edisilate 250mg/5ml syrup,PH1113_v2453
+Anxiety,d12v.,Read2,clomethiazole(base) 192mg caps | clomethiazole(base) 192mg capsules,PH1113_v2453
+Anxiety,d214.,Read2,diazepam 5mg tablets,PH1113_v2453
+Anxiety,d1d4.,Read2,zimovane ls 3.75mg tablets,PH1113_v2453
+Anxiety,d284.,Read2,ucerax 25mg tablets,PH1113_v2453
+Anxiety,d231.,Read2,*lexotan 1.5mg tablets,PH1113_v2453
+Anxiety,d1a2.,Read2,*temazepam 15mg capsules,PH1113_v2453
+Anxiety,d23z.,Read2,*bromazepam 3mg tablets,PH1113_v2453
+Anxiety,d1aa.,Read2,temazepam 20mg tablets,PH1113_v2453
+Anxiety,d116.,Read2,welldorm tablets,PH1113_v2453
+Anxiety,d1a3.,Read2,*temazepam 20mg capsules,PH1113_v2453
+Anxiety,d13..,Read2,*dichloralphenazone,PH1113_v2453
+Anxiety,d111.,Read2,*chloral 500mg/5ml mixture,PH1113_v2453
+Anxiety,d1af.,Read2,*temazepam gel filled 10mg cap | temazepam gel filled 10mg capsules,PH1113_v2453
+Anxiety,d2a6.,Read2,*ativan 2.5mg tablets,PH1113_v2453
+Anxiety,d269.,Read2,perizam 1mg/ml oral suspension,PH1113_v2453
+Anxiety,d21y.,Read2,*valium 10mg suppositories,PH1113_v2453
+Anxiety,d14z.,Read2,*flunitrazepam 1mg tablets,PH1113_v2453
+Anxiety,d1i..,Read2,dexmedetomidine,PH1113_v2453
+Anxiety,d21p.,Read2,*valium 2mg capsules,PH1113_v2453
+Anxiety,d15..,Read2,flurazepam,PH1113_v2453
+Anxiety,d181.,Read2,*nitrazepam 5mg capsules,PH1113_v2453
+Anxiety,d21d.,Read2,diazemuls 10mg/2ml ampoules,PH1113_v2453
+Anxiety,d113.,Read2,*noctec 500mg capsules,PH1113_v2453
+Anxiety,d1d6.,Read2,*zileze 3.75 tablets,PH1113_v2453
+Anxiety,d172.,Read2,lormetazepam 1mg tablets,PH1113_v2453
+Anxiety,d24g.,Read2,*tropium 10mg capsules,PH1113_v2453
+Anxiety,d1c1.,Read2,*triclofos 500mg/5ml liquid,PH1113_v2453
+Anxiety,d21q.,Read2,*valium 5mg capsules,PH1113_v2453
+Anxiety,d1i3.,Read2,dexdor 400mcg/4ml conc for inf | dexdor 400micrograms/4ml concentrate for soln for infusion,PH1113_v2453
+Anxiety,d27y.,Read2,*clorazepate 7.5mg capsules | clorazepate dipotassium 7.5mg capsules,PH1113_v2453
+Anxiety,d185.,Read2,*mogadon 5mg capsules,PH1113_v2453
+Anxiety,d2d6.,Read2,*oxanid 15mg tablets,PH1113_v2453
+Anxiety,d1b1.,Read2,*triazolam 125mcg tablets | triazolam 125microgram tablets,PH1113_v2453
+Anxiety,d27z.,Read2,*clorazepate 15mg capsules | clorazepate dipotassium 15mg capsules,PH1113_v2453
+Anxiety,d215.,Read2,diazepam 10mg tablets,PH1113_v2453
+Anxiety,d265.,Read2,tapclob 5mg/5ml oral susp | tapclob 5mg/5ml oral suspension,PH1113_v2453
+Anxiety,d171.,Read2,lormetazepam 500mcg tablets | lormetazepam 500micrograms tablets,PH1113_v2453
+Anxiety,d1f4.,Read2,stilnoct 10mg tablets,PH1113_v2453
+Anxiety,d271.,Read2,*tranxene 7.5mg capsules,PH1113_v2453
+Anxiety,d1d..,Read2,zopiclone,PH1113_v2453
+Anxiety,d1ag.,Read2,*temazepam gel filled 20mg cap | temazepam gel filled 20mg capsules,PH1113_v2453
+Anxiety,d28..,Read2,hydroxyzine hcl [anxiolytic],PH1113_v2453
+Anxiety,d1a4.,Read2,*temazepam 30mg capsules,PH1113_v2453
+Anxiety,d2a5.,Read2,*ativan 1mg tablets,PH1113_v2453
+Anxiety,d1i6.,Read2,dexmedetomidine 1mg/10ml inj | dexmedetomidine 1mg/10ml concentrate for soln for injection,PH1113_v2453
+Anxiety,d15y.,Read2,flurazepam 15mg capsules,PH1113_v2453
+Anxiety,d1h..,Read2,melatonin,PH1113_v2453
+Anxiety,d2d3.,Read2,oxazepam 15mg tablets,PH1113_v2453
+Anxiety,d174.,Read2,*noctamid 1mg tablets,PH1113_v2453
+Anxiety,d21l.,Read2,stesolid 10mg rectal solution,PH1113_v2453
+Anxiety,d18d.,Read2,*surem 5mg capsules,PH1113_v2453
+Anxiety,d2c3.,Read2,*equanil 200mg tablets,PH1113_v2453
+Anxiety,d21o.,Read2,tensium 10mg tablets,PH1113_v2453
+Anxiety,d12z.,Read2,*chlormethiazole 8mg/ml inf | chlormethiazole edisylate 8mg/ml infusion,PH1113_v2453
+Anxiety,d18a.,Read2,*remnos 10mg tablets,PH1113_v2453
+Anxiety,d173.,Read2,*noctamid 500mcg tablets | noctamid 500micrograms tablets,PH1113_v2453
+Anxiety,d117.,Read2,chloral hydrate 414mg tablets,PH1113_v2453
+Anxiety,d2d1.,Read2,*oxazepam 30mg capsules,PH1113_v2453
+Anxiety,d1i4.,Read2,dexmedetomidine 400mcg/4ml inj | dexmedetomidine 400micrograms/4ml conc for soln for inj,PH1113_v2453
+Anxiety,d21A.,Read2,diazepam 5mg/5ml oral solution,PH1113_v2453
+Anxiety,E200.,Read3,"[x]anxiety disord unspecified | [x]anxiety disorder, unspecified",PH1113_v2453
+Anxiety,XE1aD,Read3,[x]social anx dis childhood | [x]social anxiety disorder of childhood,PH1113_v2453
+Anxiety,XE1aD,Read3,[x]social anx dis childhood | [x]social anxiety disorder of childhood,PH1113_v2453
+Anxiety,XE1aD,Read3,[x]social anx dis childhood | [x]social anxiety disorder of childhood,PH1113_v2453
+Anxiety,XE1aD,Read3,[x]social anx dis childhood | [x]social anxiety disorder of childhood,PH1113_v2453
+Anxiety,Xa1b6,Read3,child/adolesc.overanxious.dis. | childhood and adolescent overanxiousness disturbance,PH1113_v2453
+Anxiety,X762G,Read3,fear of flying,PH1113_v2453
+Anxiety,XE1Y7,Read3,panic disorder,PH1113_v2453
+Anxiety,Ua1qS,Read3,panic disorder,PH1113_v2453
+Anxiety,XE1YB,Read3,phobic disorder nos,PH1113_v2453
+Anxiety,X00Sy,Read3,phobic disorder nos,PH1113_v2453
+Anxiety,XE1Yn,Read3,acute stress reaction nos,PH1113_v2453
+Anxiety,X00Se,Read3,acute stress reaction nos,PH1113_v2453
+Anxiety,X762H,Read3,acute stress reaction nos,PH1113_v2453
+Anxiety,X00Sd,Read3,acute stress reaction nos,PH1113_v2453
+Anxiety,Xa7lj,Read3,cancer phobia,PH1113_v2453
+Anxiety,X00SW,Read3,[x]social phobias,PH1113_v2453
+Anxiety,X00SW,Read3,[x]social phobias,PH1113_v2453
+Anxiety,X00SW,Read3,[x]social phobias,PH1113_v2453
+Anxiety,X00SX,Read3,[x]specific (isolated) phobia | [x]specific (isolated) phobias,PH1113_v2453
+Anxiety,X00SX,Read3,[x]specific (isolated) phobia | [x]specific (isolated) phobias,PH1113_v2453
+Anxiety,X00SX,Read3,[x]specific (isolated) phobia | [x]specific (isolated) phobias,PH1113_v2453
+Anxiety,X00SX,Read3,[x]specific (isolated) phobia | [x]specific (isolated) phobias,PH1113_v2453
+Anxiety,E2027,Read3,[x]specific (isolated) phobia | [x]specific (isolated) phobias,PH1113_v2453
+Anxiety,X00SX,Read3,[x]specific (isolated) phobia | [x]specific (isolated) phobias,PH1113_v2453
+Anxiety,X00SX,Read3,[x]specific (isolated) phobia | [x]specific (isolated) phobias,PH1113_v2453
+Anxiety,X00SX,Read3,[x]specific (isolated) phobia | [x]specific (isolated) phobias,PH1113_v2453
+Anxiety,X00SX,Read3,[x]specific (isolated) phobia | [x]specific (isolated) phobias,PH1113_v2453
+Anxiety,X00SX,Read3,[x]specific (isolated) phobia | [x]specific (isolated) phobias,PH1113_v2453
+Anxiety,X00SX,Read3,[x]specific (isolated) phobia | [x]specific (isolated) phobias,PH1113_v2453
+Anxiety,XE1YA,Read3,[x]specific (isolated) phobia | [x]specific (isolated) phobias,PH1113_v2453
+Anxiety,E203.,Read3,[x]obsessive - compulsive dis | [x]obsessive - compulsive disorder,PH1113_v2453
+Anxiety,E203.,Read3,[x]obsessive - compulsive dis | [x]obsessive - compulsive disorder,PH1113_v2453
+Anxiety,E203.,Read3,[x]obsessive - compulsive dis | [x]obsessive - compulsive disorder,PH1113_v2453
+Anxiety,E203.,Read3,[x]obsessive - compulsive dis | [x]obsessive - compulsive disorder,PH1113_v2453
+Anxiety,E203.,Read3,[x]obsessive - compulsive dis | [x]obsessive - compulsive disorder,PH1113_v2453
+Anxiety,X762T,Read3,fear of death,PH1113_v2453
+Anxiety,X00SY,Read3,[x]needle phobia,PH1113_v2453
+Anxiety,X00SV,Read3,[x]agoraphobia,PH1113_v2453
+Anxiety,X00SV,Read3,[x]agoraphobia,PH1113_v2453
+Anxiety,X00SV,Read3,[x]agoraphobia,PH1113_v2453
+Anxiety,E2021,Read3,[x]agoraphobia,PH1113_v2453
+Anxiety,X00SV,Read3,[x]agoraphobia,PH1113_v2453
+Anxiety,X00SV,Read3,[x]agoraphobia,PH1113_v2453
+Anxiety,XE1YA,Read3,phobic disorders,PH1113_v2453
+Anxiety,XE1YA,Read3,phobic disorders,PH1113_v2453
+Anxiety,XE1YA,Read3,phobic disorders,PH1113_v2453
+Anxiety,X00SW,Read3,phobic disorders,PH1113_v2453
+Anxiety,XE1YA,Read3,phobic disorders,PH1113_v2453
+Anxiety,XE1YA,Read3,phobic disorders,PH1113_v2453
+Anxiety,XE1Zj,Read3,[x]other specif anxiety disord | [x]other specified anxiety disorders,PH1113_v2453
+Anxiety,XE1Zj,Read3,[x]other specif anxiety disord | [x]other specified anxiety disorders,PH1113_v2453
+Anxiety,E2002,Read3,[x]generalized anxiety disord | [x]generalized anxiety disorder,PH1113_v2453
+Anxiety,E2002,Read3,[x]generalized anxiety disord | [x]generalized anxiety disorder,PH1113_v2453
+Anxiety,E2002,Read3,[x]generalized anxiety disord | [x]generalized anxiety disorder,PH1113_v2453
+Anxiety,E200.,Read3,[x]generalized anxiety disord | [x]generalized anxiety disorder,PH1113_v2453
+Anxiety,E2002,Read3,[x]generalized anxiety disord | [x]generalized anxiety disorder,PH1113_v2453
+Anxiety,E2002,Read3,[x]generalized anxiety disord | [x]generalized anxiety disorder,PH1113_v2453
+Anxiety,E2002,Read3,[x]generalized anxiety disord | [x]generalized anxiety disorder,PH1113_v2453
+Anxiety,E2002,Read3,[x]generalized anxiety disord | [x]generalized anxiety disorder,PH1113_v2453
+Anxiety,X00Sb,Read3,[X]Mixed anxiety and depressive disorder,PH1113_v2453
+Anxiety,X00Sb,Read3,[X]Mixed anxiety and depressive disorder,PH1113_v2453
+Anxiety,X00Sb,Read3,[X]Mixed anxiety and depressive disorder,PH1113_v2453
+Anxiety,X00Sb,Read3,Anxiety with depression,PH1113_v2453
+Anxiety,X00Sb,Read3,Anxiety with depression,PH1113_v2453
+Anxiety,XaKVA,Read3,o/e - panic attack,PH1113_v2453
+Anxiety,XE0ra,Read3,nerves - nervousness,PH1113_v2453
+Anxiety,XE0ra,Read3,nerves - nervousness,PH1113_v2453
+Anxiety,XE0ra,Read3,nerves - nervousness,PH1113_v2453
+Anxiety,XE0ra,Read3,nerves - nervousness,PH1113_v2453
+Anxiety,XE0ra,Read3,nerves - nervousness,PH1113_v2453
+Anxiety,XE0rb,Read3,anxiousness,PH1113_v2453
+Anxiety,XE0rb,Read3,anxiousness,PH1113_v2453
+Anxiety,XE0rb,Read3,anxiousness,PH1113_v2453
+Anxiety,XE0rb,Read3,anxiousness,PH1113_v2453
+Anxiety,XaIo7,Read3,c/o - panic attack,PH1113_v2453
+Anxiety,XaL0q,Read3,	ref guid self-help for anxiety | referral for guided self-help for anxiety,PH1113_v2453
+Anxiety,Ub0qs,Read3,	anxiety management training,PH1113_v2453

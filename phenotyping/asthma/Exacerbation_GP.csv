@@ -1,0 +1,42 @@
+pheno_name,snomed,description,read_code,read_version
+AsthmaExacerbation,57546000,Asthma with status asthmaticus,X102D,CTV3
+AsthmaExacerbation,59327009,Intrinsic asthma with status asthmaticus,XE0YU,CTV3
+AsthmaExacerbation,91340006,Extrinsic asthma with status asthmaticus,XE0YS,CTV3
+AsthmaExacerbation,91340006,Extrinsic asthma with status asthmaticus,XE0YS,CTV3
+AsthmaExacerbation,91340006,Extrinsic asthma with status asthmaticus,H330100,Read2
+AsthmaExacerbation,233681001,Extrinsic asthma with asthma attack,X101y,CTV3
+AsthmaExacerbation,233681001,Extrinsic asthma with asthma attack,H330111,Read2
+AsthmaExacerbation,233681001,Extrinsic asthma with asthma attack,H3301,CTV3
+AsthmaExacerbation,233685005,Intrinsic asthma with asthma attack,X1022,CTV3
+AsthmaExacerbation,233685005,Intrinsic asthma with asthma attack,H331111,Read2
+AsthmaExacerbation,233685005,Intrinsic asthma with asthma attack,H3311,Read2
+AsthmaExacerbation,233686006,Aspirin-sensitive asthma with nasal polyps,X1024,CTV3
+AsthmaExacerbation,266363006,Status asthmaticus NOS,XE0YV,CTV3
+AsthmaExacerbation,266363006,Status asthmaticus NOS,H33z0,Read2
+AsthmaExacerbation,266364000,Asthma attack,XE0YW,CTV3
+AsthmaExacerbation,266364000,Asthma attack,H33z1,Read2
+AsthmaExacerbation,266364000,Asthma attack,XE0YW,Read2
+AsthmaExacerbation,266364000,Asthma attack,XE0ZT,CTV3
+AsthmaExacerbation,0, Severe asthma attack,H33z011,Read2
+AsthmaExacerbation,274105009,Asthma attack NOS,H33z1,CTV3
+AsthmaExacerbation,274105009,Asthma attack NOS,H33z111,Read2
+AsthmaExacerbation,274105009,Asthma attack NOS,XM0s2,Read2
+AsthmaExacerbation,274105009,Asthma attack NOS,XE0ZT,CTV3
+AsthmaExacerbation,281239006,Acute asthma,Xa1hD,CTV3
+AsthmaExacerbation,304527002,Acute asthma,Xa9zf,CTV3
+AsthmaExacerbation,407674008,Aspirin-induced asthma, XaJFG,CTV3
+AsthmaExacerbation,407674008,Aspirin-induced asthma,1780,Read2
+AsthmaExacerbation,708038006,Acute exacerbation of asthma,Xa1Hd,CTV3
+AsthmaExacerbation,708038006,Acute exacerbation of asthma,H333.,Read2
+AsthmaExacerbation,708090002,Acute severe exacerbation of asthma, Xafdj,CTV3
+AsthmaExacerbation,734904007,Life threatening acute exacerbation of asthma, Xafdz,CTV3
+AsthmaExacerbation,734905008,Moderate acute exacerbation of asthma, Xafdy,CTV3
+AsthmaExacerbation,653751000000109,Asthma attack NOS,H33z1,CTV3
+AsthmaExacerbation,653751000000109,Asthma attack NOS,XE0ZT,CTV3
+AsthmaExacerbation,653751000000109,Asthma attack NOS,H33z111,Read2
+AsthmaExacerbation,653751000000109,Asthma attack NOS,XM0s2,Read2
+AsthmaExacerbation,689421000000104,Status asthmaticus NOS,XE0YV,CTV3
+AsthmaExacerbation,689421000000104,Status asthmaticus NOS,H33z0,Read2
+AsthmaExacerbation,1064771000000103,Acute severe exacerbation of asthma, Xafdj,CTV3
+AsthmaExacerbation,1064811000000103,Moderate acute exacerbation of asthma, Xafdy,CTV3
+AsthmaExacerbation,1064821000000109,Life threatening acute exacerbation of asthma, Xafdz,CTV3

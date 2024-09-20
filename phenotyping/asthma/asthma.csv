@@ -1,0 +1,168 @@
+pheno_name,code_clean,vocab,description,info
+asthma,663d.00,Read2,Emergency asthma admission since last appointment,PH12_v24
+asthma,1788.00,Read2,Asthma trigger - cold air,PH12_v24
+asthma,663N000,Read2,Asthma causing night waking,PH12_v24
+asthma,679J100,Read2,Health education - structured asthma discussion,PH12_v24
+asthma,8H2P.00,Read2,"Emergency admission, asthma",PH12_v24
+asthma,8HTT.00,Read2,Referral to asthma clinic,PH12_v24
+asthma,8CMA000,Read2,Patient has a written asthma personal action plan,PH12_v24
+asthma,9NI8.00,Read2,Asthma outreach clinic,PH12_v24
+asthma,14Ok000,Read2,At risk severe asthma exacerbation,PH12_v24
+asthma,9OJ8.00,Read2,Asthma monitor phone invite,PH12_v24
+asthma,38B8.00,Read2,Severe asthma exacerbation risk assessment,PH12_v24
+asthma,663V.00,Read2,Asthma severity,PH12_v24
+asthma,9OJA.11,Read2,Asthma monitored,PH12_v24
+asthma,663e.00,Read2,Asthma restricts exercise,PH12_v24
+asthma,1780.00,Read2,Aspirin induced asthma,PH12_v24
+asthma,66YC.00,Read2,Absent from work or school due to asthma,PH12_v24
+asthma,H331100,Read2,Intrinsic asthma with status asthmaticus,PH12_v24
+asthma,388t000,Read2,Royal College Physician asthma assessment 3 question score,PH12_v24
+asthma,663n.00,Read2,Asthma treatment compliance satisfactory,PH12_v24
+asthma,H330.11,Read2,Allergic asthma,PH12_v24
+asthma,66Yu.00,Read2,Number days absent from school due to asthma in past 6 month,PH12_v24
+asthma,663f.00,Read2,Asthma never restricts exercise,PH12_v24
+asthma,663V300,Read2,Severe asthma,PH12_v24
+asthma,663V100,Read2,Mild asthma,PH12_v24
+asthma,9OJC.00,Read2,Asthma monitoring invitation email,PH12_v24
+asthma,H35y700,Read2,Wood asthma,PH12_v24
+asthma,663O000,Read2,Asthma never disturbs sleep,PH12_v24
+asthma,66YQ.00,Read2,Asthma monitoring by nurse,PH12_v24
+asthma,663P000,Read2,Asthma limits activities 1 to 2 times per month,PH12_v24
+asthma,H33zz00,Read2,Asthma NOS,PH12_v24
+asthma,663P200,Read2,Asthma limits activities most days,PH12_v24
+asthma,663m.00,Read2,Asthma accident and emergency attendance since last visit,PH12_v24
+asthma,8798.00,Read2,Asthma control step 5,PH12_v24
+asthma,H330111,Read2,Extrinsic asthma with asthma attack,PH12_v24
+asthma,H330.12,Read2,Childhood asthma,PH12_v24
+asthma,9N4Q.00,Read2,DNA - Did not attend asthma clinic,PH12_v24
+asthma,1787.00,Read2,Asthma trigger - seasonal,PH12_v24
+asthma,8795.00,Read2,Asthma control step 2,PH12_v24
+asthma,663..11,Read2,Asthma monitoring,PH12_v24
+asthma,H33z011,Read2,Severe asthma attack,PH12_v24
+asthma,679J000,Read2,Health education - asthma self management,PH12_v24
+asthma,663N100,Read2,Asthma disturbs sleep weekly,PH12_v24
+asthma,66Yp.00,Read2,Asthma review using Roy Colleg of Physicians three questions,PH12_v24
+asthma,9OJB100,Read2,Asthma monitoring SMS (short message service) text message second invitation,PH12_v24
+asthma,38QM.00,Read2,Childhood Asthma Control Test,PH12_v24
+asthma,663W.00,Read2,Asthma prophylactic medication used,PH12_v24
+asthma,H35y600,Read2,Sequoiosis (red-cedar asthma),PH12_v24
+asthma,9OJ7.00,Read2,Asthma monitor verbal invite,PH12_v24
+asthma,66Y9.00,Read2,Step up change in asthma management plan,PH12_v24
+asthma,H33z200,Read2,Late-onset asthma,PH12_v24
+asthma,H331z00,Read2,Intrinsic asthma NOS,PH12_v24
+asthma,1O2..00,Read2,Asthma confirmed,PH12_v24
+asthma,173A.00,Read2,Exercise induced asthma,PH12_v24
+asthma,9hA2.00,Read2,Excepted from asthma quality indicators: Informed dissent,PH12_v24
+asthma,9OJ..11,Read2,Asthma clinic administration,PH12_v24
+asthma,663x.00,Read2,Asthma limits walking on the flat,PH12_v24
+asthma,38DT.00,Read2,Asthma control questionnaire,PH12_v24
+asthma,663O.00,Read2,Asthma not disturbing sleep,PH12_v24
+asthma,173d.00,Read2,Work aggravated asthma,PH12_v24
+asthma,9OJ3.00,Read2,Asthma monitor offer default,PH12_v24
+asthma,663s.00,Read2,Asthma never causes daytime symptoms,PH12_v24
+asthma,9OJ6.00,Read2,Asthma monitor 3rd letter,PH12_v24
+asthma,9OJA.00,Read2,Asthma monitoring check done,PH12_v24
+asthma,1789.00,Read2,Asthma trigger - respiratory infection,PH12_v24
+asthma,H3B..00,Read2,Asthma-chronic obstructive pulmonary disease overlap syndrome,PH12_v24
+asthma,9hA..00,Read2,Exception reporting: asthma quality indicators,PH12_v24
+asthma,663U.00,Read2,Asthma management plan given,PH12_v24
+asthma,663r.00,Read2,Asthma causes night symptoms 1 to 2 times per month,PH12_v24
+asthma,8796.00,Read2,Asthma control step 3,PH12_v24
+asthma,1786.00,Read2,Asthma trigger - animals,PH12_v24
+asthma,66YR.00,Read2,Asthma monitoring by doctor,PH12_v24
+asthma,663V000,Read2,Occasional asthma,PH12_v24
+asthma,8793.00,Read2,Asthma control step 0,PH12_v24
+asthma,H33..11,Read2,Bronchial asthma,PH12_v24
+asthma,9OJ4.00,Read2,Asthma monitor 1st letter,PH12_v24
+asthma,663h.00,Read2,Asthma - currently dormant,PH12_v24
+asthma,H330000,Read2,Extrinsic asthma without status asthmaticus,PH12_v24
+asthma,8794.00,Read2,Asthma control step 1,PH12_v24
+asthma,66Yq.00,Read2,Asthma causes night time symptoms 1 to 2 times per week,PH12_v24
+asthma,9NNX.00,Read2,Under care of asthma specialist nurse,PH12_v24
+asthma,H334.00,Read2,Brittle asthma,PH12_v24
+asthma,178A.00,Read2,Asthma trigger - airborne dust,PH12_v24
+asthma,9OJB200,Read2,Asthma monitoring SMS (short message service) text message third invitation,PH12_v24
+asthma,H33z.00,Read2,Asthma unspecified,PH12_v24
+asthma,66Yz000,Read2,Asthma management plan declined,PH12_v24
+asthma,1783.00,Read2,Asthma trigger - warm air,PH12_v24
+asthma,663v.00,Read2,Asthma causes daytime symptoms most days,PH12_v24
+asthma,H331.00,Read2,Intrinsic asthma,PH12_v24
+asthma,13Y4.00,Read2,Asthma society member,PH12_v24
+asthma,H33z000,Read2,Status asthmaticus NOS,PH12_v24
+asthma,66Ys.00,Read2,Asthma never causes night symptoms,PH12_v24
+asthma,661M100,Read2,Asthma self-management plan agreed,PH12_v24
+asthma,663j.00,Read2,Asthma - currently active,PH12_v24
+asthma,66Y5.00,Read2,Change in asthma management plan,PH12_v24
+asthma,66YP.00,Read2,Asthma night-time symptoms,PH12_v24
+asthma,H330.14,Read2,Pollen asthma,PH12_v24
+asthma,14B4.00,Read2,H/O: asthma,PH12_v24
+asthma,8CR0.00,Read2,Asthma clinical management plan,PH12_v24
+asthma,9OJZ.00,Read2,Asthma monitoring admin.NOS,PH12_v24
+asthma,663w.00,Read2,Asthma limits walking up hills or stairs,PH12_v24
+asthma,66Yr.00,Read2,Asthma causes symptoms most nights,PH12_v24
+asthma,388t.00,Read2,Royal College of Physicians asthma assessment,PH12_v24
+asthma,1785.00,Read2,Asthma trigger - damp,PH12_v24
+asthma,663y.00,Read2,Number of asthma exacerbations in past year,PH12_v24
+asthma,663J.00,Read2,Airways obstruction reversible,PH12_v24
+asthma,679J200,Read2,Health education - structured patient focused asthma discuss,PH12_v24
+asthma,9N1d.00,Read2,Seen in asthma clinic,PH12_v24
+asthma,H330z00,Read2,Extrinsic asthma NOS,PH12_v24
+asthma,H330.00,Read2,Extrinsic (atopic) asthma,PH12_v24
+asthma,9OJB.00,Read2,Asthma monitoring invitation SMS (short message service) text message,PH12_v24
+asthma,9Q21.00,Read2,Patient in asthma study,PH12_v24
+asthma,9OJB000,Read2,Asthma monitoring SMS (short message service) text message first invitation,PH12_v24
+asthma,66YE.00,Read2,Asthma monitoring due,PH12_v24
+asthma,9hA1.00,Read2,Excepted from asthma quality indicators: Patient unstable,PH12_v24
+asthma,663p.00,Read2,Asthma treatment compliance unsatisfactory,PH12_v24
+asthma,663P.00,Read2,Asthma limiting activities,PH12_v24
+asthma,663P100,Read2,Asthma limits activities 1 to 2 times per week,PH12_v24
+asthma,66YK.00,Read2,Asthma follow-up,PH12_v24
+asthma,H33..00,Read2,Asthma,PH12_v24
+asthma,1781.00,Read2,Asthma trigger - pollen,PH12_v24
+asthma,663e100,Read2,Asthma severely restricts exercise,PH12_v24
+asthma,H33zz11,Read2,Exercise induced asthma,PH12_v24
+asthma,66YA.00,Read2,Step down change in asthma management plan,PH12_v24
+asthma,1782.00,Read2,Asthma trigger - tobacco smoke,PH12_v24
+asthma,38DV.00,Read2,Mini asthma quality of life questionnaire,PH12_v24
+asthma,H331.11,Read2,Late onset asthma,PH12_v24
+asthma,1784.00,Read2,Asthma trigger - emotion,PH12_v24
+asthma,663u.00,Read2,Asthma causes daytime symptoms 1 to 2 times per week,PH12_v24
+asthma,66Yz500,Read2,Telehealth asthma monitoring,PH12_v24
+asthma,178..00,Read2,Asthma trigger,PH12_v24
+asthma,661N100,Read2,Asthma self-management plan review,PH12_v24
+asthma,66YJ.00,Read2,Asthma annual review,PH12_v24
+asthma,H330011,Read2,Hay fever with asthma,PH12_v24
+asthma,H331000,Read2,Intrinsic asthma without status asthmaticus,PH12_v24
+asthma,9OJ2.00,Read2,Refuses asthma monitoring,PH12_v24
+asthma,679J.00,Read2,Health education - asthma,PH12_v24
+asthma,663Q.00,Read2,Asthma not limiting activities,PH12_v24
+asthma,663q.00,Read2,Asthma daytime symptoms,PH12_v24
+asthma,H330.13,Read2,Hay fever with asthma,PH12_v24
+asthma,H330100,Read2,Extrinsic asthma with status asthmaticus,PH12_v24
+asthma,178B.00,Read2,Asthma trigger - exercise,PH12_v24
+asthma,663t.00,Read2,Asthma causes daytime symptoms 1 to 2 times per month,PH12_v24
+asthma,8797.00,Read2,Asthma control step 4,PH12_v24
+asthma,173c.00,Read2,Occupational asthma,PH12_v24
+asthma,663N.00,Read2,Asthma disturbing sleep,PH12_v24
+asthma,H331111,Read2,Intrinsic asthma with asthma attack,PH12_v24
+asthma,9N1d000,Read2,Seen in school asthma clinic,PH12_v24
+asthma,663V200,Read2,Moderate asthma,PH12_v24
+asthma,H47y000,Read2,Detergent asthma,PH12_v24
+asthma,8791.00,Read2,Further asthma - drug prevent.,PH12_v24
+asthma,663N200,Read2,Asthma disturbs sleep frequently,PH12_v24
+asthma,8CE2.00,Read2,Asthma leaflet given,PH12_v24
+asthma,H33z111,Read2,Asthma attack NOS,PH12_v24
+asthma,H33zz12,Read2,Allergic asthma NEC,PH12_v24
+asthma,663e000,Read2,Asthma sometimes restricts exercise,PH12_v24
+asthma,38DL.00,Read2,Asthma control test,PH12_v24
+asthma,H332.00,Read2,Mixed asthma,PH12_v24
+asthma,H333.00,Read2,Acute exacerbation of asthma,PH12_v24
+asthma,H312000,Read2,Chronic asthmatic bronchitis,PH12_v24
+asthma,H33z100,Read2,Asthma attack,PH12_v24
+asthma,9OJ..00,Read2,Asthma monitoring admin.,PH12_v24
+asthma,8B3j.00,Read2,Asthma medication review,PH12_v24
+asthma,9OJ5.00,Read2,Asthma monitor 2nd letter,PH12_v24
+asthma,9OJ1.00,Read2,Attends asthma monitoring,PH12_v24
+asthma,H335.00,Read2,Chronic asthma with fixed airflow obstruction,PH12_v24
+asthma,J45,ICD10,Asthma,PH12_v24
+asthma,J46,ICD10,Status asthmaticus,PH12_v24

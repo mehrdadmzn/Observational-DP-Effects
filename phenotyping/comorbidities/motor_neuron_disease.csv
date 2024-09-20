@@ -1,0 +1,14 @@
+pheno_name,code_clean,vocab,description,info
+motor_neuron,F15y.00,Read2,Other anterior horn cell disease,PH62
+motor_neuron,F15z.00,Read2,Anterior horn cell disease NOS,PH62
+motor_neuron,F152z00,Read2,Motor neurone disease NOS,PH62
+motor_neuron,F15..00,Read2,Anterior horn cell disease,PH62
+motor_neuron,F152000,Read2,Amyotrophic lateral sclerosis,PH62
+motor_neuron,F152400,Read2,Primary lateral sclerosis,PH62
+motor_neuron,F152100,Read2,Progressive muscular atrophy,PH62
+motor_neuron,F152111,Read2,Duchenne Aran muscular atrophy,PH62
+motor_neuron,F152200,Read2,Progressive bulbar palsy,PH62
+motor_neuron,F152300,Read2,Pseudobulbar palsy,PH62
+motor_neuron,F152.00,Read2,Motor neurone disease,PH62
+motor_neuron,7Q04100,Read2,Amyotrophic lateral sclerosis drugs Band 1,PH62
+motor_neuron,G122,ICD10,Motor neuron disease,PH62

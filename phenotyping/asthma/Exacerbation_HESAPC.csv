@@ -1,0 +1,3 @@
+pheno_name,code_clean,vocab,description,info
+AsthmaExacerbation,J45,ICD10,Asthma,PH12_v24
+AsthmaExacerbation,J46,ICD10,Status asthmaticus,PH12_v24

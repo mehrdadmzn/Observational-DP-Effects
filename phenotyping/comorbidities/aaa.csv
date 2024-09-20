@@ -1,0 +1,19 @@
+pheno_name,code_clean,vocab,description,info
+aaa,7A11000,Read2,Emerg repl aneurysm bifurc aorta by anast aorta to fem art,PH34
+aaa,14AE.00,Read2,H/O: aortic aneurysm,PH34
+aaa,G714.11,Read2,AAA - Abdominal aortic aneurysm without mention of rupture,PH34
+aaa,7A13z00,Read2,Emergency replacement of aneurysmal segment of aorta NOS,PH34
+aaa,7A13400,Read2,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC,PH34
+aaa,7A13.00,Read2,Emergency replacement of aneurysmal segment of aorta,PH34
+aaa,7A13300,Read2,Emerg replace aneurysm infrarenal aorta by anast aorta/aorta,PH34
+aaa,G714.00,Read2,Abdominal aortic aneurysm without mention of rupture,PH34
+aaa,7A11211,Read2,Y graft of abdominal Aortic aneurysm (emergency),PH34
+aaa,7A13.11,Read2,Emergency repair of aortic aneurysm,PH34
+aaa,G716.00,Read2,Aortic aneurysm without mention of rupture NOS,PH34
+aaa,7A13411,Read2,Tube graft abdominal Aortic aneurysm (emergency),PH34
+aaa,G716000,Read2,"Thoracoabdominal aortic aneurysm, without mention of rupture",PH34
+aaa,7A13y00,Read2,Emergency replacement of aneurysmal segment of aorta OS,PH34
+aaa,7A11200,Read2,Emerg repl aneurysm bifurc aorta by anast aorta to iliac a,PH34
+aaa,I716,ICD10,"Thoracoabdominal aortic aneurysm, without mention of rupture",PH34
+aaa,I719,ICD10,"Aortic aneurysm of unspecified site, without mention of rupture",PH34
+aaa,I714,ICD10,"Abdominal aortic aneurysm, without mention of rupture",PH34

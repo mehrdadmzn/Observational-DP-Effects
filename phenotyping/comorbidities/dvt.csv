@@ -1,0 +1,18 @@
+pheno_name,code_clean,vocab,description,info
+DVT,I80,ICD10,Phlebitis and thrombophlebitis,PH966_v2144
+DVT,I676,ICD10,Intracranial venous thrombosis,PH966_v2144
+DVT,G08,ICD10,Intracranial venous thrombosis,PH966_v2144
+DVT,I636,ICD10,Intracranial venous thrombosis,PH966_v2144
+DVT,O879,ICD10,Thrombosis during pregnancy and puerperium,PH966_v2144
+DVT,O223,ICD10,Thrombosis during pregnancy and puerperium,PH966_v2144
+DVT,O882,ICD10,Thrombosis during pregnancy and puerperium,PH966_v2144
+DVT,O871,ICD10,Thrombosis during pregnancy and puerperium,PH966_v2144
+DVT,O225,ICD10,ntracranial venous thrombosis in pregnancy and puerperium,PH966_v2144
+DVT,O873,ICD10,ntracranial venous thrombosis in pregnancy and puerperium,PH966_v2144
+DVT,I828,ICD10,Other vein thrombosis,PH966_v2144
+DVT,I829,ICD10,Other vein thrombosis,PH966_v2144
+DVT,I823,ICD10,Other vein thrombosis,PH966_v2144
+DVT,I820,ICD10,Other vein thrombosis,PH966_v2144
+DVT,I822,ICD10,Other vein thrombosis,PH966_v2144
+DVT,O082,ICD10,Embolism following abortion and ectopic and molar pregnancy,PH966_v2144
+DVT,G6760,Read2,,PH966_v2144
