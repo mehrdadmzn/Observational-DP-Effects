@@ -30,28 +30,6 @@ def import_eid_from_csv(csv_path: str, eid_col: str = "eid") -> DataFrame:
 
 
 
-# def import_dd_eid_from_csv(csv_path: str, eid_col: str = "eid") -> DataFrame:
-#     """Imports the index column (eid) from the original csv data.
-#
-#     Args:
-#         csv_path: The path of the csv files converted from the enc_ukb file
-#         eid_col: The name of the index column, default is "eid"
-#
-#     Returns:
-#         df_out: A Pandas datafarme with one column (eid)
-#
-#     """
-#     try:
-#         df_out = dd.read_csv(csv_path, usecols=[0])
-#         return df_out
-#     except FileNotFoundError:
-#         print(f'''File {csv_path} does not exist.''')
-#     except pd.errors.EmptyDataError:
-#         print("The file is empty")
-#     except pd.errors.ParserError as e:
-#         print(f'''Parsing error: {e}''')
-#     return None
-
 def __csv_field_list_and_df(csv_path: str) -> Tuple[List[str], pd.DataFrame]:
     """Reads the name of the columns/fields in the original csv file in a list and the first row of the csv.
     This is recommented for internal use in the module only
@@ -91,18 +69,6 @@ def csv_field_list(csv_path: str) -> List[str]:
     list_out, _ = __csv_field_list_and_df(csv_path)
     return list_out
 
-
-def csv_field_checker(csv_path: str) -> bool:
-    pass
-
-
-# Todo check which csv file has the field
-
-def list_field_checker(field_list: List[str]) -> bool:
-    pass
-
-
-# Todo check which csv file has the field
 
 def import_field_from_csv(csv_path: str, field_name: str, eid_col: str = "eid") -> pd.DataFrame:
     """Import the columns associated with a field from the original csv data.
