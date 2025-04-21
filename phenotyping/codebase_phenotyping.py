@@ -71,43 +71,6 @@ def pheno_all_evdt_extractor(df_data_clean: DataFrame,
     return df_long
 
 
-def __old_pheno_all_evdt_extractor(df_data_clean: DataFrame,
-                                   col_evdt_data: str,
-                                   col_code_data: str,
-                                   df_codelist: DataFrame,
-                                   col_code_codelist: str,
-                                   col_vocab_codelist: str,
-                                   use_vocab: str,
-                                   col_assign_pheno_name: str,
-                                   assign_pheno_name: str,
-                                   col_codelist_multicategory: str = None,
-                                   join_type: str = 'any'
-                                   ) -> DataFrame:
-    """ Extracts all event dates where there is an exact code hit
-
-    Args:
-        df_data_clean: Clean input data (event dates are clean, between date of birth and death)
-        col_evdt_data: The name of the column in the data holding the event dates (e.g. diagnosis date). For example
-            epistart in HES
-        col_code_data: The name of the column in data holding the code. For example, diag_icd10 in HES
-        df_codelist: The codelist in Pandas dataframe
-        col_code_codelist: The code column in the codelist
-        col_vocab_codelist: The column specifying the vocabulary or coding system in the codelist
-        use_vocab: The only vocabulary that is going to be used in the extraction.
-            If multiple vocabularies are needed, consolidate them into a single vocabulary label before this function.
-        col_assign_pheno_name: The new column specifying the phenotype name (e.g. pheno, or pheno_name)
-        assign_pheno_name: The value to assing to the col_assign_pheno_name (e.g. asthma  or diabetes)
-        col_codelist_multicategory: If the phenotype is multi-category (such as smoking),
-            specify the name of the category column in the codelist.
-        join_type: Of following types:
-                - "read2" for GP data
-                - "icd10" for HES data
-                - "opcs4" for HES OPER
-    Returns:
-        A dataframe with all code hits in long format. Each patient has multiple rows.
-
-    """
-
     df = df_data_clean
     df[col_evdt_data] = pd.to_datetime(df[col_evdt_data])
     if col_codelist_multicategory is None or "":
