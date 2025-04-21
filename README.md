@@ -2,6 +2,7 @@
 
 Observational studies refer to the use of healthcare data, including electronic health records (EHR), to examine associations between risk factors and health outcomes. However, ensuring patients' privacy within these datasets remains an ongoing challenge. The application of differential privacy (DP) in the context of observational studies is largely underexplored. This project aims to investigate the impact of DP on a case-control analysis using data from the UK Biobank (https://www.ukbiobank.ac.uk/).
 
+
 # UK Biobank data
 
 The UK Biobank is a biomedical database (https://www.ukbiobank.ac.uk/enable-your-research/about-our-data) containing information on 500,000 participants. It includes baseline assessments, questionnaires, physical measurements, disease histories, imaging data, genetic information, and linked healthcare records (including primary care and hospital data). The UK Biobank Showcase (https://biobank.ndph.ox.ac.uk/showcase/) provides detailed information about available resources and fields.
@@ -20,9 +21,11 @@ We used IBM's [diffprivlib](http://diffprivlib.readthedocs.io/en/latest/index.ht
 In this section we describe the steps to run the code and the required packages.
 
 
-## 1. Settings
+## 1. Settings and general utils
 
 All constant parameters, including file paths, are defined using a Python data class in `env/parameters.py`
+
+The `util` package contains modules for handling Dask, Parquet, and logging. 
 
 ## 2. Data preparation
 
@@ -40,24 +43,32 @@ These include:
 
 ## 2. Phenotyping and cohort creation
 
-We extracted diagnostic and prescribed medication phenotypes from the [linked primary care and hospital inpatient data](https://www.ukbiobank.ac.uk/enable-your-research/about-our-data/health-related-outcomes-data). The primary care data is based on Read v2 and CTV3 terminologies for diagnostic codes. The prescribed medication in the primary care data is based on BNF codes of varying lengths. Hospital inpatient diagnoses are based on ICD-10 terminology. 
+We derived diagnostic and medication-related phenotypes from the [linked primary care and hospital inpatient data](https://www.ukbiobank.ac.uk/enable-your-research/about-our-data/health-related-outcomes-data). Diagnostic codes in primary care are based on Read v2 and CTV3 terminologies, while prescribed medications use BNF codes of varying lengths. Hospital inpatient diagnoses are recorded using ICD-10 codes.
 
-We used published and validated code lists from [HDR UK Phenotype Library]() and publications (e.g., [Mukherjee et al., 2024](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00105-4/fulltext)). The code lists can be found under `phenotyping`.
+We used validated and published code lists from the [HDR UK Phenotype Library]() and peer-reviewed publications (e.g., [Mukherjee et al., 2024](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00105-4/fulltext)). All code lists used in this project are available in the `phenotyping` folder.
 
-- Phenotyping:
-  - `phenotyping module`:
-    - `codebase_phenotyping`: includes functions for extracting event dates, ranking based on date, and keeping the first incident date. 
- -`self_reported_phenotyping`: functions to extract relevant fields from the [self-reported conditions field](https://biobank.ndph.ox.ac.uk/ukb/field.cgi?id=20002).
+- Phenotyping (code lists):
+  - `phenotyping`
+    - `codebase_phenotyping`: includes functions to extract event dates, rank events by date, and retain the first incident date.
+  - `self_reported_phenotyping`: includes functions to extract relevant information from the [self-reported conditions field](https://biobank.ndph.ox.ac.uk/ukb/field.cgi?id=20002).
 
-  - `2_data_preparation_notebooks/b1_codelist_maker_updated.ipynb`: loads and cleans the code-lists. 
+  - `2_data_preparation_notebooks/b1_codelist_maker_updated.ipynb`: loads and processes the code lists.
 
 - Cohort creation:
-The following notebooks are used to create the base cohort:
-  - `2_data_preparation_notebooks/c1_make_cohort_dask_based.ipynb`: Creates the base cohort based on Dask
-  
+The following notebooks are used to build the base cohort:
+  - `2_data_preparation_notebooks/c1_make_cohort_dask_based.ipynb`: creates the base cohort using a single-node [Dask](https://github.com/dask/dask).
+  - `2_data_preparation_notebooks/c2_advanced_cohort_dask_based.ipynb`: extends the base cohort by adding additional fields.
 
+- Phenotype extraction: 
+Example phenotype extraction notebooks for asthma, hypertension, stroke, and Acute Myocardial Infarction (AMI) are available in the `2_data_preparation_notebooks` directory.
 
-## 3. Cohort preparation
+## 3. Final analysis
 
-## 4. Final analysis
+The `3_final_analysis` directory includes notebooks for preprocessing, feature engineering, and the final analytical steps:
 
+- `01_Data_preprocess.ipynb`: handles data preprocessing and feature engineering, including multiple imputation for missing values.
+- `02_Descriptive_and_outlier.ipynb`: performs descriptive analysis and identifies outliers.
+- `05_compare_adjusted_models`: Sensitivity analysis for choosing cthe ovariates for logistic regression. 
+- `10_adjusted_0747`: conducts a differentially private adjusted case-control analysis of risk factors for the outcome of interest (one-year asthma exacerbation) using random seeds `07` and `47`.
+- `11_matched_0747`: performs a differentially private, propensity score-matched case-control analysis for the same outcome, using K-Nearest Neighbour matching without replacement.
+- `12_unadjusted_0747`: runs a differentially private unadjusted case-control analysis using a 2x2 contingency table based on diffprivlib’s [histogram2d](https://diffprivlib.readthedocs.io/en/latest/modules/tools.html#diffprivlib.tools.histogram2d)
