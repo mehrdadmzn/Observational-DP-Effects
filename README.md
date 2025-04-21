@@ -5,14 +5,14 @@ Observational studies refer to the use of healthcare data, including electronic 
 
 # UK Biobank data
 
-The UK Biobank is a biomedical database (https://www.ukbiobank.ac.uk/enable-your-research/about-our-data) containing information on 500,000 participants. It includes baseline assessments, questionnaires, physical measurements, disease histories, imaging data, genetic information, and linked healthcare records (including primary care and hospital data). The UK Biobank Showcase (https://biobank.ndph.ox.ac.uk/showcase/) provides detailed information about available resources and fields.
+The UK Biobank is a [biomedical database](https://www.ukbiobank.ac.uk/enable-your-research/about-our-data) containing information on 500,000 participants. It includes baseline assessments, questionnaires, physical measurements, disease histories, imaging data, genetic information, and linked healthcare records (including primary care and hospital data). The [UK Biobank Showcase](https://biobank.ndph.ox.ac.uk/showcase/) provides detailed information about available resources and fields.
 
 The data is accessible to approved researchers and projects. Previously, researchers were allowed to download the data to secure local systems for analysis. Currently, access is limited to the cloud-based UK Biobank Research Analysis Platform (RAP) (https://www.ukbiobank.ac.uk/enable-your-research/research-analysis-platform).
 
 This project was conducted during the period when local data downloads were permitted. The provided code can still be adapted for use within RAP.
 
 # Differential privacy (DP)
-We used IBM's [diffprivlib](http://diffprivlib.readthedocs.io/en/latest/index.html) library to apply DP on [logistic regression](https://diffprivlib.readthedocs.io/en/latest/modules/models.html#logistic-regression). The logistic regression results were used to find the odds ratio (OR) of risk factors. 
+We used IBM's [Diffprivlib](http://diffprivlib.readthedocs.io/en/latest/index.html) library to apply DP on [logistic regression](https://diffprivlib.readthedocs.io/en/latest/modules/models.html#logistic-regression). The logistic regression results were used to find the odds ratio (OR) of risk factors. 
 
 
 # Step by step guide to the packages and Jupyter notebooks
@@ -45,7 +45,7 @@ These include:
 
 We derived diagnostic and medication-related phenotypes from the [linked primary care and hospital inpatient data](https://www.ukbiobank.ac.uk/enable-your-research/about-our-data/health-related-outcomes-data). Diagnostic codes in primary care are based on Read v2 and CTV3 terminologies, while prescribed medications use BNF codes of varying lengths. Hospital inpatient diagnoses are recorded using ICD-10 codes.
 
-We used validated and published code lists from the [HDR UK Phenotype Library]() and peer-reviewed publications (e.g., [Mukherjee et al., 2024](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00105-4/fulltext)). All code lists used in this project are available in the `phenotyping` folder.
+We used validated and published code lists from the [HDR UK Phenotype Library](https://phenotypes.healthdatagateway.org/) and peer-reviewed publications (e.g., [Mukherjee et al., 2024](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00105-4/fulltext)). All code lists used in this project are available in the `phenotyping` folder.
 
 - Phenotyping (code lists):
   - `phenotyping`
@@ -68,7 +68,7 @@ The `3_final_analysis` directory includes notebooks for preprocessing, feature e
 
 - `01_Data_preprocess.ipynb`: handles data preprocessing and feature engineering, including multiple imputation for missing values.
 - `02_Descriptive_and_outlier.ipynb`: performs descriptive analysis and identifies outliers.
-- `05_compare_adjusted_models`: Sensitivity analysis for choosing cthe ovariates for logistic regression. 
+- `05_compare_adjusted_models`: Sensitivity analysis for choosing the covariates for logistic regression. 
 - `10_adjusted_0747`: conducts a differentially private adjusted case-control analysis of risk factors for the outcome of interest (one-year asthma exacerbation) using random seeds `07` and `47`.
 - `11_matched_0747`: performs a differentially private, propensity score-matched case-control analysis for the same outcome, using K-Nearest Neighbour matching without replacement.
-- `12_unadjusted_0747`: runs a differentially private unadjusted case-control analysis using a 2x2 contingency table based on diffprivlib’s [histogram2d](https://diffprivlib.readthedocs.io/en/latest/modules/tools.html#diffprivlib.tools.histogram2d)
+- `12_unadjusted_0747`: runs a differentially private unadjusted case-control analysis using a 2x2 contingency table based on Diffprivlib’s [histogram2d](https://diffprivlib.readthedocs.io/en/latest/modules/tools.html#diffprivlib.tools.histogram2d)
