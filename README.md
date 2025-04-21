@@ -7,7 +7,7 @@ Observational studies refer to the use of healthcare data, including electronic 
 
 The UK Biobank is a [biomedical database](https://www.ukbiobank.ac.uk/enable-your-research/about-our-data) containing information on 500,000 participants. It includes baseline assessments, questionnaires, physical measurements, disease histories, imaging data, genetic information, and linked healthcare records (including primary care and hospital data). The [UK Biobank Showcase](https://biobank.ndph.ox.ac.uk/showcase/) provides detailed information about available resources and fields.
 
-The data is accessible to approved researchers and projects. Previously, researchers were allowed to download the data to secure local systems for analysis. Currently, access is limited to the cloud-based UK Biobank Research Analysis Platform (RAP) (https://www.ukbiobank.ac.uk/enable-your-research/research-analysis-platform).
+The data is accessible to approved researchers and projects. Previously, researchers were allowed to download the data to secure local systems for analysis. Currently, access is limited to the cloud-based UK Biobank [Research Analysis Platform (RAP)](https://www.ukbiobank.ac.uk/enable-your-research/research-analysis-platform).
 
 This project was conducted during the period when local data downloads were permitted. The provided code can still be adapted for use within RAP.
 
