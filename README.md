@@ -50,9 +50,8 @@ We used validated and published code lists from the [HDR UK Phenotype Library](h
 - Phenotyping (code lists):
   - `phenotyping`
     - `codebase_phenotyping`: includes functions to extract event dates, rank events by date, and retain the first incident date.
-  - `self_reported_phenotyping`: includes functions to extract relevant information from the [self-reported conditions field](https://biobank.ndph.ox.ac.uk/ukb/field.cgi?id=20002).
-
-  - `2_data_preparation_notebooks/b1_codelist_maker_updated.ipynb`: loads and processes the code lists.
+    - `self_reported_phenotyping`: includes functions to extract relevant information from the [self-reported conditions field](https://biobank.ndph.ox.ac.uk/ukb/field.cgi?id=20002).
+    - `2_data_preparation_notebooks/b1_codelist_maker_updated.ipynb`: loads and processes the code lists.
 
 - Cohort creation:
 The following notebooks are used to build the base cohort:
